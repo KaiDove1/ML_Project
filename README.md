@@ -1,20 +1,23 @@
-# ML_Project
+# Selective Pesticide & Fertilizer Application for Stormwater Runoff Mitigation
 
-Workflow
-1. Data Collection
-Gather regional and satellite data on agricultural practices and runoff impact from the data sources listed above.
-Organize data in the data/raw/ directory, ensuring consistency in formats and resolutions.
-2. Data Processing
-Image Processing: Pre-process satellite or field images to highlight plant health indicators. Consider using vegetation indices or color segmentation.
-Feature Engineering: Extract features relevant to plant health and create labels based on the presence of healthy vs. unhealthy vegetation.
-Use src/data_preprocessing.py to convert raw data into a model-friendly format and save processed data in data/processed/.
-3. Model Training
-Implement and train a simple convolutional neural network (CNN) to detect plant health based on processed image data.
-Define a binary classification task: “Needs Treatment” vs. “No Treatment Needed.”
-Use src/model_training.py to build, train, and save the model.
-4. Model Evaluation
-Evaluate model performance using metrics like accuracy, precision, and recall to assess its effectiveness in detecting plant health needs.
-Run src/model_evaluation.py to generate and store evaluation results.
-Future Directions
-Integrate with IoT sensors on agricultural sprayers for real-time detection and automated pesticide/fertilizer application control.
-Experiment with more complex models or custom datasets for specific crop types or regions.
+## Project Overview
+Stormwater runoff in Virginia, primarily from excess pesticide and fertilizer application, poses significant threats to local ecosystems. This project aims to reduce runoff by creating a machine learning (ML) solution that selectively applies pesticides and fertilizers only when necessary. Using image recognition, this solution identifies plant health and disables application if treatment is unnecessary, optimizing resources and minimizing environmental impact.
+
+## Table of Contents
+- [Data Sources](#data-sources)
+- [Project Structure](#project-structure)
+- [Setup and Requirements](#setup-and-requirements)
+- [Workflow](#workflow)
+  - [1. Data Collection](#1-data-collection)
+  - [2. Data Processing](#2-data-processing)
+  - [3. Model Training](#3-model-training)
+  - [4. Model Evaluation](#4-model-evaluation)
+- [Future Directions](#future-directions)
+- [Contributors](#contributors)
+
+## Data Sources
+- **Chesapeake Bay Program**: [Agricultural Runoff Data](https://www.chesapeakebay.net/issues/threats-to-the-bay/agricultural-runoff)
+- **Satellite Image Time Series Dataset**: [GitHub Repository](https://github.com/corentin-dfg/Satellite-Image-Time-Series-Datasets?tab=readme-ov-file)
+- **USDA NASS Data and Statistics**: [USDA NASS](https://www.nass.usda.gov/Data_and_Statistics/)
+
+## Project Structure
