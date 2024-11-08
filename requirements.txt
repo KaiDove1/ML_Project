@@ -4,3 +4,6 @@ click
 Pillow
 numpy
 tifffile
+tqdm
+torch
+torchvision
