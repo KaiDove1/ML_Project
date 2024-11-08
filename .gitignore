@@ -3,3 +3,6 @@ env
 data/satellite_images
 **/.DS_Store
 **/__pycache__
+
+# Service account key.
+*.json
