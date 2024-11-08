@@ -1,6 +1,8 @@
+import json
 import os
 from datetime import datetime
 
+import click
 import ee
 import geemap
 import numpy as np
@@ -153,25 +155,43 @@ def download_region(bbox: list[float], output_dir: str):
     return paths
 
 
-def download_counties(state: str):
-    counties = load_counties_by_state()[state]
+@click.command()
+@click.option(
+    "--state",
+    help="State to download counties for. Leaving this empty will download for all states.",
+)
+@click.option(
+    "--county",
+    help="County to download satellite imagery for. Leaving this empty will download for all counties.",
+)
+def downloader(state: str | None, county: str | None):
+    counties_by_state = load_counties_by_state()
 
-    for county in counties:
-        print(county)
+    states = [state] if state else list(counties_by_state.keys())
+    for state in states:
+        print(f"Running downloader for state '{state}' ...")
 
-        if county["name"] == "Fairfax":
-            county_name_slug = county["name"].replace(" ", "_").lower()
-            state_name_slug = state.replace(" ", "_").lower()
+        counties = counties_by_state[state]
+        for county_ in counties:
+            if county is None or county_["name"] == county:
+                print(
+                    f"Downloading satellite imagery for county '{county_['name']}' ..."
+                )
 
-            paths = download_region(
-                county["bbox"],
-                f"data/satellite_images/{state_name_slug}/{county_name_slug}",
-            )
+                county_name_slug = county_["name"].replace(" ", "_").lower()
+                state_name_slug = state.replace(" ", "_").lower()
 
-            print(paths)
+                paths = download_region(
+                    county_["bbox"],
+                    f"data/satellite_images/{state_name_slug}/{county_name_slug}",
+                )
 
-            break
+                with open(
+                    f"data/satellite_images/{state_name_slug}/{county_name_slug}_metadata.json",
+                    "w",
+                ) as f:
+                    json.dump({"county": county_["name"], "paths": paths}, f)
 
 
 if __name__ == "__main__":
-    download_counties("Virginia")
+    downloader()

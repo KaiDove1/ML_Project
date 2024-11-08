@@ -1,2 +1,6 @@
 earthengine-api
 geemap
+click
+Pillow
+numpy
+tifffile

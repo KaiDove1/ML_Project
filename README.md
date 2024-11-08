@@ -29,3 +29,12 @@ export GOOGLE_APPLICATION_CREDENTIALS=<path-to-service-account-json>.json
 5. Run `gcloud config set project ee-myfatemi04`.
 6. Run `gcloud auth login`.
 7. Run `earthengine authenticate`.
+
+### Testing the Satellite Imagery Downloader
+
+Run the following command:
+```bash
+python -m project.satellite_imagery.download --state Virginia --county Fairfax
+```
+
+This will download data to the folder `data/satellite_images/virginia/fairfax`. You can view the `render_rgb.png` and `render_elevation.png` files. NOTE: There is still some weird bug with downloading elevation data.
