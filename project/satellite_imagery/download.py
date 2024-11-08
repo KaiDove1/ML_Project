@@ -1,9 +1,14 @@
+import os
+from datetime import datetime
+
 import ee
 import geemap
-import os
-from datetime import datetime, timedelta
-from typing import Optional
-from project.satellite_imagery.geojson import load_counties_by_state
+import numpy as np
+import PIL.Image
+import tifffile
+
+from .geojson import load_counties_by_state
+from .merge_rgb import merge_rgb
 
 
 def download_bands(
@@ -12,11 +17,11 @@ def download_bands(
     collection_name: str,
     band_names: list[str],
     scale: float,
+    start_date: str,
+    end_date: str,
     *,
     cloud_cover_property: str | None = "CLOUDY_PIXEL_PERCENTAGE",
-    cloud_cover_threshold: float = 20,
-    start_date: Optional[str] = None,
-    end_date: Optional[str] = None,
+    cloud_cover_threshold: float = 0.2,
 ) -> dict[str, str]:
     """
     Download satellite imagery from Google Earth Engine for a specified bounding box.
@@ -36,12 +41,6 @@ def download_bands(
     # Create output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)
 
-    # Set default dates if not provided
-    if not end_date:
-        end_date = datetime.now().strftime("%Y-%m-%d")
-    if not start_date:
-        start_date = (datetime.now() - timedelta(days=365)).strftime("%Y-%m-%d")
-
     # Create geometry from bounding box
     geometry = ee.geometry.Geometry.Rectangle(bbox)
 
@@ -55,11 +54,10 @@ def download_bands(
         collection = collection.filter(
             ee.filter.Filter.lt(cloud_cover_property, cloud_cover_threshold)
         )
+        # # Get the least cloudy image
+        # image: ee.image.Image = collection.sort(cloud_cover_property).first()
 
-        # Get the least cloudy image
-        image: ee.image.Image = collection.sort(cloud_cover_property).first()
-    else:
-        image: ee.image.Image = collection.first()
+    image: ee.image.Image = collection.first()
 
     if image is None:
         raise ValueError("No images found for the specified criteria.")
@@ -70,9 +68,10 @@ def download_bands(
         band_image = image.select(band_name)
         filename = os.path.join(
             output_dir,
-            f"{collection_name.replace('/', '_')}_{start_date}_to_{end_date}_{band_name}.tif",
+            f"{collection_name.replace('/', '_')}_{start_date}_to_{end_date}.tif",
         )
-        filenames[band_name] = filename
+        # For some reason, they modify the filename.
+        filenames[band_name] = f"{filename[:-4]}.{band_name}.tif"
         geemap.ee_export_image(
             band_image,
             filename=filename,
@@ -91,18 +90,30 @@ def download_region(bbox: list[float], output_dir: str):
     result = download_bands(
         bbox,
         output_dir,
-        "LANDSAT/LC09/C02/T1_L2",
-        band_names=["SR_B4", "SR_B3", "SR_B2"],
+        "LANDSAT/LC09/C02/T1",
+        band_names=["B4", "B3", "B2"],
         scale=30,
         cloud_cover_property="CLOUD_COVER",
+        cloud_cover_threshold=0.2,
+        start_date="2015-01-01",
+        end_date=datetime.strftime(datetime.now(), "%Y-%m-%d"),
     )
-    paths["red"] = result["SR_B4"]
-    paths["green"] = result["SR_B3"]
-    paths["blue"] = result["SR_B2"]
+    paths["red"] = result["B4"]
+    paths["green"] = result["B3"]
+    paths["blue"] = result["B2"]
+
+    # Now, we can create a combined RGB image.
+    merge_rgb(
+        paths["red"],
+        paths["green"],
+        paths["blue"],
+        sensor_max=30000,
+    ).save(os.path.join(output_dir, "render_rgb.png"))
 
     # Elevation.
     result = download_bands(
         bbox,
+        # [bbox[0], bbox[1], bbox[0] + 0.01, bbox[1] + 0.01],
         output_dir,
         "USGS/3DEP/1m",
         band_names=["elevation"],
@@ -113,6 +124,21 @@ def download_region(bbox: list[float], output_dir: str):
         end_date="2015-01-01",
     )
     paths["elevation"] = result["elevation"]
+
+    # Convert this to .png.
+    paths["elevation_png"] = os.path.join(output_dir, "render_elevation.png")
+
+    # NOTE that the elevation is stored as floating-point values.
+    # Therefore, the png file is just for us to inspect.
+    with tifffile.TiffFile(paths["elevation"]) as tif:
+        elevation_data = tif.asarray()
+
+    elevation_data_scaled = elevation_data - elevation_data.min()
+    elevation_data_scaled = elevation_data_scaled / elevation_data_scaled.max()
+
+    PIL.Image.fromarray((255 * elevation_data_scaled).astype(np.uint8)).save(
+        paths["elevation_png"]
+    )
 
     # Lithography.
     # result = download_bands(
