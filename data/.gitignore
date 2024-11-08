@@ -1,4 +1,4 @@
 **/*.png
 **/*.tif
-satellite_images/**/*.json
-patch_features
+**/*.pt
+satellite_images

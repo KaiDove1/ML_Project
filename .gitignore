@@ -1,6 +1,5 @@
 .env
 env
-data/satellite_images
 **/.DS_Store
 **/__pycache__
 

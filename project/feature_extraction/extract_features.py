@@ -53,6 +53,9 @@ def main():
     model = resnet18(weights=ResNet18_Weights.IMAGENET1K_V1)
     model.eval()
 
+    # Cut off the last layer.
+    model.fc = torch.nn.Identity()  # type: ignore
+
     counties = list((DATA_PATH / "patches" / "virginia").iterdir())
 
     for county in tqdm.tqdm(counties, desc="Extracting features"):
