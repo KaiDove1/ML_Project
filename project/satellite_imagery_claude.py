@@ -61,7 +61,6 @@ def download_ee_imagery(
             ],
             "cloud_property": "CLOUDY_PIXEL_PERCENTAGE",
             "scale": 10,  # 10 meters per pixel for most bands
-            "vis_params": {"min": 0, "max": 3000},
         },
         "LANDSAT/LC09/C02/T1_L2": {
             "rgb_bands": ["SR_B4", "SR_B3", "SR_B2"],
@@ -76,7 +75,6 @@ def download_ee_imagery(
             ],
             "cloud_property": "CLOUD_COVER",
             "scale": 30,  # 30 meters per pixel
-            "vis_params": {"min": 0, "max": 30000},
         },
         "MODIS/006/MOD09GA": {
             "rgb_bands": ["sur_refl_b01", "sur_refl_b04", "sur_refl_b03"],
@@ -91,7 +89,6 @@ def download_ee_imagery(
             ],
             "cloud_property": "state_1km",  # MODIS uses a different cloud masking approach
             "scale": 500,  # 500 meters per pixel
-            "vis_params": {"min": -100, "max": 16000},
         },
     }
 
@@ -132,8 +129,6 @@ def download_ee_imagery(
     # Export RGB composite
     rgb_image = image.select(collection_config["rgb_bands"])
 
-    # Set visualization parameters for the RGB export
-    vis_params = collection_config["vis_params"]
     rgb_filename = os.path.join(
         output_dir,
         f'{collection_name.replace("/", "_")}_{start_date}_to_{end_date}_rgb.tif',
@@ -167,34 +162,3 @@ def download_ee_imagery(
                 file_per_band=True,
             )
             print(f"Band {band} downloaded to: {band_filename}")
-
-
-# Example usage
-if __name__ == "__main__":
-    # Example bounding box for San Francisco
-    bbox = [-122.51, 37.71, -122.35, 37.83]
-
-    # Set output directory
-    output_dir = "satellite_images"
-
-    # Download Sentinel-2 imagery
-    download_ee_imagery(
-        bbox=bbox,
-        output_dir=output_dir,
-        collection_name="COPERNICUS/S2_SR",
-        start_date="2024-01-01",
-        end_date="2024-01-31",
-        cloud_cover_threshold=20,
-        export_separate_bands=True,
-    )
-
-    # Download Landsat 9 imagery
-    download_ee_imagery(
-        bbox=bbox,
-        output_dir=output_dir,
-        collection_name="LANDSAT/LC09/C02/T1_L2",
-        start_date="2024-01-01",
-        end_date="2024-01-31",
-        cloud_cover_threshold=20,
-        export_separate_bands=True,
-    )
