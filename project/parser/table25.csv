@@ -1,13 +1,6 @@
-crop_type,geographic_area,2022_farms,2022_acres,2022_quantity,2022_irrigated_farms,2022_irrigated_acres,2017_farms,2017_acres,2017_quantity,2017_irrigated_farms,2017_irrigated_acres
-CANOLA (POUNDS),State Total,,,,,,,,,,
-CANOLA (POUNDS),Virginia,3,(D),33366,,,2,(D),(D),1,(D)
-CANOLA (POUNDS),Northumberland,,,,,,,1,(D),(D),,
-CANOLA (POUNDS),Rockingham,1,(D),(D),,,1,(D),(D),1,(D)
-CANOLA (POUNDS),Shenandoah,2,(D),(D),,,,,,,,
-CORN FOR GRAIN (BUSHELS),State Total,,,,,,,,,,
-CORN FOR GRAIN (BUSHELS),Virginia,2448,384337,59708380,119,15093,2548,378073,53849390,129,14677
-CORN FOR GRAIN (BUSHELS),Accomack,50,22155,3074692,5,2087,52,18890,3219578,7,2245
-CORN FOR GRAIN (BUSHELS),Albemarle,15,968,133380,3,7,16,1449,165839,,
+crop_type,geographic_area,2022_farms,2022_acres,2022_quantity,2022_irrigated_farms,2022_irrigated_acres,2017_farms,2017_acres,2017_quantity,2017_irrigated_farms,2017_irrigated_acres,
+CORN FOR GRAIN (BUSHELS),Accomack,50,22155,3074692,5,2087,52,18890,3219578,7,2245,
+CORN FOR GRAIN (BUSHELS),Albemarle,15,968,133380,3,7,16,1449,165839,,,
 CORN FOR GRAIN (BUSHELS),Alleghany,1,(D),(D),,,,10,146,19408,,
 CORN FOR GRAIN (BUSHELS),Amelia,30,4277,607251,,,,41,4371,570992,,
 CORN FOR GRAIN (BUSHELS),Amherst,1,(D),(D),,,,1,(D),(D),,

@@ -1,0 +1,723 @@
+crop,county,harvested_farms_2022,harvested_acres_2022,harvested_quantity_2022,irrigated_farms_2022,irrigated_acres_2022,harvested_farms_2017,harvested_acres_2017,harvested_quantity_2017,irrigated_farms_2017,irrigated_acres_2017
+ Austrian Winter Peas (Cwt),Rockingham,0,0,0,0,0,1,NA,NA,0,0
+Barley For Grain (Bushels),Accomack,0,0,0,0,0,4,592,28602,0,0
+Barley For Grain (Bushels),Albemarle,2,NA,NA,0,0,0,0,0,0,0
+Barley For Grain (Bushels),Amelia,5,385,27600,0,0,9,432,35843,0,0
+Barley For Grain (Bushels),Appomattox,0,0,0,0,0,1,NA,NA,0,0
+Barley For Grain (Bushels),Augusta,26,1636,140424,0,0,33,734,58050,1,NA
+Barley For Grain (Bushels),Bath,2,NA,NA,0,0,0,0,0,0,0
+Barley For Grain (Bushels),Bedford,1,NA,NA,0,0,3,91,6660,0,0
+Barley For Grain (Bushels),Botetourt,1,NA,NA,0,0,0,0,0,0,0
+Barley For Grain (Bushels),Brunswick,1,NA,NA,0,0,0,0,0,0,0
+Barley For Grain (Bushels),Buckingham,1,NA,NA,0,0,0,0,0,0,0
+Barley For Grain (Bushels),Campbell,4,165,9351,0,0,2,NA,NA,0,0
+Barley For Grain (Bushels),Caroline,6,398,25553,0,0,3,NA,NA,0,0
+Barley For Grain (Bushels),Charles City,1,NA,NA,1,NA,0,0,0,0,0
+Barley For Grain (Bushels),Charlotte,0,0,0,0,0,1,NA,NA,0,0
+Barley For Grain (Bushels),Chesterfield,0,0,0,0,0,2,NA,NA,0,0
+Barley For Grain (Bushels),Clarke,3,130,NA,0,0,4,52,3199,0,0
+Barley For Grain (Bushels),Culpeper,4,459,38930,0,0,3,602,NA,0,0
+Barley For Grain (Bushels),Dinwiddie,1,NA,NA,0,0,1,NA,NA,0,0
+Barley For Grain (Bushels),Essex,3,NA,NA,1,NA,6,1270,86910,1,NA
+Barley For Grain (Bushels),Fairfax,1,NA,NA,0,0,0,0,0,0,0
+Barley For Grain (Bushels),Fauquier,7,715,52600,0,0,9,977,58666,0,0
+Barley For Grain (Bushels),Floyd,2,NA,NA,0,0,0,0,0,0,0
+Barley For Grain (Bushels),Fluvanna,0,0,0,0,0,1,NA,NA,0,0
+Barley For Grain (Bushels),Franklin,8,516,36239,0,0,6,632,34176,0,0
+Barley For Grain (Bushels),Frederick,3,6,393,0,0,0,0,0,0,0
+Barley For Grain (Bushels),Gloucester,0,0,0,0,0,1,NA,NA,0,0
+Barley For Grain (Bushels),Greene,0,0,0,0,0,6,48,2400,0,0
+Barley For Grain (Bushels),Hanover,6,676,55423,0,0,6,889,69487,0,0
+Barley For Grain (Bushels),Highland,0,0,0,0,0,1,NA,NA,0,0
+Barley For Grain (Bushels),King and Queen,0,0,0,0,0,1,NA,NA,0,0
+Barley For Grain (Bushels),King William,1,NA,NA,0,0,1,NA,NA,0,0
+Barley For Grain (Bushels),Lancaster,0,0,0,0,0,2,NA,NA,0,0
+Barley For Grain (Bushels),Lee,2,NA,NA,0,0,0,0,0,0,0
+Barley For Grain (Bushels),Loudoun,2,NA,NA,0,0,2,NA,NA,0,0
+Barley For Grain (Bushels),Louisa,2,NA,NA,0,0,2,NA,NA,0,0
+Barley For Grain (Bushels),Madison,6,234,18685,0,0,7,582,29595,0,0
+Barley For Grain (Bushels),Mecklenburg,1,NA,NA,0,0,0,0,0,0,0
+Barley For Grain (Bushels),Middlesex,2,NA,NA,1,NA,1,NA,NA,0,0
+Barley For Grain (Bushels),Montgomery,3,102,7892,0,0,4,95,7200,1,NA
+Barley For Grain (Bushels),New Kent,0,0,0,0,0,1,NA,NA,0,0
+Barley For Grain (Bushels),Northampton,1,NA,NA,0,0,1,NA,NA,0,0
+Barley For Grain (Bushels),Northumberland,4,515,46544,0,0,4,130,8976,0,0
+Barley For Grain (Bushels),Nottoway,1,NA,NA,0,0,1,NA,NA,0,0
+Barley For Grain (Bushels),Orange,7,290,23220,0,0,5,427,31354,0,0
+Barley For Grain (Bushels),Page,12,347,22427,0,0,27,671,46012,0,0
+Barley For Grain (Bushels),Pittsylvania,8,448,36549,2,NA,8,653,40055,0,0
+Barley For Grain (Bushels),Powhatan,0,0,0,0,0,1,NA,NA,0,0
+Barley For Grain (Bushels),Prince Edward,1,NA,NA,0,0,1,NA,NA,0,0
+Barley For Grain (Bushels),Prince William,0,0,0,0,0,1,NA,NA,0,0
+Barley For Grain (Bushels),Richmond,5,156,14784,0,0,4,259,20371,0,0
+Barley For Grain (Bushels),Rockbridge,3,125,NA,0,0,4,89,5540,0,0
+Barley For Grain (Bushels),Rockingham,24,749,50756,1,NA,34,570,43494,2,NA
+Barley For Grain (Bushels),Russell,0,0,0,0,0,1,NA,NA,0,0
+Barley For Grain (Bushels),Scott,3,130,NA,0,0,0,0,0,0,0
+Barley For Grain (Bushels),Shenandoah,18,480,37516,0,0,25,633,48729,0,0
+Barley For Grain (Bushels),Spotsylvania,0,0,0,0,0,3,204,12305,0,0
+Barley For Grain (Bushels),Stafford,1,NA,NA,0,0,0,0,0,0,0
+Barley For Grain (Bushels),Surry,1,NA,NA,0,0,0,0,0,0,0
+Barley For Grain (Bushels),Warren,0,0,0,0,0,1,NA,NA,0,0
+Barley For Grain (Bushels),Westmoreland,7,715,63663,2,NA,7,745,67338,1,NA
+Buckwheat (Bushels),Chesterfield,0,0,0,0,0,1,NA,NA,0,0
+Buckwheat (Bushels),Loudoun,1,NA,NA,0,0,0,0,0,0,0
+Buckwheat (Bushels),Powhatan,0,0,0,0,0,1,NA,NA,0,0
+Canola (Pounds),Northumberland,0,0,0,0,0,1,NA,NA,0,0
+Canola (Pounds),Rockingham,1,NA,NA,0,0,1,NA,NA,1,NA
+Canola (Pounds),Shenandoah,2,NA,NA,0,0,0,0,0,0,0
+Corn For Grain (Bushels),Accomack,50,22155,3074692,5,2087,52,18890,3219578,7,2245
+Corn For Grain (Bushels),Albemarle,15,968,133380,3,7,16,1449,165839,0,0
+Corn For Grain (Bushels),Alleghany,1,NA,NA,0,0,10,146,19408,0,0
+Corn For Grain (Bushels),Amelia,30,4277,607251,0,0,41,4371,570992,0,0
+Corn For Grain (Bushels),Amherst,1,NA,NA,0,0,1,NA,NA,0,0
+Corn For Grain (Bushels),Appomattox,11,1132,151613,0,0,16,534,64870,0,0
+Corn For Grain (Bushels),Augusta,187,15862,2577825,1,NA,187,19130,3018206,4,334
+Corn For Grain (Bushels),Bath,3,52,6984,0,0,6,299,34444,0,0
+Corn For Grain (Bushels),Bedford,16,1475,205144,0,0,7,488,62986,1,NA
+Corn For Grain (Bushels),Bland,8,369,55210,2,NA,5,NA,NA,0,0
+Corn For Grain (Bushels),Botetourt,12,1593,280945,0,0,21,1602,210263,0,0
+Corn For Grain (Bushels),Brunswick,3,212,NA,0,0,9,1012,130024,5,603
+Corn For Grain (Bushels),Buchanan,3,NA,NA,0,0,1,NA,NA,0,0
+Corn For Grain (Bushels),Buckingham,17,1399,228545,0,0,16,1432,143717,0,0
+Corn For Grain (Bushels),Campbell,11,572,61183,0,0,21,755,73352,0,0
+Corn For Grain (Bushels),Caroline,35,13092,1947844,3,656,24,11788,1771103,6,1460
+Corn For Grain (Bushels),Carroll,4,NA,NA,1,NA,4,NA,NA,0,0
+Corn For Grain (Bushels),Charles City,15,7664,1326846,5,471,14,7063,946445,2,NA
+Corn For Grain (Bushels),Charlotte,29,2376,306539,1,NA,34,1792,182295,0,0
+Corn For Grain (Bushels),Chesterfield,8,372,53107,0,0,6,436,59394,0,0
+Corn For Grain (Bushels),Clarke,14,1254,196397,0,0,17,2533,398021,0,0
+Corn For Grain (Bushels),Craig,6,185,19114,0,0,8,319,45174,1,NA
+Corn For Grain (Bushels),Culpeper,29,5620,1073927,0,0,32,9122,1305479,0,0
+Corn For Grain (Bushels),Cumberland,4,809,117590,0,0,19,734,65248,6,12
+Corn For Grain (Bushels),Dickenson,8,19,1360,0,0,1,NA,NA,0,0
+Corn For Grain (Bushels),Dinwiddie,32,5964,822697,6,146,21,5564,749839,4,603
+Corn For Grain (Bushels),Essex,44,16851,2934697,2,NA,29,16994,2119953,1,NA
+Corn For Grain (Bushels),Fairfax,1,NA,NA,0,0,4,14,1200,2,NA
+Corn For Grain (Bushels),Fauquier,37,5386,928707,5,5,46,8116,1232774,5,15
+Corn For Grain (Bushels),Floyd,8,103,18210,0,0,6,242,20850,0,0
+Corn For Grain (Bushels),Fluvanna,12,1268,198161,0,0,4,NA,NA,0,0
+Corn For Grain (Bushels),Franklin,61,6179,707412,0,0,75,4660,579304,0,0
+Corn For Grain (Bushels),Frederick,30,3333,531211,0,0,46,4044,577315,1,NA
+Corn For Grain (Bushels),Giles,8,150,14820,0,0,10,60,6975,0,0
+Corn For Grain (Bushels),Gloucester,33,5281,796637,0,0,19,5400,664051,0,0
+Corn For Grain (Bushels),Goochland,10,3914,812310,0,0,13,2521,253260,0,0
+Corn For Grain (Bushels),Grayson,10,2860,232094,1,NA,5,135,14910,0,0
+Corn For Grain (Bushels),Greene,3,NA,NA,0,0,1,NA,NA,0,0
+Corn For Grain (Bushels),Greensville,18,2101,303604,1,NA,24,1616,167069,1,NA
+Corn For Grain (Bushels),Halifax,47,3820,481461,2,NA,28,1611,162017,0,0
+Corn For Grain (Bushels),Hanover,39,12366,1914676,5,1301,50,13298,1488310,7,1321
+Corn For Grain (Bushels),Henrico,12,1709,235190,0,0,6,1657,232380,1,NA
+Corn For Grain (Bushels),Henry,5,40,3600,0,0,0,0,0,0,0
+Corn For Grain (Bushels),Highland,1,NA,NA,0,0,2,NA,NA,0,0
+Corn For Grain (Bushels),Isle of Wight,59,11153,1415323,4,217,49,10598,1589318,4,534
+Corn For Grain (Bushels),James City,2,NA,NA,0,0,2,NA,NA,0,0
+Corn For Grain (Bushels),King and Queen,33,12284,1914432,3,927,34,12347,1510053,3,NA
+Corn For Grain (Bushels),King George,15,1382,240211,0,0,15,3426,496958,0,0
+Corn For Grain (Bushels),King William,33,10416,1730964,6,594,18,8813,1259893,3,NA
+Corn For Grain (Bushels),Lancaster,13,2552,481952,0,0,23,5102,772804,0,0
+Corn For Grain (Bushels),Lee,47,480,44275,0,0,75,1003,114988,0,0
+Corn For Grain (Bushels),Loudoun,25,4032,687670,2,NA,28,5965,752045,0,0
+Corn For Grain (Bushels),Louisa,16,4607,709452,0,0,16,1911,234913,1,NA
+Corn For Grain (Bushels),Lunenburg,9,1163,115567,0,0,4,1203,NA,0,0
+Corn For Grain (Bushels),Madison,31,6929,1190576,0,0,34,6532,967437,0,0
+Corn For Grain (Bushels),Mathews,2,NA,NA,0,0,6,1076,136149,0,0
+Corn For Grain (Bushels),Mecklenburg,20,1881,244648,2,NA,18,848,100020,1,NA
+Corn For Grain (Bushels),Middlesex,17,4892,838623,2,NA,19,5445,834508,1,NA
+Corn For Grain (Bushels),Montgomery,4,894,100336,0,0,15,1015,144670,0,0
+Corn For Grain (Bushels),Nelson,12,1247,178220,1,NA,10,508,85760,1,NA
+Corn For Grain (Bushels),New Kent,18,4663,816644,2,NA,10,3501,455721,1,NA
+Corn For Grain (Bushels),Northampton,18,4877,732504,6,792,27,7621,1103839,9,673
+Corn For Grain (Bushels),Northumberland,49,16846,2860877,0,0,34,13185,2129092,0,0
+Corn For Grain (Bushels),Nottoway,13,2367,211520,0,0,8,1913,193330,0,0
+Corn For Grain (Bushels),Orange,26,9554,1654045,0,0,15,5281,724836,0,0
+Corn For Grain (Bushels),Page,46,3313,506665,0,0,54,3786,573343,0,0
+Corn For Grain (Bushels),Patrick,11,445,48295,0,0,23,749,100059,0,0
+Corn For Grain (Bushels),Pittsylvania,62,3709,443001,2,NA,32,2405,234482,1,NA
+Corn For Grain (Bushels),Powhatan,8,2556,392855,1,NA,4,1166,133300,1,NA
+Corn For Grain (Bushels),Prince Edward,8,338,47145,0,0,15,467,39842,0,0
+Corn For Grain (Bushels),Prince George,13,4459,705728,2,NA,16,5294,669764,1,NA
+Corn For Grain (Bushels),Prince William,4,447,76050,1,NA,6,926,125208,0,0
+Corn For Grain (Bushels),Pulaski,3,NA,NA,0,0,1,NA,NA,0,0
+Corn For Grain (Bushels),Rappahannock,1,NA,NA,0,0,1,NA,NA,0,0
+Corn For Grain (Bushels),Richmond,31,9289,1712380,0,0,35,8858,1246648,0,0
+Corn For Grain (Bushels),Roanoke,1,NA,NA,0,0,0,0,0,0,0
+Corn For Grain (Bushels),Rockbridge,23,3136,538427,0,0,25,1561,228100,0,0
+Corn For Grain (Bushels),Rockingham,287,19120,3394169,8,730,346,21359,3508328,25,1784
+Corn For Grain (Bushels),Russell,12,88,8756,0,0,30,250,43347,0,0
+Corn For Grain (Bushels),Scott,28,259,35276,0,0,29,281,33722,0,0
+Corn For Grain (Bushels),Shenandoah,117,11069,2008048,0,0,122,10022,1585539,7,380
+Corn For Grain (Bushels),Smyth,21,291,26329,0,0,12,99,14310,0,0
+Corn For Grain (Bushels),Southampton,98,15773,2237807,5,148,91,15561,2375424,7,613
+Corn For Grain (Bushels),Spotsylvania,18,1718,278920,0,0,12,1042,123863,0,0
+Corn For Grain (Bushels),Stafford,8,1420,232824,0,0,13,2891,360005,0,0
+Corn For Grain (Bushels),Surry,35,7701,1151724,9,1091,35,6850,947322,3,275
+Corn For Grain (Bushels),Sussex,30,7759,1118763,1,NA,26,7365,1053323,3,362
+Corn For Grain (Bushels),Tazewell,1,NA,NA,0,0,2,NA,NA,0,0
+Corn For Grain (Bushels),Warren,3,223,23917,0,0,3,360,62740,0,0
+Corn For Grain (Bushels),Washington,36,470,50397,7,19,28,340,46998,0,0
+Corn For Grain (Bushels),Westmoreland,38,8553,1459287,5,456,39,8761,1422101,2,NA
+Corn For Grain (Bushels),Wise,3,NA,NA,2,NA,4,97,11430,0,0
+Corn For Grain (Bushels),Wythe,19,5215,502080,0,0,20,1479,191325,0,0
+Corn For Grain (Bushels),Chesapeake City,19,6599,1078685,1,NA,20,6747,1014299,0,0
+Corn For Grain (Bushels),Suffolk,57,8987,1049002,3,21,66,13166,1722885,1,NA
+Corn For Grain (Bushels),Virginia Beach City,14,4728,816738,1,NA,21,5224,1006138,0,0
+"Cotton, All (Bales)",Accomack,2,NA,NA,0,0,1,NA,NA,0,0
+"Cotton, All (Bales)",Brunswick,1,NA,NA,0,0,3,158,288,0,0
+"Cotton, All (Bales)",Charles City,2,NA,NA,0,0,1,NA,NA,0,0
+"Cotton, All (Bales)",Dinwiddie,6,1687,4158,1,NA,7,1578,3554,1,NA
+"Cotton, All (Bales)",Greensville,19,5134,9688,1,NA,37,11079,22582,1,NA
+"Cotton, All (Bales)",Isle of Wight,39,14733,31133,2,NA,45,13316,28508,1,NA
+"Cotton, All (Bales)",Northampton,2,NA,NA,1,NA,3,NA,NA,1,NA
+"Cotton, All (Bales)",Northumberland,0,0,0,0,0,2,NA,NA,0,0
+"Cotton, All (Bales)",Southampton,112,37440,80166,6,566,89,38067,91457,5,281
+"Cotton, All (Bales)",Surry,8,2428,5609,0,0,11,2023,4175,1,NA
+"Cotton, All (Bales)",Sussex,21,8870,22105,1,NA,12,5134,11204,0,0
+"Cotton, All (Bales)",Chesapeake City,1,NA,NA,0,0,0,0,0,0,0
+"Cotton, All (Bales)",Suffolk,41,18067,38417,0,0,36,14449,27775,1,NA
+Upland Cotton (Bales),Accomack,2,NA,NA,0,0,1,NA,NA,0,0
+Upland Cotton (Bales),Brunswick,1,NA,NA,0,0,3,158,288,0,0
+Upland Cotton (Bales),Charles City,2,NA,NA,0,0,1,NA,NA,0,0
+Upland Cotton (Bales),Dinwiddie,6,1687,4158,1,NA,7,1578,3554,1,NA
+Upland Cotton (Bales),Greensville,19,5134,9688,1,NA,37,11079,22582,1,NA
+Upland Cotton (Bales),Isle of Wight,39,14733,31133,2,NA,45,13316,28508,1,NA
+Upland Cotton (Bales),Northampton,2,NA,NA,1,NA,3,NA,NA,1,NA
+Upland Cotton (Bales),Northumberland,0,0,0,0,0,2,NA,NA,0,0
+Upland Cotton (Bales),Southampton,112,37440,80166,6,566,89,38067,91457,5,281
+Upland Cotton (Bales),Surry,8,2428,5609,0,0,11,2023,4175,1,NA
+Upland Cotton (Bales),Sussex,21,8870,22105,1,NA,12,5134,11204,0,0
+Upland Cotton (Bales),Chesapeake City,1,NA,NA,0,0,0,0,0,0,0
+Upland Cotton (Bales),Suffolk,41,18067,38417,0,0,36,14449,27775,1,NA
+"Dry Edible Beans, Excluding Chickpeas And Limas (Cwt)",Accomack,3,NA,150,0,0,0,0,0,0,0
+"Dry Edible Beans, Excluding Chickpeas And Limas (Cwt)",Charlotte,1,NA,NA,0,0,0,0,0,0,0
+"Dry Edible Beans, Excluding Chickpeas And Limas (Cwt)",Chesterfield,0,0,0,0,0,1,NA,NA,0,0
+"Dry Edible Beans, Excluding Chickpeas And Limas (Cwt)",Pittsylvania,0,0,0,0,0,1,NA,NA,0,0
+"Dry Edible Beans, Excluding Chickpeas And Limas (Cwt)",Rockingham,0,0,0,0,0,2,NA,NA,2,NA
+"Dry Edible Beans, Excluding Chickpeas And Limas (Cwt)",Russell,1,NA,NA,0,0,0,0,0,0,0
+"Dry Edible Beans, Excluding Chickpeas And Limas (Cwt)",Scott,0,0,0,0,0,1,NA,NA,0,0
+"Dry Edible Beans, Excluding Chickpeas And Limas (Cwt)",Wise,0,0,0,0,0,2,NA,NA,0,0
+Dry Lima Beans (Cwt),Caroline,0,0,0,0,0,1,NA,NA,0,0
+Dry Lima Beans (Cwt),Westmoreland,1,NA,NA,0,0,1,NA,NA,0,0
+Emmer And Spelt (Bushels),Augusta,0,0,0,0,0,1,NA,NA,0,0
+Emmer And Spelt (Bushels),Westmoreland,1,NA,NA,0,0,0,0,0,0,0
+Hemp For Fiber (Pounds) (See Text),Augusta,2,NA,NA,0,0,NA,NA,NA,NA,NA
+Hemp For Fiber (Pounds) (See Text),Fairfax,1,NA,NA,0,0,NA,NA,NA,NA,NA
+Hemp For Fiber (Pounds) (See Text),Fauquier,1,NA,NA,0,0,NA,NA,NA,NA,NA
+Hemp For Fiber (Pounds) (See Text),Franklin,1,NA,NA,0,0,NA,NA,NA,NA,NA
+Hemp For Fiber (Pounds) (See Text),Halifax,2,NA,NA,0,0,NA,NA,NA,NA,NA
+Hemp For Fiber (Pounds) (See Text),Mecklenburg,2,NA,NA,0,0,NA,NA,NA,NA,NA
+Hemp For Fiber (Pounds) (See Text),Rockingham,5,200,326165,0,0,NA,NA,NA,NA,NA
+Hemp For Fiber (Pounds) (See Text),Shenandoah,2,NA,NA,0,0,NA,NA,NA,NA,NA
+Hemp For Fiber (Pounds) (See Text),Chesapeake City,1,NA,NA,1,NA,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),Amherst,3,NA,60,3,NA,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),Bedford,1,NA,NA,1,NA,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),Campbell,1,NA,NA,0,0,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),Franklin,3,3,2090,2,NA,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),Giles,3,3,3000,3,3,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),Gloucester,5,20,17700,5,20,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),Goochland,12,12,900,0,0,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),King and Queen,4,4,360,0,0,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),Loudoun,6,36,3240,0,0,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),Mathews,4,4,360,0,0,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),Nelson,6,12,240,6,12,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),New Kent,2,NA,NA,0,0,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),Northampton,7,18,2220,7,18,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),Roanoke,1,NA,NA,0,0,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),Rockingham,3,9,6,3,9,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),Surry,1,NA,NA,0,0,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),Warren,6,6,1200,6,6,NA,NA,NA,NA,NA
+Hemp For Floral (Cbd And Other Cannabinoid Usage) (Pounds) (See Text),Washington,1,NA,NA,0,0,NA,NA,NA,NA,NA
+Hemp For Grain (Pounds) (See Text),Loudoun,2,NA,NA,0,0,NA,NA,NA,NA,NA
+Other Hemp Usage (Pounds) (See Text),Accomack,4,NA,80,4,NA,NA,NA,NA,NA,NA
+Other Hemp Usage (Pounds) (See Text),Goochland,6,6,NA,0,0,NA,NA,NA,NA,NA
+Other Hemp Usage (Pounds) (See Text),Nelson,1,NA,NA,1,NA,NA,NA,NA,NA,NA
+Oats For Grain (Bushels),Amelia,4,169,11310,0,0,2,NA,NA,0,0
+Oats For Grain (Bushels),Augusta,0,0,0,0,0,6,34,2620,0,0
+Oats For Grain (Bushels),Bedford,0,0,0,0,0,4,130,6700,0,0
+Oats For Grain (Bushels),Brunswick,2,NA,NA,0,0,1,NA,NA,0,0
+Oats For Grain (Bushels),Campbell,1,NA,NA,0,0,3,NA,280,0,0
+Oats For Grain (Bushels),Carroll,0,0,0,0,0,6,12,744,0,0
+Oats For Grain (Bushels),Charles City,1,NA,NA,0,0,1,NA,NA,0,0
+Oats For Grain (Bushels),Charlotte,0,0,0,0,0,2,NA,NA,0,0
+Oats For Grain (Bushels),Chesterfield,2,NA,NA,0,0,1,NA,NA,0,0
+Oats For Grain (Bushels),Essex,1,NA,NA,0,0,1,NA,NA,0,0
+Oats For Grain (Bushels),Fauquier,0,0,0,0,0,1,NA,NA,0,0
+Oats For Grain (Bushels),Frederick,1,NA,NA,0,0,0,0,0,0,0
+Oats For Grain (Bushels),Gloucester,0,0,0,0,0,2,NA,NA,0,0
+Oats For Grain (Bushels),Greensville,1,NA,NA,0,0,1,NA,NA,0,0
+Oats For Grain (Bushels),Halifax,0,0,0,0,0,5,215,12800,0,0
+Oats For Grain (Bushels),Hanover,1,NA,NA,0,0,1,NA,NA,0,0
+Oats For Grain (Bushels),Isle of Wight,0,0,0,0,0,2,NA,NA,0,0
+Oats For Grain (Bushels),King George,0,0,0,0,0,1,NA,NA,0,0
+Oats For Grain (Bushels),Lee,0,0,0,0,0,1,NA,NA,0,0
+Oats For Grain (Bushels),Loudoun,1,NA,NA,0,0,1,NA,NA,0,0
+Oats For Grain (Bushels),Louisa,1,NA,NA,0,0,0,0,0,0,0
+Oats For Grain (Bushels),Lunenburg,1,NA,NA,0,0,0,0,0,0,0
+Oats For Grain (Bushels),Mecklenburg,1,NA,NA,0,0,2,NA,NA,0,0
+Oats For Grain (Bushels),New Kent,2,NA,NA,2,NA,1,NA,NA,0,0
+Oats For Grain (Bushels),Northumberland,2,NA,NA,0,0,1,NA,NA,0,0
+Oats For Grain (Bushels),Orange,2,NA,NA,0,0,1,NA,NA,0,0
+Oats For Grain (Bushels),Patrick,1,NA,NA,0,0,2,NA,NA,0,0
+Oats For Grain (Bushels),Pittsylvania,12,229,13617,0,0,11,233,15149,0,0
+Oats For Grain (Bushels),Powhatan,0,0,0,0,0,1,NA,NA,0,0
+Oats For Grain (Bushels),Rockbridge,1,NA,NA,0,0,1,NA,NA,0,0
+Oats For Grain (Bushels),Shenandoah,0,0,0,0,0,5,24,1819,0,0
+Oats For Grain (Bushels),Sussex,0,0,0,0,0,2,NA,NA,0,0
+Oats For Grain (Bushels),Tazewell,1,NA,NA,0,0,2,NA,NA,0,0
+Oats For Grain (Bushels),Wythe,2,NA,NA,0,0,1,NA,NA,0,0
+Oats For Grain (Bushels),Chesapeake City,1,NA,NA,0,0,1,NA,NA,0,0
+Oats For Grain (Bushels),Virginia Beach City,1,NA,NA,0,0,0,0,0,0,0
+Peanuts For Nuts (Pounds),Brunswick,0,0,0,0,0,1,NA,NA,0,0
+Peanuts For Nuts (Pounds),Dinwiddie,3,NA,NA,2,NA,5,667,2901422,0,0
+Peanuts For Nuts (Pounds),Greene,2,NA,NA,0,0,0,0,0,0,0
+Peanuts For Nuts (Pounds),Greensville,15,1664,5578420,2,NA,25,2887,12402369,1,NA
+Peanuts For Nuts (Pounds),Isle of Wight,27,5635,23087033,3,145,30,4592,20293710,1,NA
+Peanuts For Nuts (Pounds),Prince George,1,NA,NA,0,0,3,NA,NA,0,0
+Peanuts For Nuts (Pounds),Southampton,95,11415,47334810,7,205,66,11210,52289203,5,281
+Peanuts For Nuts (Pounds),Surry,8,815,3676459,2,NA,11,1263,6109900,2,NA
+Peanuts For Nuts (Pounds),Sussex,18,2682,12021879,2,NA,12,1735,7714932,2,NA
+Peanuts For Nuts (Pounds),Chesapeake City,1,NA,NA,0,0,0,0,0,0,0
+Peanuts For Nuts (Pounds),Suffolk,28,5277,21372744,0,0,36,5838,25771939,0,0
+"Popcorn (Pounds, Shelled)",Fauquier,0,0,0,0,0,1,NA,NA,1,NA
+"Popcorn (Pounds, Shelled)",Hanover,1,NA,NA,0,0,1,NA,NA,0,0
+"Popcorn (Pounds, Shelled)",Louisa,2,NA,NA,2,NA,1,NA,NA,0,0
+"Popcorn (Pounds, Shelled)",Montgomery,0,0,0,0,0,1,NA,NA,0,0
+"Popcorn (Pounds, Shelled)",Rockingham,0,0,0,0,0,2,NA,NA,2,NA
+"Popcorn (Pounds, Shelled)",Russell,0,0,0,0,0,1,NA,NA,0,0
+Proso Millet (Bushels),Fauquier,2,NA,NA,0,0,0,0,0,0,0
+Proso Millet (Bushels),Isle of Wight,0,0,0,0,0,1,NA,NA,0,0
+Proso Millet (Bushels),Sussex,0,0,0,0,0,1,NA,NA,0,0
+Rapeseed (Pounds),Accomack,0,0,0,0,0,2,NA,NA,0,0
+Rapeseed (Pounds),Caroline,1,NA,NA,0,0,0,0,0,0,0
+Rapeseed (Pounds),Charles City,1,NA,NA,0,0,0,0,0,0,0
+Rapeseed (Pounds),Henrico,0,0,0,0,0,1,NA,NA,1,NA
+Rapeseed (Pounds),Northumberland,4,NA,993942,0,0,0,0,0,0,0
+Rapeseed (Pounds),Richmond,1,NA,NA,0,0,0,0,0,0,0
+Rye For Grain (Bushels),Accomack,2,NA,NA,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Alleghany,1,NA,NA,0,0,0,0,0,0,0
+Rye For Grain (Bushels),Amelia,1,NA,NA,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Amherst,0,0,0,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Augusta,4,230,NA,0,0,6,194,6517,0,0
+Rye For Grain (Bushels),Bath,1,NA,NA,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Bedford,1,NA,NA,0,0,0,0,0,0,0
+Rye For Grain (Bushels),Bland,1,NA,NA,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Botetourt,1,NA,NA,0,0,0,0,0,0,0
+Rye For Grain (Bushels),Brunswick,1,NA,NA,0,0,0,0,0,0,0
+Rye For Grain (Bushels),Campbell,2,NA,NA,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Caroline,1,NA,NA,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Charlotte,0,0,0,0,0,6,78,2340,0,0
+Rye For Grain (Bushels),Chesterfield,0,0,0,0,0,2,NA,NA,0,0
+Rye For Grain (Bushels),Clarke,0,0,0,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Culpeper,3,NA,NA,0,0,2,NA,NA,0,0
+Rye For Grain (Bushels),Cumberland,1,NA,NA,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Dinwiddie,2,NA,NA,2,NA,1,NA,NA,0,0
+Rye For Grain (Bushels),Essex,1,NA,NA,0,0,0,0,0,0,0
+Rye For Grain (Bushels),Fauquier,2,NA,NA,0,0,4,329,NA,0,0
+Rye For Grain (Bushels),Floyd,1,NA,NA,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Franklin,3,NA,10200,0,0,6,317,9893,0,0
+Rye For Grain (Bushels),Frederick,1,NA,NA,0,0,2,NA,NA,0,0
+Rye For Grain (Bushels),Goochland,1,NA,NA,0,0,0,0,0,0,0
+Rye For Grain (Bushels),Greene,1,NA,NA,0,0,0,0,0,0,0
+Rye For Grain (Bushels),Greensville,0,0,0,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Halifax,4,234,4430,0,0,0,0,0,0,0
+Rye For Grain (Bushels),Hanover,1,NA,NA,1,NA,4,86,2225,0,0
+Rye For Grain (Bushels),Highland,1,NA,NA,0,0,0,0,0,0,0
+Rye For Grain (Bushels),Isle of Wight,1,NA,NA,0,0,2,NA,NA,0,0
+Rye For Grain (Bushels),King and Queen,2,NA,NA,1,NA,0,0,0,0,0
+Rye For Grain (Bushels),King William,1,NA,NA,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Loudoun,8,176,4245,0,0,7,189,4755,0,0
+Rye For Grain (Bushels),Louisa,2,NA,NA,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Madison,1,NA,NA,0,0,0,0,0,0,0
+Rye For Grain (Bushels),Mecklenburg,3,27,967,0,0,3,105,3642,0,0
+Rye For Grain (Bushels),Middlesex,1,NA,NA,1,NA,0,0,0,0,0
+Rye For Grain (Bushels),Montgomery,1,NA,NA,1,NA,1,NA,NA,0,0
+Rye For Grain (Bushels),New Kent,2,NA,NA,0,0,2,NA,NA,0,0
+Rye For Grain (Bushels),Northampton,2,NA,NA,0,0,1,NA,NA,1,NA
+Rye For Grain (Bushels),Northumberland,3,NA,NA,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Nottoway,1,NA,NA,0,0,0,0,0,0,0
+Rye For Grain (Bushels),Orange,1,NA,NA,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Page,4,183,3917,0,0,2,NA,NA,0,0
+Rye For Grain (Bushels),Pittsylvania,3,260,6533,0,0,4,135,4050,0,0
+Rye For Grain (Bushels),Powhatan,6,384,5376,0,0,0,0,0,0,0
+Rye For Grain (Bushels),Prince Edward,0,0,0,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Prince George,2,NA,NA,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Richmond,3,205,11783,0,0,2,NA,NA,0,0
+Rye For Grain (Bushels),Rockingham,12,638,12446,0,0,25,883,21869,2,NA
+Rye For Grain (Bushels),Russell,2,NA,NA,0,0,0,0,0,0,0
+Rye For Grain (Bushels),Scott,4,135,1890,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Shenandoah,0,0,0,0,0,5,488,17877,0,0
+Rye For Grain (Bushels),Southampton,3,82,2405,0,0,14,287,7815,0,0
+Rye For Grain (Bushels),Spotsylvania,0,0,0,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Stafford,1,NA,NA,0,0,0,0,0,0,0
+Rye For Grain (Bushels),Surry,9,129,3024,0,0,4,79,2535,0,0
+Rye For Grain (Bushels),Sussex,1,NA,NA,0,0,5,156,5088,0,0
+Rye For Grain (Bushels),Tazewell,2,NA,NA,0,0,2,NA,NA,0,0
+Rye For Grain (Bushels),Warren,2,NA,NA,0,0,1,NA,NA,0,0
+Rye For Grain (Bushels),Washington,2,NA,NA,0,0,0,0,0,0,0
+Rye For Grain (Bushels),Westmoreland,1,NA,NA,0,0,4,370,11732,0,0
+Rye For Grain (Bushels),Wythe,3,460,17880,0,0,0,0,0,0,0
+Sorghum For Grain (Bushels),Accomack,3,93,3958,0,0,11,1515,96813,0,0
+Sorghum For Grain (Bushels),Albemarle,0,0,0,0,0,1,NA,NA,0,0
+Sorghum For Grain (Bushels),Amelia,3,382,23776,0,0,3,166,NA,0,0
+Sorghum For Grain (Bushels),Augusta,15,357,16689,0,0,4,102,3966,0,0
+Sorghum For Grain (Bushels),Botetourt,1,NA,NA,0,0,0,0,0,0,0
+Sorghum For Grain (Bushels),Brunswick,0,0,0,0,0,4,225,15000,0,0
+Sorghum For Grain (Bushels),Campbell,3,175,12795,0,0,0,0,0,0,0
+Sorghum For Grain (Bushels),Caroline,2,NA,NA,0,0,5,580,55194,0,0
+Sorghum For Grain (Bushels),Charlotte,2,NA,NA,0,0,6,186,15906,0,0
+Sorghum For Grain (Bushels),Culpeper,1,NA,NA,0,0,3,298,NA,0,0
+Sorghum For Grain (Bushels),Dinwiddie,1,NA,NA,1,NA,1,NA,NA,0,0
+Sorghum For Grain (Bushels),Fauquier,3,261,27270,0,0,2,NA,NA,0,0
+Sorghum For Grain (Bushels),Fluvanna,0,0,0,0,0,1,NA,NA,0,0
+Sorghum For Grain (Bushels),Franklin,1,NA,NA,0,0,3,58,4854,0,0
+Sorghum For Grain (Bushels),Greensville,3,NA,NA,0,0,5,415,30963,0,0
+Sorghum For Grain (Bushels),Halifax,0,0,0,0,0,4,56,1375,0,0
+Sorghum For Grain (Bushels),Hanover,1,NA,NA,0,0,3,233,NA,0,0
+Sorghum For Grain (Bushels),Henrico,1,NA,NA,0,0,1,NA,NA,0,0
+Sorghum For Grain (Bushels),Henry,0,0,0,0,0,1,NA,NA,0,0
+Sorghum For Grain (Bushels),Isle of Wight,3,NA,NA,0,0,0,0,0,0,0
+Sorghum For Grain (Bushels),King William,3,156,15000,0,0,2,NA,NA,1,NA
+Sorghum For Grain (Bushels),Loudoun,2,NA,NA,0,0,0,0,0,0,0
+Sorghum For Grain (Bushels),Louisa,2,NA,NA,0,0,1,NA,NA,0,0
+Sorghum For Grain (Bushels),Lunenburg,1,NA,NA,0,0,4,180,7200,0,0
+Sorghum For Grain (Bushels),Madison,2,NA,NA,0,0,1,NA,NA,0,0
+Sorghum For Grain (Bushels),Mathews,0,0,0,0,0,2,NA,NA,0,0
+Sorghum For Grain (Bushels),Mecklenburg,0,0,0,0,0,5,84,3194,0,0
+Sorghum For Grain (Bushels),Northampton,0,0,0,0,0,7,1083,73574,3,NA
+Sorghum For Grain (Bushels),Nottoway,0,0,0,0,0,3,NA,NA,0,0
+Sorghum For Grain (Bushels),Pittsylvania,5,NA,NA,0,0,4,NA,NA,0,0
+Sorghum For Grain (Bushels),Prince Edward,1,NA,NA,0,0,2,NA,NA,0,0
+Sorghum For Grain (Bushels),Prince George,3,NA,NA,0,0,7,274,15601,0,0
+Sorghum For Grain (Bushels),Rockbridge,3,115,10426,0,0,4,203,NA,0,0
+Sorghum For Grain (Bushels),Rockingham,3,123,8216,0,0,2,NA,NA,0,0
+Sorghum For Grain (Bushels),Shenandoah,1,NA,NA,0,0,1,NA,NA,0,0
+Sorghum For Grain (Bushels),Spotsylvania,0,0,0,0,0,2,NA,NA,0,0
+Sorghum For Grain (Bushels),Surry,0,0,0,0,0,2,NA,NA,0,0
+Sorghum For Grain (Bushels),Sussex,1,NA,NA,0,0,4,618,40390,0,0
+Sorghum For Grain (Bushels),Westmoreland,2,NA,NA,0,0,0,0,0,0,0
+Sorghum For Grain (Bushels),Wythe,1,NA,NA,0,0,0,0,0,0,0
+Sorghum For Grain (Bushels),Suffolk,4,18,536,0,0,2,NA,NA,0,0
+Sorghum For Grain (Bushels),Virginia Beach City,1,NA,NA,0,0,0,0,0,0,0
+Soybeans For Beans (Bushels),Accomack,82,30255,756538,3,816,62,29610,1343875,6,989
+Soybeans For Beans (Bushels),Albemarle,8,NA,NA,0,0,6,3136,137389,0,0
+Soybeans For Beans (Bushels),Alleghany,1,NA,NA,0,0,0,0,0,0,0
+Soybeans For Beans (Bushels),Amelia,40,11538,450089,0,0,42,11200,436486,1,NA
+Soybeans For Beans (Bushels),Appomattox,11,1290,50248,0,0,12,1696,55259,0,0
+Soybeans For Beans (Bushels),Augusta,95,7993,381486,0,0,126,9345,498183,4,201
+Soybeans For Beans (Bushels),Bath,3,78,4348,0,0,2,NA,NA,0,0
+Soybeans For Beans (Bushels),Bedford,4,942,38250,0,0,8,650,22241,0,0
+Soybeans For Beans (Bushels),Botetourt,10,1078,54601,0,0,9,664,30276,0,0
+Soybeans For Beans (Bushels),Brunswick,32,9664,331154,4,1417,45,11042,373337,3,NA
+Soybeans For Beans (Bushels),Buckingham,15,5147,211154,0,0,9,2661,93007,0,0
+Soybeans For Beans (Bushels),Campbell,25,3328,120757,0,0,28,4610,136758,0,0
+Soybeans For Beans (Bushels),Caroline,46,19800,806711,3,1115,41,21331,1053566,7,1545
+Soybeans For Beans (Bushels),Charles City,15,8206,342372,4,386,16,9303,456209,2,NA
+Soybeans For Beans (Bushels),Charlotte,44,11636,387450,2,NA,51,11485,332567,0,0
+Soybeans For Beans (Bushels),Chesterfield,14,706,21352,0,0,23,2668,90659,0,0
+Soybeans For Beans (Bushels),Clarke,12,1387,82429,0,0,11,2045,95457,1,NA
+Soybeans For Beans (Bushels),Craig,2,NA,NA,0,0,1,NA,NA,0,0
+Soybeans For Beans (Bushels),Culpeper,45,10333,565304,0,0,30,12247,614292,0,0
+Soybeans For Beans (Bushels),Cumberland,10,2181,113906,0,0,7,1593,80553,0,0
+Soybeans For Beans (Bushels),Dinwiddie,64,15375,558000,6,383,52,17967,694774,1,NA
+Soybeans For Beans (Bushels),Essex,44,25648,1080741,1,NA,34,20043,981997,1,NA
+Soybeans For Beans (Bushels),Fairfax,2,NA,NA,0,0,0,0,0,0,0
+Soybeans For Beans (Bushels),Fauquier,48,11757,612395,1,NA,36,9846,522555,0,0
+Soybeans For Beans (Bushels),Floyd,2,NA,NA,0,0,0,0,0,0,0
+Soybeans For Beans (Bushels),Fluvanna,5,1898,98433,0,0,3,NA,NA,0,0
+Soybeans For Beans (Bushels),Franklin,53,7508,322268,0,0,90,7059,328049,0,0
+Soybeans For Beans (Bushels),Frederick,17,1700,112787,0,0,29,2634,137639,0,0
+Soybeans For Beans (Bushels),Gloucester,27,8174,305584,0,0,21,6106,259523,0,0
+Soybeans For Beans (Bushels),Goochland,11,3731,186275,0,0,14,3061,139147,0,0
+Soybeans For Beans (Bushels),Grayson,1,NA,NA,0,0,0,0,0,0,0
+Soybeans For Beans (Bushels),Greene,3,155,9700,0,0,0,0,0,0,0
+Soybeans For Beans (Bushels),Greensville,30,6404,163714,1,NA,52,11365,360576,1,NA
+Soybeans For Beans (Bushels),Halifax,71,11476,470690,1,NA,50,9428,265169,1,NA
+Soybeans For Beans (Bushels),Hanover,60,23438,887118,6,783,75,28687,1022133,4,1346
+Soybeans For Beans (Bushels),Henrico,10,3180,126189,1,NA,10,2899,142523,1,NA
+Soybeans For Beans (Bushels),Henry,0,0,0,0,0,2,NA,NA,0,0
+Soybeans For Beans (Bushels),Highland,0,0,0,0,0,1,NA,NA,0,0
+Soybeans For Beans (Bushels),Isle of Wight,65,17365,581204,3,269,58,16718,729537,1,NA
+Soybeans For Beans (Bushels),James City,1,NA,NA,0,0,2,NA,NA,0,0
+Soybeans For Beans (Bushels),King and Queen,41,16734,658963,2,NA,43,15544,663711,3,481
+Soybeans For Beans (Bushels),King George,15,4969,178144,0,0,18,4330,185613,0,0
+Soybeans For Beans (Bushels),King William,44,18861,821851,6,695,23,10940,504128,4,876
+Soybeans For Beans (Bushels),Lancaster,21,3948,155769,0,0,27,4791,228208,0,0
+Soybeans For Beans (Bushels),Lee,0,0,0,0,0,4,20,740,0,0
+Soybeans For Beans (Bushels),Loudoun,33,4573,239830,0,0,19,8575,397176,0,0
+Soybeans For Beans (Bushels),Louisa,21,8058,397611,0,0,11,3959,206740,0,0
+Soybeans For Beans (Bushels),Lunenburg,29,6192,205647,2,NA,15,4026,122908,0,0
+Soybeans For Beans (Bushels),Madison,35,8923,460148,0,0,34,7685,435193,0,0
+Soybeans For Beans (Bushels),Mathews,6,852,10073,0,0,9,2221,91341,0,0
+Soybeans For Beans (Bushels),Mecklenburg,57,17601,555471,6,744,61,20252,643112,1,NA
+Soybeans For Beans (Bushels),Middlesex,15,5304,214928,1,NA,23,6269,301050,1,NA
+Soybeans For Beans (Bushels),Montgomery,4,125,5629,1,NA,5,156,9280,0,0
+Soybeans For Beans (Bushels),Nelson,4,440,21495,0,0,1,NA,NA,0,0
+Soybeans For Beans (Bushels),New Kent,11,5336,213594,2,NA,21,5687,233381,1,NA
+Soybeans For Beans (Bushels),Northampton,48,17539,317170,7,783,50,16913,711038,6,607
+Soybeans For Beans (Bushels),Northumberland,51,20982,850982,0,0,40,15211,789962,0,0
+Soybeans For Beans (Bushels),Nottoway,17,3342,105218,0,0,13,2862,96291,0,0
+Soybeans For Beans (Bushels),Orange,31,14323,735790,0,0,15,6781,346785,0,0
+Soybeans For Beans (Bushels),Page,12,644,24785,0,0,18,930,37963,0,0
+Soybeans For Beans (Bushels),Patrick,4,173,8820,0,0,3,191,9030,0,0
+Soybeans For Beans (Bushels),Pittsylvania,57,9197,356846,3,31,46,5353,186999,0,0
+Soybeans For Beans (Bushels),Powhatan,13,1802,80810,1,NA,9,3109,133602,1,NA
+Soybeans For Beans (Bushels),Prince Edward,9,1318,44783,0,0,13,1803,66065,0,0
+Soybeans For Beans (Bushels),Prince George,25,6584,239806,1,NA,35,11215,456638,0,0
+Soybeans For Beans (Bushels),Prince William,10,3670,166619,0,0,6,2981,142793,0,0
+Soybeans For Beans (Bushels),Pulaski,7,225,8300,0,0,2,NA,NA,0,0
+Soybeans For Beans (Bushels),Rappahannock,6,342,20530,0,0,1,NA,NA,0,0
+Soybeans For Beans (Bushels),Richmond,53,13507,593245,0,0,35,13638,622700,0,0
+Soybeans For Beans (Bushels),Roanoke,1,NA,NA,0,0,0,0,0,0,0
+Soybeans For Beans (Bushels),Rockbridge,4,539,25670,0,0,4,553,25235,0,0
+Soybeans For Beans (Bushels),Rockingham,241,12826,676830,11,653,232,12001,635739,7,554
+Soybeans For Beans (Bushels),Scott,1,NA,NA,0,0,0,0,0,0,0
+Soybeans For Beans (Bushels),Shenandoah,66,6260,336238,0,0,58,5173,255759,1,NA
+Soybeans For Beans (Bushels),Southampton,114,23680,758619,6,134,122,24098,1043619,4,148
+Soybeans For Beans (Bushels),Spotsylvania,27,4429,234368,0,0,30,3237,177020,0,0
+Soybeans For Beans (Bushels),Stafford,8,1748,73850,0,0,18,2602,136946,0,0
+Soybeans For Beans (Bushels),Surry,43,15003,495077,3,404,39,11114,428859,2,NA
+Soybeans For Beans (Bushels),Sussex,44,20631,648777,3,299,43,21985,766296,1,NA
+Soybeans For Beans (Bushels),Tazewell,2,NA,NA,0,0,7,193,10200,0,0
+Soybeans For Beans (Bushels),Warren,3,143,5075,0,0,3,167,9750,0,0
+Soybeans For Beans (Bushels),Westmoreland,47,11571,421449,4,284,64,15275,765287,2,NA
+Soybeans For Beans (Bushels),Wythe,0,0,0,0,0,1,NA,NA,0,0
+Soybeans For Beans (Bushels),York,2,NA,NA,0,0,0,0,0,0,0
+Soybeans For Beans (Bushels),Chesapeake City,45,20390,865736,2,NA,47,23128,912768,0,0
+Soybeans For Beans (Bushels),Suffolk,84,20060,751735,0,0,75,20407,810047,1,NA
+Soybeans For Beans (Bushels),Virginia Beach City,27,11574,629554,2,NA,37,10146,488456,0,0
+"Sunflower Seed, All (Pounds)",Botetourt,1,NA,NA,0,0,1,NA,NA,0,0
+"Sunflower Seed, All (Pounds)",Chesterfield,2,NA,NA,0,0,0,0,0,0,0
+"Sunflower Seed, All (Pounds)",Franklin,1,NA,NA,0,0,1,NA,NA,0,0
+"Sunflower Seed, All (Pounds)",Giles,1,NA,NA,1,NA,0,0,0,0,0
+"Sunflower Seed, All (Pounds)",Goochland,1,NA,NA,0,0,0,0,0,0,0
+"Sunflower Seed, All (Pounds)",King William,0,0,0,0,0,3,21,25200,0,0
+"Sunflower Seed, All (Pounds)",Mecklenburg,0,0,0,0,0,1,NA,NA,0,0
+"Sunflower Seed, All (Pounds)",Prince William,0,0,0,0,0,1,NA,NA,0,0
+"Sunflower Seed, All (Pounds)",Richmond,1,NA,NA,0,0,0,0,0,0,0
+"Sunflower Seed, All (Pounds)",Rockingham,1,NA,NA,0,0,1,NA,NA,0,0
+"Sunflower Seed, All (Pounds)",Southampton,1,NA,NA,0,0,0,0,0,0,0
+"Sunflower Seed, All (Pounds)",Sussex,1,NA,NA,0,0,0,0,0,0,0
+"Sunflower Seed, All (Pounds)",Chesapeake City,1,NA,NA,0,0,0,0,0,0,0
+"Sunflower Seed, All (Pounds)",Virginia Beach City,1,NA,NA,0,0,0,0,0,0,0
+"Sunflower Seed, Oil Varieties (Pounds)",Botetourt,1,NA,NA,0,0,1,NA,NA,0,0
+"Sunflower Seed, Oil Varieties (Pounds)",Franklin,1,NA,NA,0,0,1,NA,NA,0,0
+"Sunflower Seed, Oil Varieties (Pounds)",Goochland,1,NA,NA,0,0,0,0,0,0,0
+"Sunflower Seed, Oil Varieties (Pounds)",King William,0,0,0,0,0,3,21,25200,0,0
+"Sunflower Seed, Oil Varieties (Pounds)",Mecklenburg,0,0,0,0,0,1,NA,NA,0,0
+"Sunflower Seed, Oil Varieties (Pounds)",Prince William,0,0,0,0,0,1,NA,NA,0,0
+"Sunflower Seed, Oil Varieties (Pounds)",Rockingham,0,0,0,0,0,1,NA,NA,0,0
+"Sunflower Seed, Oil Varieties (Pounds)",Southampton,1,NA,NA,0,0,0,0,0,0,0
+"Sunflower Seed, Oil Varieties (Pounds)",Sussex,1,NA,NA,0,0,0,0,0,0,0
+"Sunflower Seed, Oil Varieties (Pounds)",Chesapeake City,1,NA,NA,0,0,0,0,0,0,0
+"Sunflower Seed, Non-Oil Varieties (Pounds)",Chesterfield,2,NA,NA,0,0,0,0,0,0,0
+"Sunflower Seed, Non-Oil Varieties (Pounds)",Giles,1,NA,NA,1,NA,0,0,0,0,0
+"Sunflower Seed, Non-Oil Varieties (Pounds)",Richmond,1,NA,NA,0,0,0,0,0,0,0
+"Sunflower Seed, Non-Oil Varieties (Pounds)",Rockingham,1,NA,NA,0,0,0,0,0,0,0
+"Sunflower Seed, Non-Oil Varieties (Pounds)",Virginia Beach City,1,NA,NA,0,0,0,0,0,0,0
+Tobacco (Pounds),Amelia,4,305,808416,2,NA,4,320,832660,1,NA
+Tobacco (Pounds),Appomattox,2,NA,NA,0,0,6,190,334251,2,NA
+Tobacco (Pounds),Brunswick,11,1121,2490772,2,NA,14,2251,5907330,8,1075
+Tobacco (Pounds),Campbell,2,NA,NA,0,0,2,NA,NA,0,0
+Tobacco (Pounds),Charlotte,8,688,1887158,2,NA,16,523,1229561,9,328
+Tobacco (Pounds),Cumberland,0,0,0,0,0,2,NA,NA,0,0
+Tobacco (Pounds),Dinwiddie,4,776,1821500,3,NA,11,1571,4267613,6,692
+Tobacco (Pounds),Franklin,8,705,1419237,2,NA,13,981,2409541,7,241
+Tobacco (Pounds),Grayson,1,NA,NA,0,0,1,NA,NA,0,0
+Tobacco (Pounds),Greensville,2,NA,NA,1,NA,8,912,2029786,0,0
+Tobacco (Pounds),Halifax,21,1028,2184683,2,NA,29,1745,4075204,12,747
+Tobacco (Pounds),Henry,6,194,250578,0,0,5,190,353258,2,NA
+Tobacco (Pounds),Lee,2,NA,NA,0,0,10,91,189742,0,0
+Tobacco (Pounds),Lunenburg,9,859,2155909,5,450,26,2520,5053997,19,1363
+Tobacco (Pounds),Mecklenburg,26,2153,5471381,7,445,54,5868,13975695,38,3523
+Tobacco (Pounds),Montgomery,0,0,0,0,0,1,NA,NA,0,0
+Tobacco (Pounds),Nottoway,3,111,NA,2,NA,8,NA,NA,1,NA
+Tobacco (Pounds),Patrick,1,NA,NA,0,0,3,175,498000,2,NA
+Tobacco (Pounds),Pittsylvania,37,3219,7056720,12,564,54,4942,10411637,17,808
+Tobacco (Pounds),Prince Edward,9,NA,NA,0,0,3,NA,NA,0,0
+Tobacco (Pounds),Prince George,1,NA,NA,0,0,0,0,0,0,0
+Tobacco (Pounds),Russell,3,7,13000,0,0,12,20,36125,0,0
+Tobacco (Pounds),Scott,2,NA,NA,0,0,5,13,29600,0,0
+Tobacco (Pounds),Smyth,0,0,0,0,0,3,NA,10641,0,0
+Tobacco (Pounds),Sussex,3,382,NA,0,0,3,446,1248800,0,0
+Tobacco (Pounds),Washington,5,61,103294,0,0,13,79,143152,0,0
+Tobacco (Pounds),Westmoreland,2,NA,NA,0,0,0,0,0,0,0
+Tobacco (Pounds),Wythe,1,NA,NA,0,0,0,0,0,0,0
+Triticale For Grain (Bushels),Augusta,1,NA,NA,0,0,1,NA,NA,0,0
+Triticale For Grain (Bushels),Clarke,1,NA,NA,0,0,0,0,0,0,0
+Triticale For Grain (Bushels),Fauquier,2,NA,NA,0,0,1,NA,NA,0,0
+Triticale For Grain (Bushels),Floyd,2,NA,NA,0,0,0,0,0,0,0
+Triticale For Grain (Bushels),Franklin,1,NA,NA,0,0,0,0,0,0,0
+Triticale For Grain (Bushels),Frederick,0,0,0,0,0,1,NA,NA,0,0
+Triticale For Grain (Bushels),Greensville,1,NA,NA,0,0,1,NA,NA,0,0
+Triticale For Grain (Bushels),Pittsylvania,0,0,0,0,0,1,NA,NA,0,0
+Triticale For Grain (Bushels),Powhatan,1,NA,NA,0,0,1,NA,NA,0,0
+Triticale For Grain (Bushels),Rockingham,3,NA,1218,0,0,5,192,NA,0,0
+Triticale For Grain (Bushels),Southampton,0,0,0,0,0,1,NA,NA,0,0
+Triticale For Grain (Bushels),Spotsylvania,1,NA,NA,0,0,0,0,0,0,0
+Triticale For Grain (Bushels),Sussex,1,NA,NA,0,0,1,NA,NA,0,0
+"Wheat For Grain, All (Bushels)",Accomack,33,11071,787372,0,0,30,7938,594360,0,0
+"Wheat For Grain, All (Bushels)",Albemarle,1,NA,NA,0,0,2,NA,NA,0,0
+"Wheat For Grain, All (Bushels)",Alleghany,1,NA,NA,0,0,0,0,0,0,0
+"Wheat For Grain, All (Bushels)",Amelia,13,1684,101300,0,0,10,1749,118519,0,0
+"Wheat For Grain, All (Bushels)",Amherst,0,0,0,0,0,1,NA,NA,0,0
+"Wheat For Grain, All (Bushels)",Appomattox,7,571,25346,0,0,8,814,34731,0,0
+"Wheat For Grain, All (Bushels)",Augusta,49,2902,200963,0,0,57,3106,214999,0,0
+"Wheat For Grain, All (Bushels)",Bedford,17,1153,71500,0,0,15,1189,63445,0,0
+"Wheat For Grain, All (Bushels)",Bland,2,NA,NA,2,NA,0,0,0,0,0
+"Wheat For Grain, All (Bushels)",Botetourt,8,515,28298,0,0,3,241,14392,0,0
+"Wheat For Grain, All (Bushels)",Brunswick,4,1157,62990,2,NA,6,666,31386,1,NA
+"Wheat For Grain, All (Bushels)",Buckingham,1,NA,NA,0,0,8,905,36852,0,0
+"Wheat For Grain, All (Bushels)",Campbell,20,1293,68613,0,0,15,1938,93622,0,0
+"Wheat For Grain, All (Bushels)",Caroline,25,5615,377629,1,NA,15,5775,424279,0,0
+"Wheat For Grain, All (Bushels)",Charles City,6,2722,172300,1,NA,15,3450,233274,0,0
+"Wheat For Grain, All (Bushels)",Charlotte,20,1998,96529,2,NA,29,2033,116282,0,0
+"Wheat For Grain, All (Bushels)",Chesterfield,16,279,12660,0,0,11,196,3477,0,0
+"Wheat For Grain, All (Bushels)",Clarke,4,473,NA,0,0,2,NA,NA,0,0
+"Wheat For Grain, All (Bushels)",Craig,0,0,0,0,0,1,NA,NA,0,0
+"Wheat For Grain, All (Bushels)",Culpeper,13,1673,119780,0,0,12,565,38119,0,0
+"Wheat For Grain, All (Bushels)",Cumberland,4,330,18900,0,0,4,350,22155,0,0
+"Wheat For Grain, All (Bushels)",Dinwiddie,10,3683,230019,6,115,17,3397,226577,0,0
+"Wheat For Grain, All (Bushels)",Essex,15,7507,555575,1,NA,20,7829,543797,0,0
+"Wheat For Grain, All (Bushels)",Fairfax,1,NA,NA,0,0,2,NA,NA,0,0
+"Wheat For Grain, All (Bushels)",Fauquier,16,3116,242326,0,0,10,985,71882,0,0
+"Wheat For Grain, All (Bushels)",Floyd,3,NA,NA,0,0,0,0,0,0,0
+"Wheat For Grain, All (Bushels)",Fluvanna,8,865,56719,0,0,3,NA,NA,0,0
+"Wheat For Grain, All (Bushels)",Franklin,22,3316,219182,0,0,29,1793,114467,0,0
+"Wheat For Grain, All (Bushels)",Frederick,6,399,35290,0,0,14,1282,91962,0,0
+"Wheat For Grain, All (Bushels)",Giles,2,NA,NA,0,0,0,0,0,0,0
+"Wheat For Grain, All (Bushels)",Gloucester,12,584,37210,0,0,4,440,34581,0,0
+"Wheat For Grain, All (Bushels)",Goochland,7,1931,103050,0,0,12,2263,134414,0,0
+"Wheat For Grain, All (Bushels)",Greene,2,NA,NA,0,0,0,0,0,0,0
+"Wheat For Grain, All (Bushels)",Greensville,8,811,48521,1,NA,6,1069,61653,0,0
+"Wheat For Grain, All (Bushels)",Halifax,43,4596,249188,2,NA,36,3001,125989,0,0
+"Wheat For Grain, All (Bushels)",Hanover,23,4892,368575,1,NA,22,6264,391218,0,0
+"Wheat For Grain, All (Bushels)",Henrico,2,NA,NA,0,0,9,1114,64380,1,NA
+"Wheat For Grain, All (Bushels)",Henry,3,133,6946,0,0,6,247,11692,0,0
+"Wheat For Grain, All (Bushels)",Isle of Wight,12,5245,370224,0,0,21,4773,336654,0,0
+"Wheat For Grain, All (Bushels)",King and Queen,9,1552,90128,1,NA,9,2608,181070,0,0
+"Wheat For Grain, All (Bushels)",King George,5,1721,99654,0,0,3,NA,NA,0,0
+"Wheat For Grain, All (Bushels)",King William,13,4467,314193,2,NA,12,3835,275018,1,NA
+"Wheat For Grain, All (Bushels)",Lancaster,8,1015,73466,0,0,7,853,57357,0,0
+"Wheat For Grain, All (Bushels)",Lee,0,0,0,0,0,5,31,1900,0,0
+"Wheat For Grain, All (Bushels)",Loudoun,18,1359,112886,0,0,8,1293,101412,0,0
+"Wheat For Grain, All (Bushels)",Louisa,4,NA,NA,0,0,9,1134,86722,0,0
+"Wheat For Grain, All (Bushels)",Lunenburg,6,580,33350,0,0,8,1252,83921,0,0
+"Wheat For Grain, All (Bushels)",Madison,10,1296,82353,0,0,12,821,49558,0,0
+"Wheat For Grain, All (Bushels)",Mecklenburg,27,3420,178754,4,136,43,5214,277095,4,NA
+"Wheat For Grain, All (Bushels)",Middlesex,8,2277,164898,1,NA,7,2076,162137,0,0
+"Wheat For Grain, All (Bushels)",Montgomery,9,1044,61722,1,NA,9,424,26804,1,NA
+"Wheat For Grain, All (Bushels)",New Kent,7,1300,95093,0,0,3,1127,80087,0,0
+"Wheat For Grain, All (Bushels)",Northampton,26,7071,454136,3,201,31,8976,575070,4,312
+"Wheat For Grain, All (Bushels)",Northumberland,31,7230,543369,0,0,27,6742,462243,0,0
+"Wheat For Grain, All (Bushels)",Nottoway,6,1090,54800,0,0,7,419,26403,0,0
+"Wheat For Grain, All (Bushels)",Orange,10,2162,159108,0,0,14,975,64415,0,0
+"Wheat For Grain, All (Bushels)",Page,8,142,8094,0,0,1,NA,NA,0,0
+"Wheat For Grain, All (Bushels)",Patrick,7,437,19368,0,0,4,371,16750,0,0
+"Wheat For Grain, All (Bushels)",Pittsylvania,46,6224,316635,2,NA,60,6023,266364,1,NA
+"Wheat For Grain, All (Bushels)",Powhatan,11,518,19551,0,0,4,313,24565,0,0
+"Wheat For Grain, All (Bushels)",Prince Edward,14,531,21978,0,0,5,165,8261,0,0
+"Wheat For Grain, All (Bushels)",Prince George,10,1797,117783,1,NA,12,2692,187095,0,0
+"Wheat For Grain, All (Bushels)",Prince William,1,NA,NA,0,0,5,900,69300,0,0
+"Wheat For Grain, All (Bushels)",Pulaski,1,NA,NA,0,0,2,NA,NA,0,0
+"Wheat For Grain, All (Bushels)",Rappahannock,1,NA,NA,0,0,2,NA,NA,0,0
+"Wheat For Grain, All (Bushels)",Richmond,21,4416,320069,0,0,19,3599,266326,0,0
+"Wheat For Grain, All (Bushels)",Rockbridge,4,382,NA,0,0,3,98,3518,0,0
+"Wheat For Grain, All (Bushels)",Rockingham,83,4868,407726,2,NA,55,2606,182586,1,NA
+"Wheat For Grain, All (Bushels)",Shenandoah,27,1280,97334,0,0,21,1915,167155,0,0
+"Wheat For Grain, All (Bushels)",Smyth,0,0,0,0,0,1,NA,NA,0,0
+"Wheat For Grain, All (Bushels)",Southampton,48,8265,543601,3,33,25,3003,208545,0,0
+"Wheat For Grain, All (Bushels)",Spotsylvania,7,395,28550,0,0,11,602,31742,0,0
+"Wheat For Grain, All (Bushels)",Stafford,0,0,0,0,0,2,NA,NA,0,0
+"Wheat For Grain, All (Bushels)",Surry,19,1287,76543,0,0,14,2650,174346,0,0
+"Wheat For Grain, All (Bushels)",Sussex,23,6727,389106,1,NA,17,4386,309022,0,0
+"Wheat For Grain, All (Bushels)",Warren,4,264,20774,0,0,3,109,7770,0,0
+"Wheat For Grain, All (Bushels)",Washington,0,0,0,0,0,1,NA,NA,0,0
+"Wheat For Grain, All (Bushels)",Westmoreland,26,4850,357532,2,NA,32,6047,448517,1,NA
+"Wheat For Grain, All (Bushels)",Wythe,5,1305,64375,1,NA,2,NA,NA,0,0
+"Wheat For Grain, All (Bushels)",Chesapeake City,10,2037,145811,0,0,11,4255,272381,0,0
+"Wheat For Grain, All (Bushels)",Suffolk,17,4421,246818,0,0,22,4818,317255,0,0
+"Wheat For Grain, All (Bushels)",Virginia Beach City,4,2896,217000,0,0,6,1588,114488,0,0
+Winter Wheat For Grain (Bushels),Accomack,33,11071,787372,0,0,30,7938,594360,0,0
+Winter Wheat For Grain (Bushels),Albemarle,1,NA,NA,0,0,2,NA,NA,0,0
+Winter Wheat For Grain (Bushels),Alleghany,1,NA,NA,0,0,0,0,0,0,0
+Winter Wheat For Grain (Bushels),Amelia,13,1684,101300,0,0,10,1749,118519,0,0
+Winter Wheat For Grain (Bushels),Amherst,0,0,0,0,0,1,NA,NA,0,0
+Winter Wheat For Grain (Bushels),Appomattox,7,571,25346,0,0,8,814,34731,0,0
+Winter Wheat For Grain (Bushels),Augusta,49,2902,200963,0,0,57,3106,214999,0,0
+Winter Wheat For Grain (Bushels),Bedford,17,1153,71500,0,0,15,1189,63445,0,0
+Winter Wheat For Grain (Bushels),Bland,2,NA,NA,2,NA,0,0,0,0,0
+Winter Wheat For Grain (Bushels),Botetourt,8,515,28298,0,0,3,241,14392,0,0
+Winter Wheat For Grain (Bushels),Brunswick,4,1157,62990,2,NA,6,666,31386,1,NA
+Winter Wheat For Grain (Bushels),Buckingham,1,NA,NA,0,0,8,905,36852,0,0
+Winter Wheat For Grain (Bushels),Campbell,20,1293,68613,0,0,15,1938,93622,0,0
+Winter Wheat For Grain (Bushels),Caroline,25,5615,377629,1,NA,15,5775,424279,0,0
+Winter Wheat For Grain (Bushels),Charles City,6,2722,172300,1,NA,15,3450,233274,0,0
+Winter Wheat For Grain (Bushels),Charlotte,20,1998,96529,2,NA,29,2033,116282,0,0
+Winter Wheat For Grain (Bushels),Chesterfield,16,279,12660,0,0,11,196,3477,0,0
+Winter Wheat For Grain (Bushels),Clarke,4,473,NA,0,0,2,NA,NA,0,0
+Winter Wheat For Grain (Bushels),Craig,0,0,0,0,0,1,NA,NA,0,0
+Winter Wheat For Grain (Bushels),Culpeper,13,1673,119780,0,0,12,565,38119,0,0
+Winter Wheat For Grain (Bushels),Cumberland,4,330,18900,0,0,4,350,22155,0,0
+Winter Wheat For Grain (Bushels),Dinwiddie,10,3683,230019,6,115,17,3397,226577,0,0
+Winter Wheat For Grain (Bushels),Essex,15,7507,555575,1,NA,20,7829,543797,0,0
+Winter Wheat For Grain (Bushels),Fairfax,1,NA,NA,0,0,2,NA,NA,0,0
+Winter Wheat For Grain (Bushels),Fauquier,16,3116,242326,0,0,10,985,71882,0,0
+Winter Wheat For Grain (Bushels),Floyd,3,NA,NA,0,0,0,0,0,0,0
+Winter Wheat For Grain (Bushels),Fluvanna,8,865,56719,0,0,3,NA,NA,0,0
+Winter Wheat For Grain (Bushels),Franklin,22,3316,219182,0,0,29,1793,114467,0,0
+Winter Wheat For Grain (Bushels),Frederick,6,399,35290,0,0,14,1282,91962,0,0
+Winter Wheat For Grain (Bushels),Giles,2,NA,NA,0,0,0,0,0,0,0
+Winter Wheat For Grain (Bushels),Gloucester,12,584,37210,0,0,4,440,34581,0,0
+Winter Wheat For Grain (Bushels),Goochland,7,1931,103050,0,0,12,2263,134414,0,0
+Winter Wheat For Grain (Bushels),Greene,2,NA,NA,0,0,0,0,0,0,0
+Winter Wheat For Grain (Bushels),Greensville,8,811,48521,1,NA,6,1069,61653,0,0
+Winter Wheat For Grain (Bushels),Halifax,43,4596,249188,2,NA,36,3001,125989,0,0
+Winter Wheat For Grain (Bushels),Hanover,23,4892,368575,1,NA,22,6264,391218,0,0
+Winter Wheat For Grain (Bushels),Henrico,2,NA,NA,0,0,9,1114,64380,1,NA
+Winter Wheat For Grain (Bushels),Henry,3,133,6946,0,0,6,247,11692,0,0
+Winter Wheat For Grain (Bushels),Isle of Wight,12,5245,370224,0,0,21,4773,336654,0,0
+Winter Wheat For Grain (Bushels),King and Queen,9,1552,90128,1,NA,9,2608,181070,0,0
+Winter Wheat For Grain (Bushels),King George,5,1721,99654,0,0,3,NA,NA,0,0
+Winter Wheat For Grain (Bushels),King William,13,4467,314193,2,NA,12,3835,275018,1,NA
+Winter Wheat For Grain (Bushels),Lancaster,8,1015,73466,0,0,7,853,57357,0,0
+Winter Wheat For Grain (Bushels),Lee,0,0,0,0,0,5,31,1900,0,0
+Winter Wheat For Grain (Bushels),Loudoun,18,1359,112886,0,0,8,1293,101412,0,0
+Winter Wheat For Grain (Bushels),Louisa,4,NA,NA,0,0,9,1134,86722,0,0
+Winter Wheat For Grain (Bushels),Lunenburg,6,580,33350,0,0,8,1252,83921,0,0
+Winter Wheat For Grain (Bushels),Madison,10,1296,82353,0,0,12,821,49558,0,0
+Winter Wheat For Grain (Bushels),Mecklenburg,27,3420,178754,4,136,43,5214,277095,4,NA
+Winter Wheat For Grain (Bushels),Middlesex,8,2277,164898,1,NA,7,2076,162137,0,0
+Winter Wheat For Grain (Bushels),Montgomery,9,1044,61722,1,NA,9,424,26804,1,NA
+Winter Wheat For Grain (Bushels),New Kent,7,1300,95093,0,0,3,1127,80087,0,0
+Winter Wheat For Grain (Bushels),Northampton,26,7071,454136,3,201,31,8976,575070,4,312
+Winter Wheat For Grain (Bushels),Northumberland,31,7230,543369,0,0,27,6742,462243,0,0
+Winter Wheat For Grain (Bushels),Nottoway,6,1090,54800,0,0,7,419,26403,0,0
+Winter Wheat For Grain (Bushels),Orange,10,2162,159108,0,0,14,975,64415,0,0
+Winter Wheat For Grain (Bushels),Page,8,142,8094,0,0,1,NA,NA,0,0
+Winter Wheat For Grain (Bushels),Patrick,7,437,19368,0,0,4,371,16750,0,0
+Winter Wheat For Grain (Bushels),Pittsylvania,46,6224,316635,2,NA,60,6023,266364,1,NA
+Winter Wheat For Grain (Bushels),Powhatan,11,518,19551,0,0,4,313,24565,0,0
+Winter Wheat For Grain (Bushels),Prince Edward,14,531,21978,0,0,5,165,8261,0,0
+Winter Wheat For Grain (Bushels),Prince George,10,1797,117783,1,NA,12,2692,187095,0,0
+Winter Wheat For Grain (Bushels),Prince William,1,NA,NA,0,0,5,900,69300,0,0
+Winter Wheat For Grain (Bushels),Pulaski,1,NA,NA,0,0,2,NA,NA,0,0
+Winter Wheat For Grain (Bushels),Rappahannock,1,NA,NA,0,0,2,NA,NA,0,0
+Winter Wheat For Grain (Bushels),Richmond,21,4416,320069,0,0,19,3599,266326,0,0
+Winter Wheat For Grain (Bushels),Rockbridge,4,382,NA,0,0,3,98,3518,0,0
+Winter Wheat For Grain (Bushels),Rockingham,82,NA,NA,2,NA,55,2606,182586,1,NA
+Winter Wheat For Grain (Bushels),Shenandoah,27,1280,97334,0,0,21,1915,167155,0,0
+Winter Wheat For Grain (Bushels),Smyth,0,0,0,0,0,1,NA,NA,0,0
+Winter Wheat For Grain (Bushels),Southampton,48,8265,543601,3,33,25,3003,208545,0,0
+Winter Wheat For Grain (Bushels),Spotsylvania,7,395,28550,0,0,11,602,31742,0,0
+Winter Wheat For Grain (Bushels),Stafford,0,0,0,0,0,2,NA,NA,0,0
+Winter Wheat For Grain (Bushels),Surry,19,1287,76543,0,0,14,2650,174346,0,0
+Winter Wheat For Grain (Bushels),Sussex,23,6727,389106,1,NA,17,4386,309022,0,0
+Winter Wheat For Grain (Bushels),Warren,4,264,20774,0,0,3,109,7770,0,0
+Winter Wheat For Grain (Bushels),Washington,0,0,0,0,0,1,NA,NA,0,0
+Winter Wheat For Grain (Bushels),Westmoreland,26,NA,NA,2,NA,32,6047,448517,1,NA
+Winter Wheat For Grain (Bushels),Wythe,5,1305,64375,1,NA,2,NA,NA,0,0
+Winter Wheat For Grain (Bushels),Chesapeake City,10,2037,145811,0,0,11,4255,272381,0,0
+Winter Wheat For Grain (Bushels),Suffolk,17,4421,246818,0,0,22,4818,317255,0,0
+Winter Wheat For Grain (Bushels),Virginia Beach City,4,2896,217000,0,0,6,1588,114488,0,0
+Other Spring Wheat For Grain (Bushels),Rockingham,1,NA,NA,0,0,0,0,0,0,0
+Other Spring Wheat For Grain (Bushels),Westmoreland,1,NA,NA,0,0,0,0,0,0,0
