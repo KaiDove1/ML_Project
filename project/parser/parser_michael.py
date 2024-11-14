@@ -3,7 +3,7 @@ from enum import Enum
 
 import pandas as pd
 
-COLUMN_NAMES = [
+TABLE_25_COLUMN_NAMES = [
     "harvested_farms_2022",
     "harvested_acres_2022",
     "harvested_quantity_2022",
@@ -17,11 +17,28 @@ COLUMN_NAMES = [
 ]
 
 
+TABLE_31_COLUMN_NAMES = [
+    "total_farms_2022",
+    "total_acres_2022",
+    "total_bearing_age_farms_2022",
+    "total_bearing_age_acres_2022",
+    "total_nonbearing_age_farms_2022",
+    "total_nonbearing_age_acres_2022",
+    "total_farms_2017",
+    "total_acres_2017",
+    "total_bearing_age_farms_2017",
+    "total_bearing_age_acres_2017",
+    "total_nonbearing_age_farms_2017",
+    "total_nonbearing_age_acres_2017",
+]
+
+
 class State(Enum):
     INITIAL = 0
     PARSING_CROP_NAME = 1
     PARSING_STATE_TOTAL = 2
     PARSING_COUNTIES = 3
+    CONTINUED_TABLE_HEADER = 4
 
 
 """
@@ -42,18 +59,33 @@ def standardize_cell_value(cell_value: str):
     if cell_value == "-":
         return 0
 
+    if cell_value == "(Z)":
+        return 0
+
     raise ValueError(f"Unexpected cell value: {cell_value}")
 
 
-def main():
-    # We will go line-by-line through the file.
-    with open("data/census_data/table25_clean.txt") as f:
-        lines = f.read().split("\n")
-
+def parse_va_census_table(lines: list[str], column_names: list[str]) -> pd.DataFrame:
     state = State.INITIAL
     crop = ""
     data = []
     for lineno, line in enumerate(lines):
+        if line.count(":") != 1 or re.match(r"Table \d+\.+.+", line):
+            assert state in [
+                State.INITIAL,
+                State.PARSING_COUNTIES,
+                State.CONTINUED_TABLE_HEADER,
+            ], f"Unexpected line at lineno {lineno}: {line}"
+
+            match state:
+                case State.INITIAL | State.CONTINUED_TABLE_HEADER:
+                    pass
+
+                case State.PARSING_COUNTIES:
+                    state = State.CONTINUED_TABLE_HEADER
+
+            continue
+
         geographic_area_part, data_part = line.split(":")
         geographic_area_part = geographic_area_part.strip()
         data_part = data_part.strip()
@@ -65,7 +97,7 @@ def main():
 
                 is_uppercase = geographic_area_part.upper() == geographic_area_part
                 if is_uppercase:
-                    if not crop.endswith(" "):
+                    if len(crop) > 0 and not crop.endswith(" "):
                         crop += " "
                     crop += geographic_area_part.title()
                     continue
@@ -94,6 +126,9 @@ def main():
                 if geographic_area_part == "":
                     continue
 
+                if "Con." in geographic_area_part:
+                    continue
+
                 is_uppercase = (
                     geographic_area_part.upper() == geographic_area_part
                 ) and geographic_area_part != ""
@@ -107,7 +142,7 @@ def main():
                 row_data: list[str] = re.split(r"\s+", data_part)
 
                 assert len(row_data) == len(
-                    COLUMN_NAMES
+                    column_names
                 ), f"Unexpected number of columns. Got: {row_data}"
 
                 data.append(
@@ -116,15 +151,46 @@ def main():
                         "county": county,
                         **(
                             {
-                                COLUMN_NAMES[i]: standardize_cell_value(row_data[i])
-                                for i in range(len(COLUMN_NAMES))
+                                column_names[i]: standardize_cell_value(row_data[i])
+                                for i in range(len(column_names))
                             }
                         ),
                     }
                 )
 
-    df = pd.DataFrame(data)
+            case State.CONTINUED_TABLE_HEADER:
+                if geographic_area_part == "":
+                    continue
+
+                if geographic_area_part == "Counties - Con.":
+                    state = State.PARSING_COUNTIES
+                    continue
+
+                elif "Con." in geographic_area_part:
+                    continue
+
+                elif geographic_area_part.upper() == geographic_area_part:
+                    continue
+
+                raise ValueError(f"Unexpected line at lineno {lineno}: {line}")
+
+    return pd.DataFrame(data)
+
+
+def main():
+    # We will go line-by-line through the file.
+    with open("data/census_data/table25_clean.txt") as f:
+        lines = f.read().split("\n")
+
+    df = parse_va_census_table(lines, TABLE_25_COLUMN_NAMES)
     df.to_csv("data/census_data/table25_parsed.csv", index=False)
+
+    # We will go line-by-line through the file.
+    with open("data/census_data/table31_clean.txt") as f:
+        lines = f.read().split("\n")
+
+    df = parse_va_census_table(lines, TABLE_31_COLUMN_NAMES)
+    df.to_csv("data/census_data/table31_parsed.csv", index=False)
 
 
 if __name__ == "__main__":

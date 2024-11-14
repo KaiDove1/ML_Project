@@ -1,0 +1,1447 @@
+crop,county,total_farms_2022,total_acres_2022,total_bearing_age_farms_2022,total_bearing_age_acres_2022,total_nonbearing_age_farms_2022,total_nonbearing_age_acres_2022,total_farms_2017,total_acres_2017,total_bearing_age_farms_2017,total_bearing_age_acres_2017,total_nonbearing_age_farms_2017,total_nonbearing_age_acres_2017
+"Noncitrus, All",Accomack,1,NA,1,NA,1,NA,8,23,8,20,5,3
+"Noncitrus, All",Albemarle,93,3062,86,2462,47,600,65,2125,64,1704,28,422
+"Noncitrus, All",Alleghany,3,4,3,2,3,2,3,2,3,2,0,0
+"Noncitrus, All",Amelia,11,NA,7,NA,7,5,9,NA,1,NA,9,6
+"Noncitrus, All",Amherst,20,NA,19,474,7,NA,8,NA,8,NA,4,44
+"Noncitrus, All",Appomattox,10,42,7,16,9,26,7,22,5,NA,4,NA
+"Noncitrus, All",Augusta,49,NA,39,171,29,NA,27,124,24,105,11,19
+"Noncitrus, All",Bath,1,NA,1,NA,0,0,2,NA,2,NA,1,NA
+"Noncitrus, All",Bedford,59,233,35,158,35,75,50,217,38,119,33,98
+"Noncitrus, All",Bland,4,NA,4,NA,0,0,2,NA,0,0,2,NA
+"Noncitrus, All",Botetourt,7,NA,7,248,3,NA,12,293,12,NA,4,NA
+"Noncitrus, All",Brunswick,6,NA,6,5,5,NA,1,NA,1,NA,0,0
+"Noncitrus, All",Buchanan,3,35,3,NA,2,NA,5,12,5,NA,4,NA
+"Noncitrus, All",Buckingham,19,NA,7,NA,14,33,10,NA,7,NA,7,42
+"Noncitrus, All",Campbell,6,14,6,14,3,1,12,NA,11,49,8,NA
+"Noncitrus, All",Caroline,8,NA,8,22,1,NA,13,NA,6,NA,12,15
+"Noncitrus, All",Carroll,43,631,21,556,29,75,38,NA,30,427,24,NA
+"Noncitrus, All",Charles City,8,114,7,NA,2,NA,5,48,5,NA,1,NA
+"Noncitrus, All",Charlotte,21,50,20,NA,2,NA,17,90,12,85,5,5
+"Noncitrus, All",Chesterfield,10,15,8,NA,2,NA,22,8,18,7,6,1
+"Noncitrus, All",Clarke,7,106,7,NA,2,NA,14,NA,14,341,4,NA
+"Noncitrus, All",Craig,11,NA,10,76,4,NA,14,NA,8,10,9,NA
+"Noncitrus, All",Culpeper,23,NA,13,NA,14,71,17,19,11,10,11,9
+"Noncitrus, All",Cumberland,8,NA,8,26,4,NA,5,2,5,2,0,0
+"Noncitrus, All",Dickenson,1,NA,1,NA,1,NA,1,NA,0,0,1,NA
+"Noncitrus, All",Dinwiddie,5,150,5,75,3,75,0,0,0,0,0,0
+"Noncitrus, All",Essex,2,NA,2,NA,2,NA,8,46,8,38,6,8
+"Noncitrus, All",Fairfax,11,14,7,7,9,7,11,78,11,63,8,15
+"Noncitrus, All",Fauquier,95,NA,83,648,39,NA,54,532,50,466,24,66
+"Noncitrus, All",Floyd,51,387,45,378,16,9,32,NA,24,288,22,NA
+"Noncitrus, All",Fluvanna,6,NA,6,26,5,NA,14,43,8,30,12,13
+"Noncitrus, All",Franklin,30,NA,28,63,13,NA,32,NA,27,58,14,NA
+"Noncitrus, All",Frederick,49,4436,35,4216,37,220,35,4584,29,4034,17,550
+"Noncitrus, All",Giles,9,34,6,12,6,22,4,10,3,NA,2,NA
+"Noncitrus, All",Gloucester,7,NA,1,NA,7,18,8,4,8,4,0,0
+"Noncitrus, All",Goochland,6,31,6,NA,2,NA,8,32,4,13,7,18
+"Noncitrus, All",Grayson,22,43,12,7,19,35,15,NA,15,18,6,NA
+"Noncitrus, All",Greene,10,12,3,NA,7,NA,9,NA,8,14,1,NA
+"Noncitrus, All",Greensville,0,0,0,0,0,0,1,NA,1,NA,1,NA
+"Noncitrus, All",Halifax,19,NA,16,30,5,NA,18,40,11,31,10,9
+"Noncitrus, All",Hanover,7,NA,5,54,4,NA,17,137,12,85,15,53
+"Noncitrus, All",Henrico,6,NA,2,NA,5,1,10,6,10,NA,5,NA
+"Noncitrus, All",Henry,16,NA,9,24,11,NA,2,NA,2,NA,1,NA
+"Noncitrus, All",Highland,13,NA,11,29,8,NA,7,NA,7,NA,0,0
+"Noncitrus, All",Isle of Wight,10,21,10,NA,2,NA,8,NA,8,23,2,NA
+"Noncitrus, All",James City,12,143,4,82,12,61,10,NA,5,96,7,NA
+"Noncitrus, All",King and Queen,6,6,6,1,6,5,6,1,0,0,6,1
+"Noncitrus, All",King George,12,28,7,4,12,24,3,NA,3,NA,0,0
+"Noncitrus, All",King William,2,NA,0,0,2,NA,1,NA,1,NA,1,NA
+"Noncitrus, All",Lancaster,3,NA,3,NA,0,0,3,NA,3,NA,1,NA
+"Noncitrus, All",Lee,16,NA,8,148,10,NA,10,17,2,NA,8,NA
+"Noncitrus, All",Loudoun,159,1236,138,1102,61,134,110,NA,94,955,53,NA
+"Noncitrus, All",Louisa,22,67,12,46,19,21,29,73,23,61,16,12
+"Noncitrus, All",Lunenburg,11,9,11,5,3,3,6,21,4,5,6,16
+"Noncitrus, All",Madison,32,247,25,186,19,62,33,NA,27,163,10,NA
+"Noncitrus, All",Mecklenburg,18,89,16,79,11,10,35,73,19,59,25,14
+"Noncitrus, All",Middlesex,9,27,4,NA,5,NA,3,NA,3,NA,0,0
+"Noncitrus, All",Montgomery,23,NA,14,62,13,NA,12,60,12,46,9,15
+"Noncitrus, All",Nelson,51,1274,50,1117,28,156,38,1150,30,965,24,185
+"Noncitrus, All",New Kent,19,NA,11,150,15,NA,10,136,10,116,4,20
+"Noncitrus, All",Northampton,4,1,4,0,4,0,4,NA,4,NA,0,0
+"Noncitrus, All",Northumberland,13,NA,13,94,8,NA,3,NA,3,NA,1,NA
+"Noncitrus, All",Nottoway,14,26,7,17,11,9,11,52,8,8,11,44
+"Noncitrus, All",Orange,19,NA,19,374,7,NA,18,317,18,NA,4,NA
+"Noncitrus, All",Page,7,22,1,NA,7,NA,2,NA,2,NA,0,0
+"Noncitrus, All",Patrick,31,176,24,133,12,43,23,268,21,196,10,72
+"Noncitrus, All",Pittsylvania,19,NA,18,34,3,NA,33,74,24,54,20,21
+"Noncitrus, All",Powhatan,11,11,11,8,9,4,7,9,5,NA,2,NA
+"Noncitrus, All",Prince Edward,15,44,13,36,10,8,4,10,3,NA,3,NA
+"Noncitrus, All",Prince George,0,0,0,0,0,0,1,NA,1,NA,1,NA
+"Noncitrus, All",Prince William,11,NA,9,15,5,NA,25,28,11,7,16,22
+"Noncitrus, All",Pulaski,19,NA,17,41,10,NA,8,21,8,12,4,9
+"Noncitrus, All",Rappahannock,59,NA,44,564,44,NA,40,NA,35,390,30,NA
+"Noncitrus, All",Richmond,0,0,0,0,0,0,5,NA,5,NA,0,0
+"Noncitrus, All",Roanoke,28,92,14,39,19,53,14,50,14,50,0,0
+"Noncitrus, All",Rockbridge,30,135,28,124,13,12,27,91,21,69,14,22
+"Noncitrus, All",Rockingham,39,NA,26,NA,21,75,43,1033,35,903,25,130
+"Noncitrus, All",Russell,16,10,16,NA,1,NA,4,NA,4,NA,0,0
+"Noncitrus, All",Scott,12,8,8,5,10,3,17,26,7,8,13,18
+"Noncitrus, All",Shenandoah,56,1147,33,970,43,177,35,NA,21,822,23,NA
+"Noncitrus, All",Smyth,5,NA,4,NA,4,2,4,3,4,3,0,0
+"Noncitrus, All",Southampton,4,NA,2,NA,4,1,4,1,4,1,0,0
+"Noncitrus, All",Spotsylvania,21,62,21,48,13,15,17,107,12,92,11,15
+"Noncitrus, All",Stafford,17,162,17,159,4,3,10,NA,8,NA,3,NA
+"Noncitrus, All",Surry,5,NA,5,20,2,NA,5,NA,2,NA,3,1
+"Noncitrus, All",Tazewell,24,NA,19,12,12,NA,4,5,4,NA,2,NA
+"Noncitrus, All",Warren,9,37,8,NA,2,NA,18,91,13,72,10,19
+"Noncitrus, All",Washington,34,NA,28,25,15,NA,36,NA,31,62,23,NA
+"Noncitrus, All",Westmoreland,10,129,10,118,4,11,19,NA,18,234,7,NA
+"Noncitrus, All",Wise,7,NA,4,NA,3,33,10,NA,8,44,6,NA
+"Noncitrus, All",Wythe,3,NA,2,NA,2,NA,6,NA,6,NA,1,NA
+"Noncitrus, All",Chesapeake City,13,51,13,NA,1,NA,13,7,5,2,13,6
+"Noncitrus, All",Suffolk,3,NA,3,6,2,NA,7,NA,5,2,2,NA
+"Noncitrus, All",Virginia Beach City,3,NA,3,NA,0,0,6,32,6,22,5,9
+Apples,Accomack,0,0,0,0,0,0,3,NA,3,NA,0,0
+Apples,Albemarle,21,NA,20,NA,5,NA,12,NA,11,NA,11,NA
+Apples,Alleghany,3,0,3,0,0,0,3,1,3,1,0,0
+Apples,Amelia,7,3,7,3,3,1,9,6,1,NA,8,NA
+Apples,Amherst,5,344,4,337,5,7,3,NA,3,NA,2,NA
+Apples,Appomattox,3,NA,0,0,3,NA,3,NA,1,NA,2,NA
+Apples,Augusta,16,15,5,7,15,8,11,8,6,4,7,4
+Apples,Bath,1,NA,1,NA,0,0,2,NA,2,NA,1,NA
+Apples,Bedford,34,119,14,68,26,51,22,115,12,43,19,72
+Apples,Bland,3,NA,3,NA,0,0,2,NA,0,0,2,NA
+Apples,Botetourt,4,NA,4,NA,2,NA,5,NA,5,NA,1,NA
+Apples,Brunswick,6,3,6,3,0,0,1,NA,1,NA,0,0
+Apples,Buchanan,2,NA,2,NA,2,NA,0,0,0,0,0,0
+Apples,Buckingham,15,31,3,6,12,25,7,40,4,5,5,35
+Apples,Campbell,1,NA,1,NA,0,0,7,60,6,17,4,43
+Apples,Caroline,0,0,0,0,0,0,9,7,0,0,9,7
+Apples,Carroll,36,448,20,394,23,54,26,361,18,316,14,45
+Apples,Charles City,1,NA,1,NA,1,NA,2,NA,2,NA,1,NA
+Apples,Charlotte,14,13,13,NA,1,NA,9,8,4,8,5,1
+Apples,Chesterfield,0,0,0,0,0,0,6,1,6,1,0,0
+Apples,Clarke,2,NA,2,NA,2,NA,4,337,4,NA,2,NA
+Apples,Craig,11,97,10,76,4,21,12,11,8,9,6,2
+Apples,Culpeper,10,13,5,2,8,11,8,3,5,NA,4,NA
+Apples,Cumberland,8,10,8,8,4,2,0,0,0,0,0,0
+Apples,Dickenson,0,0,0,0,0,0,1,NA,0,0,1,NA
+Apples,Fairfax,6,1,0,0,6,1,7,3,3,2,6,1
+Apples,Fauquier,41,151,23,83,20,68,17,102,13,77,10,25
+Apples,Floyd,43,170,32,165,14,5,20,171,12,154,17,17
+Apples,Fluvanna,5,33,5,25,4,8,7,9,5,NA,6,NA
+Apples,Franklin,12,24,7,18,8,5,18,36,13,30,10,6
+Apples,Frederick,25,4170,21,4028,14,142,30,4400,24,3892,17,508
+Apples,Giles,7,27,4,NA,6,NA,1,NA,0,0,1,NA
+Apples,Gloucester,1,NA,1,NA,0,0,7,NA,7,NA,0,0
+Apples,Goochland,5,15,5,NA,2,NA,7,NA,3,NA,7,NA
+Apples,Grayson,19,17,11,6,17,11,13,16,13,NA,2,NA
+Apples,Greene,4,4,0,0,4,4,1,NA,0,0,1,NA
+Apples,Greensville,0,0,0,0,0,0,1,NA,1,NA,0,0
+Apples,Halifax,4,8,1,NA,4,NA,7,5,3,NA,5,NA
+Apples,Hanover,1,NA,1,NA,1,NA,5,27,2,NA,5,NA
+Apples,Henrico,1,NA,1,NA,0,0,0,0,0,0,0,0
+Apples,Henry,11,7,4,2,9,6,1,NA,1,NA,1,NA
+Apples,Highland,11,34,11,29,6,5,6,19,6,19,0,0
+Apples,Isle of Wight,5,1,5,1,0,0,3,NA,2,NA,2,NA
+Apples,James City,8,14,0,0,8,14,3,NA,1,NA,2,NA
+Apples,King and Queen,6,4,0,0,6,4,0,0,0,0,0,0
+Apples,King George,9,6,7,NA,3,NA,1,NA,1,NA,0,0
+Apples,King William,0,0,0,0,0,0,1,NA,1,NA,1,NA
+Apples,Lancaster,1,NA,1,NA,0,0,0,0,0,0,0,0
+Apples,Lee,5,NA,5,NA,2,NA,7,9,2,NA,5,NA
+Apples,Loudoun,36,48,18,27,23,21,31,45,20,40,13,5
+Apples,Louisa,18,14,8,NA,13,NA,20,7,6,2,14,5
+Apples,Lunenburg,9,5,9,4,3,1,6,8,1,NA,6,NA
+Apples,Madison,9,70,9,NA,4,NA,14,73,8,53,9,20
+Apples,Mecklenburg,11,23,10,20,4,3,24,25,12,20,20,6
+Apples,Middlesex,3,NA,3,NA,0,0,3,NA,3,NA,0,0
+Apples,Montgomery,18,79,9,42,12,37,9,40,6,NA,8,NA
+Apples,Nelson,18,633,16,554,12,79,15,747,12,605,13,141
+Apples,New Kent,2,NA,0,0,2,NA,4,12,4,12,0,0
+Apples,Northampton,4,0,0,0,4,0,0,0,0,0,0,0
+Apples,Northumberland,8,51,8,NA,8,NA,2,NA,2,NA,1,NA
+Apples,Nottoway,11,6,3,NA,10,NA,7,14,4,3,7,11
+Apples,Orange,2,NA,2,NA,0,0,3,NA,3,NA,0,0
+Apples,Page,1,NA,1,NA,1,NA,1,NA,1,NA,0,0
+Apples,Patrick,21,110,14,86,10,25,14,196,14,138,7,58
+Apples,Pittsylvania,6,9,6,NA,1,NA,24,25,14,14,16,11
+Apples,Powhatan,1,NA,1,NA,0,0,2,NA,0,0,2,NA
+Apples,Prince Edward,6,13,4,8,6,5,4,5,1,NA,3,NA
+Apples,Prince William,2,NA,1,NA,1,NA,13,1,7,NA,6,NA
+Apples,Pulaski,15,41,15,NA,2,NA,5,8,5,NA,2,NA
+Apples,Rappahannock,17,161,8,147,12,14,20,211,19,193,11,18
+Apples,Roanoke,25,45,11,16,14,29,10,24,10,24,0,0
+Apples,Rockbridge,12,51,10,47,8,3,17,25,11,11,12,15
+Apples,Rockingham,10,NA,10,NA,4,41,13,NA,10,NA,8,NA
+Apples,Russell,14,NA,13,3,1,NA,3,5,3,5,0,0
+Apples,Scott,7,4,2,NA,5,NA,15,19,5,4,11,15
+Apples,Shenandoah,20,NA,5,NA,17,NA,19,NA,8,NA,13,NA
+Apples,Smyth,4,1,4,NA,3,NA,3,NA,3,NA,0,0
+Apples,Southampton,3,NA,1,NA,2,NA,0,0,0,0,0,0
+Apples,Spotsylvania,16,25,10,24,9,2,4,NA,4,NA,0,0
+Apples,Stafford,0,0,0,0,0,0,2,NA,0,0,2,NA
+Apples,Surry,4,14,3,NA,1,NA,3,NA,0,0,3,NA
+Apples,Tazewell,21,16,19,NA,9,NA,3,2,3,NA,1,NA
+Apples,Warren,1,NA,0,0,1,NA,7,NA,2,NA,6,6
+Apples,Washington,22,23,17,15,13,8,22,24,20,14,16,10
+Apples,Westmoreland,1,NA,1,NA,0,0,1,NA,0,0,1,NA
+Apples,Wise,7,NA,4,NA,3,NA,4,NA,4,NA,0,0
+Apples,Wythe,3,NA,2,NA,1,NA,2,NA,2,NA,0,0
+Apples,Chesapeake City,4,39,4,NA,1,NA,4,3,0,0,4,3
+Apples,Suffolk,2,NA,2,NA,1,NA,1,NA,0,0,1,NA
+Apples,Virginia Beach City,1,NA,1,NA,0,0,3,10,3,NA,3,NA
+Apricots,Albemarle,2,NA,1,NA,1,NA,2,NA,1,NA,1,NA
+Apricots,Amelia,4,0,0,0,4,0,0,0,0,0,0,0
+Apricots,Augusta,3,1,3,1,0,0,2,NA,2,NA,0,0
+Apricots,Bedford,2,NA,2,NA,0,0,0,0,0,0,0,0
+Apricots,Buckingham,2,NA,0,0,2,NA,0,0,0,0,0,0
+Apricots,Charles City,1,NA,1,NA,1,NA,1,NA,1,NA,0,0
+Apricots,Culpeper,2,NA,0,0,2,NA,0,0,0,0,0,0
+Apricots,Fairfax,3,NA,2,NA,1,NA,2,NA,2,NA,2,NA
+Apricots,Fauquier,3,2,3,2,0,0,3,3,3,3,0,0
+Apricots,Franklin,1,NA,0,0,1,NA,2,NA,0,0,2,NA
+Apricots,Grayson,0,0,0,0,0,0,2,NA,0,0,2,NA
+Apricots,Hanover,2,NA,1,NA,2,NA,4,NA,1,NA,3,0
+Apricots,Loudoun,5,NA,1,NA,5,NA,0,0,0,0,0,0
+Apricots,Mecklenburg,0,0,0,0,0,0,4,NA,4,NA,0,0
+Apricots,Patrick,1,NA,1,NA,0,0,1,NA,0,0,1,NA
+Apricots,Rockbridge,2,NA,0,0,2,NA,0,0,0,0,0,0
+Apricots,Shenandoah,1,NA,1,NA,0,0,0,0,0,0,0,0
+Apricots,Suffolk,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Cherries, Sweet",Albemarle,3,NA,2,NA,3,NA,4,27,4,21,4,6
+"Cherries, Sweet",Alleghany,3,1,3,0,3,0,0,0,0,0,0,0
+"Cherries, Sweet",Amelia,7,1,3,NA,7,NA,0,0,0,0,0,0
+"Cherries, Sweet",Augusta,2,NA,2,NA,1,NA,2,NA,0,0,2,NA
+"Cherries, Sweet",Bedford,6,1,5,NA,1,NA,4,NA,2,NA,2,NA
+"Cherries, Sweet",Bland,0,0,0,0,0,0,2,NA,0,0,2,NA
+"Cherries, Sweet",Botetourt,1,NA,1,NA,0,0,2,NA,2,NA,0,0
+"Cherries, Sweet",Buchanan,3,7,3,7,0,0,1,NA,1,NA,0,0
+"Cherries, Sweet",Buckingham,2,NA,2,NA,2,NA,3,2,0,0,3,2
+"Cherries, Sweet",Carroll,9,38,7,36,4,2,5,2,3,2,3,1
+"Cherries, Sweet",Charlotte,0,0,0,0,0,0,3,1,0,0,3,1
+"Cherries, Sweet",Clarke,1,NA,1,NA,1,NA,1,NA,1,NA,1,NA
+"Cherries, Sweet",Craig,4,2,0,0,4,2,4,2,0,0,4,2
+"Cherries, Sweet",Culpeper,0,0,0,0,0,0,2,NA,2,NA,0,0
+"Cherries, Sweet",Fairfax,3,0,0,0,3,0,4,NA,0,0,4,NA
+"Cherries, Sweet",Fauquier,15,5,13,NA,6,NA,2,NA,2,NA,2,NA
+"Cherries, Sweet",Floyd,8,3,8,3,0,0,3,1,3,NA,2,NA
+"Cherries, Sweet",Fluvanna,2,NA,0,0,2,NA,0,0,0,0,0,0
+"Cherries, Sweet",Franklin,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Cherries, Sweet",Frederick,5,NA,2,NA,3,NA,2,NA,2,NA,0,0
+"Cherries, Sweet",Grayson,1,NA,0,0,1,NA,2,NA,0,0,2,NA
+"Cherries, Sweet",Hanover,1,NA,1,NA,1,NA,5,2,2,NA,4,NA
+"Cherries, Sweet",Highland,0,0,0,0,0,0,1,NA,1,NA,0,0
+"Cherries, Sweet",Isle of Wight,2,NA,2,NA,0,0,0,0,0,0,0,0
+"Cherries, Sweet",King and Queen,6,1,0,0,6,1,0,0,0,0,0,0
+"Cherries, Sweet",King George,0,0,0,0,0,0,1,NA,1,NA,0,0
+"Cherries, Sweet",Loudoun,20,6,7,4,14,2,7,5,5,NA,2,NA
+"Cherries, Sweet",Louisa,0,0,0,0,0,0,3,NA,3,NA,0,0
+"Cherries, Sweet",Lunenburg,0,0,0,0,0,0,2,NA,0,0,2,NA
+"Cherries, Sweet",Mecklenburg,1,NA,0,0,1,NA,5,1,2,NA,3,NA
+"Cherries, Sweet",Montgomery,8,3,2,NA,6,NA,1,NA,1,NA,0,0
+"Cherries, Sweet",Nelson,3,12,3,12,0,0,2,NA,2,NA,0,0
+"Cherries, Sweet",New Kent,2,NA,0,0,2,NA,0,0,0,0,0,0
+"Cherries, Sweet",Nottoway,1,NA,0,0,1,NA,3,1,0,0,3,1
+"Cherries, Sweet",Orange,1,NA,1,NA,1,NA,1,NA,1,NA,0,0
+"Cherries, Sweet",Patrick,3,1,3,1,0,0,4,7,1,NA,4,NA
+"Cherries, Sweet",Pittsylvania,2,NA,2,NA,0,0,12,3,4,2,8,1
+"Cherries, Sweet",Prince William,3,1,0,0,3,1,11,NA,5,1,6,NA
+"Cherries, Sweet",Pulaski,2,NA,0,0,2,NA,0,0,0,0,0,0
+"Cherries, Sweet",Rappahannock,0,0,0,0,0,0,3,30,0,0,3,30
+"Cherries, Sweet",Roanoke,3,NA,0,0,3,NA,0,0,0,0,0,0
+"Cherries, Sweet",Rockbridge,1,NA,0,0,1,NA,8,NA,2,NA,6,1
+"Cherries, Sweet",Rockingham,2,NA,2,NA,0,0,7,4,7,4,0,0
+"Cherries, Sweet",Scott,0,0,0,0,0,0,6,NA,0,0,6,NA
+"Cherries, Sweet",Shenandoah,7,3,2,NA,5,NA,1,NA,1,NA,0,0
+"Cherries, Sweet",Smyth,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Cherries, Sweet",Spotsylvania,0,0,0,0,0,0,5,NA,0,0,5,NA
+"Cherries, Sweet",Surry,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Cherries, Sweet",Tazewell,3,1,0,0,3,1,0,0,0,0,0,0
+"Cherries, Sweet",Washington,6,2,1,NA,5,NA,5,3,3,2,4,1
+"Cherries, Sweet",Chesapeake City,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Cherries, Sweet",Suffolk,2,NA,1,NA,1,NA,0,0,0,0,0,0
+"Cherries, Tart",Albemarle,2,NA,0,0,2,NA,0,0,0,0,0,0
+"Cherries, Tart",Amherst,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Cherries, Tart",Appomattox,0,0,0,0,0,0,2,NA,2,NA,0,0
+"Cherries, Tart",Augusta,4,0,1,NA,3,NA,4,1,1,NA,3,NA
+"Cherries, Tart",Bath,1,NA,1,NA,0,0,1,NA,1,NA,0,0
+"Cherries, Tart",Bedford,3,0,3,0,0,0,0,0,0,0,0,0
+"Cherries, Tart",Buchanan,2,NA,2,NA,0,0,0,0,0,0,0,0
+"Cherries, Tart",Campbell,3,NA,3,NA,0,0,0,0,0,0,0,0
+"Cherries, Tart",Caroline,0,0,0,0,0,0,2,NA,2,NA,0,0
+"Cherries, Tart",Charles City,1,NA,0,0,1,NA,1,NA,1,NA,0,0
+"Cherries, Tart",Craig,3,2,0,0,3,2,2,NA,2,NA,2,NA
+"Cherries, Tart",Culpeper,3,1,3,1,0,0,1,NA,0,0,1,NA
+"Cherries, Tart",Fairfax,4,1,0,0,4,1,0,0,0,0,0,0
+"Cherries, Tart",Fauquier,5,6,5,NA,1,NA,5,8,5,8,0,0
+"Cherries, Tart",Floyd,9,2,9,2,0,0,2,NA,2,NA,0,0
+"Cherries, Tart",Fluvanna,2,NA,1,NA,1,NA,0,0,0,0,0,0
+"Cherries, Tart",Franklin,1,NA,0,0,1,NA,4,0,0,0,4,0
+"Cherries, Tart",Frederick,4,2,4,NA,1,NA,2,NA,2,NA,0,0
+"Cherries, Tart",Greene,0,0,0,0,0,0,1,NA,1,NA,0,0
+"Cherries, Tart",Hanover,2,NA,1,NA,1,NA,3,1,0,0,3,1
+"Cherries, Tart",Isle of Wight,0,0,0,0,0,0,1,NA,0,0,1,NA
+"Cherries, Tart",Lancaster,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Cherries, Tart",Loudoun,12,3,4,2,9,1,5,1,2,NA,3,NA
+"Cherries, Tart",Louisa,2,NA,2,NA,0,0,6,NA,6,NA,0,0
+"Cherries, Tart",Madison,3,2,3,NA,3,NA,1,NA,1,NA,0,0
+"Cherries, Tart",Montgomery,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Cherries, Tart",Nelson,1,NA,1,NA,0,0,2,NA,2,NA,0,0
+"Cherries, Tart",Page,1,NA,1,NA,0,0,1,NA,1,NA,0,0
+"Cherries, Tart",Patrick,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Cherries, Tart",Pittsylvania,2,NA,2,NA,0,0,2,NA,2,NA,0,0
+"Cherries, Tart",Powhatan,6,1,6,1,6,1,0,0,0,0,0,0
+"Cherries, Tart",Pulaski,1,NA,1,NA,0,0,4,0,3,NA,1,NA
+"Cherries, Tart",Rappahannock,0,0,0,0,0,0,4,1,4,NA,1,NA
+"Cherries, Tart",Rockbridge,1,NA,0,0,1,NA,1,NA,1,NA,0,0
+"Cherries, Tart",Rockingham,3,NA,2,NA,1,NA,6,2,3,1,3,0
+"Cherries, Tart",Shenandoah,2,NA,2,NA,0,0,1,NA,0,0,1,NA
+"Cherries, Tart",Smyth,1,NA,1,NA,0,0,1,NA,1,NA,0,0
+"Cherries, Tart",Spotsylvania,6,1,0,0,6,1,0,0,0,0,0,0
+"Cherries, Tart",Surry,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Cherries, Tart",Tazewell,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Cherries, Tart",Washington,0,0,0,0,0,0,2,NA,2,NA,2,NA
+"Cherries, Tart",Chesapeake City,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Cherries, Tart",Suffolk,1,NA,0,0,1,NA,0,0,0,0,0,0
+Figs,Accomack,0,0,0,0,0,0,2,NA,2,NA,2,NA
+Figs,Albemarle,1,NA,0,0,1,NA,1,NA,1,NA,1,NA
+Figs,Amelia,5,1,1,NA,4,NA,0,0,0,0,0,0
+Figs,Amherst,0,0,0,0,0,0,1,NA,1,NA,0,0
+Figs,Appomattox,1,NA,0,0,1,NA,0,0,0,0,0,0
+Figs,Augusta,1,NA,1,NA,1,NA,0,0,0,0,0,0
+Figs,Bedford,4,NA,2,NA,2,NA,0,0,0,0,0,0
+Figs,Buckingham,4,1,2,NA,4,NA,2,NA,2,NA,0,0
+Figs,Caroline,3,5,3,NA,1,NA,1,NA,0,0,1,NA
+Figs,Charles City,1,NA,0,0,1,NA,2,NA,1,NA,1,NA
+Figs,Charlotte,4,2,4,2,0,0,3,0,0,0,3,0
+Figs,Chesterfield,0,0,0,0,0,0,3,0,0,0,3,0
+Figs,Fairfax,6,1,5,NA,1,NA,7,NA,7,NA,2,NA
+Figs,Fauquier,9,3,9,3,0,0,5,NA,5,1,2,NA
+Figs,Floyd,7,4,7,4,0,0,0,0,0,0,0,0
+Figs,Fluvanna,1,NA,0,0,1,NA,0,0,0,0,0,0
+Figs,Franklin,0,0,0,0,0,0,2,NA,0,0,2,NA
+Figs,Gloucester,1,NA,0,0,1,NA,1,NA,1,NA,0,0
+Figs,Grayson,1,NA,0,0,1,NA,0,0,0,0,0,0
+Figs,Hanover,0,0,0,0,0,0,3,1,0,0,3,1
+Figs,Henrico,3,NA,1,NA,2,NA,0,0,0,0,0,0
+Figs,Isle of Wight,0,0,0,0,0,0,1,NA,1,NA,1,NA
+Figs,King George,6,NA,6,NA,0,0,2,NA,2,NA,0,0
+Figs,Loudoun,13,4,6,1,10,2,8,3,8,3,0,0
+Figs,Louisa,7,NA,0,0,7,NA,0,0,0,0,0,0
+Figs,Madison,3,NA,3,NA,0,0,0,0,0,0,0,0
+Figs,Mecklenburg,5,1,2,NA,3,NA,2,NA,2,NA,0,0
+Figs,Middlesex,2,NA,2,NA,0,0,0,0,0,0,0,0
+Figs,Montgomery,2,NA,0,0,2,NA,0,0,0,0,0,0
+Figs,Nelson,2,NA,2,NA,0,0,1,NA,0,0,1,NA
+Figs,New Kent,6,9,0,0,6,9,0,0,0,0,0,0
+Figs,Northumberland,6,NA,6,NA,0,0,0,0,0,0,0,0
+Figs,Nottoway,1,NA,1,NA,0,0,3,1,3,1,0,0
+Figs,Orange,1,NA,1,NA,1,NA,1,NA,1,NA,0,0
+Figs,Patrick,1,NA,1,NA,0,0,0,0,0,0,0,0
+Figs,Pittsylvania,0,0,0,0,0,0,8,1,2,NA,6,NA
+Figs,Prince William,2,NA,0,0,2,NA,0,0,0,0,0,0
+Figs,Pulaski,1,NA,1,NA,0,0,0,0,0,0,0,0
+Figs,Rappahannock,1,NA,1,NA,0,0,0,0,0,0,0,0
+Figs,Roanoke,3,2,0,0,3,2,2,NA,2,NA,0,0
+Figs,Rockbridge,2,NA,1,NA,1,NA,0,0,0,0,0,0
+Figs,Rockingham,0,0,0,0,0,0,3,0,3,0,0,0
+Figs,Scott,1,NA,1,NA,0,0,0,0,0,0,0,0
+Figs,Shenandoah,2,NA,2,NA,2,NA,0,0,0,0,0,0
+Figs,Southampton,3,0,1,NA,3,NA,0,0,0,0,0,0
+Figs,Spotsylvania,0,0,0,0,0,0,2,NA,0,0,2,NA
+Figs,Washington,2,NA,2,NA,0,0,0,0,0,0,0,0
+Figs,Westmoreland,2,NA,2,NA,2,NA,0,0,0,0,0,0
+Figs,Suffolk,1,NA,1,NA,0,0,0,0,0,0,0,0
+Grapes (Include Muscadine) (See Text),Accomack,0,0,0,0,0,0,1,NA,1,NA,0,0
+Grapes (Include Muscadine) (See Text),Albemarle,77,1277,72,1168,39,108,50,NA,50,NA,15,NA
+Grapes (Include Muscadine) (See Text),Alleghany,3,1,3,0,3,0,0,0,0,0,0,0
+Grapes (Include Muscadine) (See Text),Amelia,1,NA,1,NA,0,0,3,0,0,0,3,0
+Grapes (Include Muscadine) (See Text),Amherst,15,138,15,NA,1,NA,5,23,5,NA,2,NA
+Grapes (Include Muscadine) (See Text),Appomattox,7,33,6,NA,7,NA,4,NA,4,NA,2,NA
+Grapes (Include Muscadine) (See Text),Augusta,27,163,25,150,13,12,13,113,11,100,4,13
+Grapes (Include Muscadine) (See Text),Bedford,24,70,16,48,9,23,27,70,23,50,10,20
+Grapes (Include Muscadine) (See Text),Bland,1,NA,1,NA,0,0,2,NA,0,0,2,NA
+Grapes (Include Muscadine) (See Text),Botetourt,5,NA,5,NA,1,NA,9,NA,9,36,3,NA
+Grapes (Include Muscadine) (See Text),Buchanan,0,0,0,0,0,0,4,NA,4,0,4,NA
+Grapes (Include Muscadine) (See Text),Buckingham,0,0,0,0,0,0,3,8,3,NA,2,NA
+Grapes (Include Muscadine) (See Text),Campbell,2,NA,2,NA,0,0,6,14,5,13,5,2
+Grapes (Include Muscadine) (See Text),Caroline,5,17,5,17,0,0,7,4,3,NA,4,NA
+Grapes (Include Muscadine) (See Text),Carroll,6,6,0,0,6,6,3,NA,3,NA,0,0
+Grapes (Include Muscadine) (See Text),Charles City,7,109,6,NA,1,NA,2,NA,2,NA,0,0
+Grapes (Include Muscadine) (See Text),Charlotte,6,3,6,3,0,0,8,73,6,NA,2,NA
+Grapes (Include Muscadine) (See Text),Chesterfield,8,NA,8,NA,0,0,7,6,6,5,3,1
+Grapes (Include Muscadine) (See Text),Clarke,6,NA,6,65,1,NA,10,NA,10,21,2,NA
+Grapes (Include Muscadine) (See Text),Culpeper,13,72,4,15,10,57,8,13,6,7,6,6
+Grapes (Include Muscadine) (See Text),Cumberland,8,8,8,7,4,1,0,0,0,0,0,0
+Grapes (Include Muscadine) (See Text),Dickenson,1,NA,1,NA,1,NA,0,0,0,0,0,0
+Grapes (Include Muscadine) (See Text),Dinwiddie,5,150,5,75,3,75,0,0,0,0,0,0
+Grapes (Include Muscadine) (See Text),Essex,2,NA,2,NA,2,NA,8,46,8,38,6,8
+Grapes (Include Muscadine) (See Text),Fairfax,11,4,7,2,9,2,11,65,7,53,8,12
+Grapes (Include Muscadine) (See Text),Fauquier,56,552,53,502,19,50,35,340,33,312,11,28
+Grapes (Include Muscadine) (See Text),Floyd,5,156,5,156,0,0,10,118,10,116,3,2
+Grapes (Include Muscadine) (See Text),Fluvanna,0,0,0,0,0,0,9,29,3,NA,8,NA
+Grapes (Include Muscadine) (See Text),Franklin,13,14,13,11,5,4,11,6,9,3,6,3
+Grapes (Include Muscadine) (See Text),Frederick,24,98,17,48,19,50,7,10,7,10,0,0
+Grapes (Include Muscadine) (See Text),Giles,2,NA,2,NA,0,0,3,NA,3,NA,1,NA
+Grapes (Include Muscadine) (See Text),Gloucester,6,NA,0,0,6,NA,0,0,0,0,0,0
+Grapes (Include Muscadine) (See Text),Goochland,1,NA,1,NA,0,0,1,NA,1,NA,0,0
+Grapes (Include Muscadine) (See Text),Grayson,4,NA,1,NA,3,NA,3,NA,1,NA,2,NA
+Grapes (Include Muscadine) (See Text),Greene,2,NA,2,NA,0,0,5,NA,5,NA,0,0
+Grapes (Include Muscadine) (See Text),Greensville,0,0,0,0,0,0,1,NA,0,0,1,NA
+Grapes (Include Muscadine) (See Text),Halifax,15,32,15,NA,1,NA,12,31,9,29,4,2
+Grapes (Include Muscadine) (See Text),Hanover,3,45,3,45,0,0,7,69,7,60,4,9
+Grapes (Include Muscadine) (See Text),Henrico,0,0,0,0,0,0,8,NA,8,NA,5,NA
+Grapes (Include Muscadine) (See Text),Henry,8,22,6,20,4,2,1,NA,1,NA,0,0
+Grapes (Include Muscadine) (See Text),Highland,0,0,0,0,0,0,1,NA,1,NA,0,0
+Grapes (Include Muscadine) (See Text),Isle of Wight,4,NA,4,NA,1,NA,6,21,5,NA,1,NA
+Grapes (Include Muscadine) (See Text),James City,2,NA,2,NA,2,NA,4,NA,4,NA,0,0
+Grapes (Include Muscadine) (See Text),King George,9,19,0,0,9,19,1,NA,1,NA,0,0
+Grapes (Include Muscadine) (See Text),King William,2,NA,0,0,2,NA,0,0,0,0,0,0
+Grapes (Include Muscadine) (See Text),Lancaster,1,NA,1,NA,0,0,1,NA,1,NA,1,NA
+Grapes (Include Muscadine) (See Text),Lee,4,5,4,5,0,0,4,NA,0,0,4,NA
+Grapes (Include Muscadine) (See Text),Loudoun,98,1084,87,1023,25,61,71,1022,62,885,37,137
+Grapes (Include Muscadine) (See Text),Louisa,13,47,7,41,12,6,7,58,7,NA,2,NA
+Grapes (Include Muscadine) (See Text),Lunenburg,3,0,0,0,3,0,5,5,3,NA,5,NA
+Grapes (Include Muscadine) (See Text),Madison,20,167,13,126,12,41,18,107,18,107,0,0
+Grapes (Include Muscadine) (See Text),Mecklenburg,5,57,4,52,3,6,11,31,9,26,3,5
+Grapes (Include Muscadine) (See Text),Middlesex,7,25,2,NA,5,NA,0,0,0,0,0,0
+Grapes (Include Muscadine) (See Text),Montgomery,3,NA,3,NA,1,NA,4,20,4,NA,2,NA
+Grapes (Include Muscadine) (See Text),Nelson,30,454,30,404,11,50,16,254,14,230,7,24
+Grapes (Include Muscadine) (See Text),New Kent,11,154,11,150,7,4,10,124,10,104,4,20
+Grapes (Include Muscadine) (See Text),Northampton,4,0,4,0,0,0,0,0,0,0,0,0
+Grapes (Include Muscadine) (See Text),Northumberland,5,52,5,52,0,0,2,NA,2,NA,0,0
+Grapes (Include Muscadine) (See Text),Nottoway,1,NA,1,NA,1,NA,0,0,0,0,0,0
+Grapes (Include Muscadine) (See Text),Orange,17,362,17,NA,6,NA,15,305,15,NA,4,NA
+Grapes (Include Muscadine) (See Text),Page,6,NA,0,0,6,NA,1,NA,1,NA,0,0
+Grapes (Include Muscadine) (See Text),Patrick,3,NA,3,NA,1,NA,6,25,6,NA,1,NA
+Grapes (Include Muscadine) (See Text),Pittsylvania,13,18,12,NA,2,NA,16,16,7,14,12,3
+Grapes (Include Muscadine) (See Text),Powhatan,1,NA,1,NA,0,0,5,NA,5,NA,0,0
+Grapes (Include Muscadine) (See Text),Prince Edward,2,NA,2,NA,0,0,2,NA,2,NA,2,NA
+Grapes (Include Muscadine) (See Text),Prince George,0,0,0,0,0,0,1,NA,1,NA,1,NA
+Grapes (Include Muscadine) (See Text),Prince William,5,13,5,NA,1,NA,15,23,7,4,10,19
+Grapes (Include Muscadine) (See Text),Pulaski,1,NA,1,NA,0,0,2,NA,2,NA,2,NA
+Grapes (Include Muscadine) (See Text),Rappahannock,30,463,24,400,26,63,19,202,15,172,18,30
+Grapes (Include Muscadine) (See Text),Richmond,0,0,0,0,0,0,1,NA,1,NA,0,0
+Grapes (Include Muscadine) (See Text),Roanoke,1,NA,1,NA,0,0,3,NA,3,NA,0,0
+Grapes (Include Muscadine) (See Text),Rockbridge,13,66,12,62,4,4,10,32,10,NA,2,NA
+Grapes (Include Muscadine) (See Text),Rockingham,19,33,16,NA,7,NA,22,79,17,65,10,14
+Grapes (Include Muscadine) (See Text),Russell,2,NA,2,NA,0,0,1,NA,1,NA,0,0
+Grapes (Include Muscadine) (See Text),Scott,4,0,0,0,4,0,8,4,2,NA,6,NA
+Grapes (Include Muscadine) (See Text),Shenandoah,31,NA,21,NA,19,NA,21,217,13,161,15,56
+Grapes (Include Muscadine) (See Text),Smyth,2,NA,2,NA,0,0,3,1,3,1,0,0
+Grapes (Include Muscadine) (See Text),Southampton,2,NA,0,0,2,NA,0,0,0,0,0,0
+Grapes (Include Muscadine) (See Text),Spotsylvania,5,30,5,20,4,10,10,103,8,89,5,14
+Grapes (Include Muscadine) (See Text),Stafford,7,NA,7,NA,3,NA,5,NA,5,NA,1,NA
+Grapes (Include Muscadine) (See Text),Surry,1,NA,1,NA,1,NA,3,NA,2,NA,1,NA
+Grapes (Include Muscadine) (See Text),Tazewell,5,1,0,0,5,1,2,NA,2,NA,0,0
+Grapes (Include Muscadine) (See Text),Warren,8,NA,8,NA,1,NA,9,37,9,NA,4,NA
+Grapes (Include Muscadine) (See Text),Washington,6,NA,4,NA,3,NA,12,29,12,NA,2,NA
+Grapes (Include Muscadine) (See Text),Westmoreland,6,76,6,76,0,0,15,197,15,NA,4,NA
+Grapes (Include Muscadine) (See Text),Wise,3,NA,0,0,3,NA,8,42,6,NA,6,NA
+Grapes (Include Muscadine) (See Text),Wythe,1,NA,0,0,1,NA,3,NA,3,NA,0,0
+Grapes (Include Muscadine) (See Text),Chesapeake City,8,NA,8,NA,0,0,4,NA,0,0,4,NA
+Grapes (Include Muscadine) (See Text),Suffolk,1,NA,1,NA,0,0,0,0,0,0,0,0
+Grapes (Include Muscadine) (See Text),Virginia Beach City,1,NA,1,NA,0,0,1,NA,1,NA,0,0
+Kiwifruit,Albemarle,1,NA,1,NA,1,NA,5,2,5,1,3,1
+Kiwifruit,Amherst,0,0,0,0,0,0,1,NA,1,NA,0,0
+Kiwifruit,Charlotte,0,0,0,0,0,0,3,0,0,0,3,0
+Kiwifruit,Floyd,2,NA,2,NA,0,0,0,0,0,0,0,0
+Kiwifruit,Grayson,0,0,0,0,0,0,1,NA,1,NA,0,0
+Kiwifruit,Loudoun,0,0,0,0,0,0,1,NA,0,0,1,NA
+Kiwifruit,Madison,0,0,0,0,0,0,2,NA,2,NA,0,0
+Kiwifruit,Montgomery,1,NA,1,NA,0,0,0,0,0,0,0,0
+Kiwifruit,Pulaski,1,NA,1,NA,0,0,0,0,0,0,0,0
+Kiwifruit,Tazewell,2,NA,0,0,2,NA,0,0,0,0,0,0
+Kiwifruit,Virginia Beach City,1,NA,1,NA,0,0,0,0,0,0,0,0
+Nectarines,Albemarle,4,NA,4,NA,1,NA,1,NA,1,NA,1,NA
+Nectarines,Amelia,4,0,0,0,4,0,0,0,0,0,0,0
+Nectarines,Augusta,1,NA,1,NA,0,0,1,NA,0,0,1,NA
+Nectarines,Bedford,1,NA,1,NA,0,0,2,NA,2,NA,0,0
+Nectarines,Botetourt,1,NA,1,NA,0,0,2,NA,2,NA,0,0
+Nectarines,Carroll,4,NA,4,NA,0,0,1,NA,1,NA,1,NA
+Nectarines,Charles City,1,NA,1,NA,1,NA,1,NA,1,NA,0,0
+Nectarines,Clarke,0,0,0,0,0,0,1,NA,1,NA,0,0
+Nectarines,Craig,1,NA,0,0,1,NA,2,NA,0,0,2,NA
+Nectarines,Fairfax,1,NA,0,0,1,NA,2,NA,2,NA,2,NA
+Nectarines,Fauquier,1,NA,1,NA,0,0,0,0,0,0,0,0
+Nectarines,Floyd,6,NA,6,NA,0,0,0,0,0,0,0,0
+Nectarines,Fluvanna,0,0,0,0,0,0,1,NA,0,0,1,NA
+Nectarines,Franklin,9,7,8,NA,1,NA,3,2,3,2,0,0
+Nectarines,Giles,1,NA,1,NA,1,NA,0,0,0,0,0,0
+Nectarines,Hanover,1,NA,1,NA,1,NA,2,NA,2,NA,0,0
+Nectarines,Highland,0,0,0,0,0,0,1,NA,1,NA,0,0
+Nectarines,Isle of Wight,0,0,0,0,0,0,1,NA,0,0,1,NA
+Nectarines,Loudoun,4,2,1,NA,4,NA,3,1,0,0,3,1
+Nectarines,Nelson,1,NA,1,NA,0,0,0,0,0,0,0,0
+Nectarines,Nottoway,1,NA,0,0,1,NA,0,0,0,0,0,0
+Nectarines,Rappahannock,0,0,0,0,0,0,2,NA,2,NA,0,0
+Nectarines,Rockbridge,0,0,0,0,0,0,6,1,0,0,6,1
+Nectarines,Rockingham,1,NA,1,NA,0,0,0,0,0,0,0,0
+Nectarines,Shenandoah,2,NA,1,NA,1,NA,1,NA,1,NA,0,0
+Nectarines,Tazewell,2,NA,0,0,2,NA,0,0,0,0,0,0
+Nectarines,Warren,0,0,0,0,0,0,3,NA,0,0,3,NA
+Nectarines,Washington,0,0,0,0,0,0,2,NA,2,NA,0,0
+Nectarines,Suffolk,0,0,0,0,0,0,1,NA,0,0,1,NA
+Pawpaws (See Text),Amherst,1,NA,0,0,1,NA,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Bedford,3,1,3,1,0,0,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Chesterfield,2,NA,0,0,2,NA,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Clarke,1,NA,1,NA,0,0,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Culpeper,2,NA,0,0,2,NA,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Fairfax,5,NA,0,0,5,NA,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Floyd,2,NA,0,0,2,NA,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Greene,1,NA,1,NA,0,0,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Henrico,1,NA,0,0,1,NA,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Highland,1,NA,0,0,1,NA,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Lancaster,1,NA,1,NA,0,0,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Loudoun,17,7,11,6,9,1,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),New Kent,6,9,0,0,6,9,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Powhatan,3,0,0,0,3,0,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Prince Edward,4,NA,4,NA,0,0,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Prince William,2,NA,2,NA,0,0,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Pulaski,6,1,0,0,6,1,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Rappahannock,6,1,6,1,0,0,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Rockingham,1,NA,1,NA,0,0,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Scott,5,1,5,1,0,0,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Shenandoah,3,0,0,0,3,0,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Smyth,1,NA,0,0,1,NA,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Spotsylvania,6,1,0,0,6,1,NA,NA,NA,NA,NA,NA
+Pawpaws (See Text),Washington,2,NA,0,0,2,NA,NA,NA,NA,NA,NA,NA
+"Peaches, All",Accomack,1,NA,0,0,1,NA,2,NA,2,NA,0,0
+"Peaches, All",Albemarle,3,185,3,185,0,0,6,32,6,NA,1,NA
+"Peaches, All",Alleghany,3,1,3,1,3,0,0,0,0,0,0,0
+"Peaches, All",Amelia,7,1,3,0,7,1,1,NA,0,0,1,NA
+"Peaches, All",Amherst,3,NA,2,NA,1,NA,2,NA,2,NA,0,0
+"Peaches, All",Appomattox,2,NA,1,NA,1,NA,0,0,0,0,0,0
+"Peaches, All",Augusta,18,9,15,9,4,1,9,1,4,NA,5,NA
+"Peaches, All",Bedford,10,33,10,NA,1,NA,11,21,11,16,9,5
+"Peaches, All",Botetourt,2,NA,2,NA,0,0,3,NA,3,NA,0,0
+"Peaches, All",Brunswick,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Peaches, All",Buchanan,3,5,3,5,0,0,1,NA,1,NA,0,0
+"Peaches, All",Buckingham,10,4,2,NA,10,NA,2,NA,2,NA,0,0
+"Peaches, All",Campbell,0,0,0,0,0,0,4,19,3,NA,1,NA
+"Peaches, All",Caroline,1,NA,1,NA,0,0,3,7,1,NA,3,NA
+"Peaches, All",Carroll,17,131,13,118,8,13,18,120,16,105,13,15
+"Peaches, All",Charles City,1,NA,1,NA,1,NA,1,NA,1,NA,0,0
+"Peaches, All",Charlotte,7,17,6,NA,1,NA,7,NA,2,NA,5,NA
+"Peaches, All",Clarke,2,NA,2,NA,2,NA,1,NA,1,NA,1,NA
+"Peaches, All",Craig,0,0,0,0,0,0,1,NA,1,NA,1,NA
+"Peaches, All",Culpeper,8,2,0,0,8,2,5,1,3,NA,3,NA
+"Peaches, All",Cumberland,8,6,8,5,4,1,5,2,5,2,0,0
+"Peaches, All",Dickenson,0,0,0,0,0,0,1,NA,0,0,1,NA
+"Peaches, All",Fairfax,8,3,7,2,6,1,6,2,2,NA,6,NA
+"Peaches, All",Fauquier,26,96,24,44,13,52,9,57,9,NA,3,NA
+"Peaches, All",Floyd,14,36,12,NA,2,NA,7,13,7,NA,2,NA
+"Peaches, All",Fluvanna,4,3,3,NA,4,NA,2,NA,2,NA,1,NA
+"Peaches, All",Franklin,19,31,13,27,6,4,16,23,11,22,6,1
+"Peaches, All",Frederick,11,158,11,130,6,28,9,169,9,NA,2,NA
+"Peaches, All",Gloucester,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Peaches, All",Goochland,2,NA,2,NA,0,0,2,NA,2,NA,2,NA
+"Peaches, All",Grayson,9,8,3,NA,6,NA,4,NA,0,0,4,NA
+"Peaches, All",Greene,3,NA,0,0,3,NA,1,NA,0,0,1,NA
+"Peaches, All",Greensville,0,0,0,0,0,0,1,NA,1,NA,0,0
+"Peaches, All",Halifax,1,NA,1,NA,1,NA,2,NA,2,NA,1,NA
+"Peaches, All",Hanover,3,NA,3,NA,2,NA,8,26,5,NA,6,NA
+"Peaches, All",Henrico,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Peaches, All",Henry,5,2,4,NA,3,NA,1,NA,1,NA,0,0
+"Peaches, All",Highland,0,0,0,0,0,0,1,NA,1,NA,0,0
+"Peaches, All",Isle of Wight,7,3,7,NA,1,NA,2,NA,1,NA,1,NA
+"Peaches, All",James City,2,NA,2,NA,2,NA,6,30,1,NA,5,NA
+"Peaches, All",King and Queen,6,1,0,0,6,1,0,0,0,0,0,0
+"Peaches, All",King George,7,2,1,NA,6,NA,1,NA,1,NA,0,0
+"Peaches, All",Lancaster,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Peaches, All",Lee,12,16,4,15,8,1,4,NA,1,NA,3,0
+"Peaches, All",Loudoun,46,37,30,27,22,10,13,17,8,10,6,6
+"Peaches, All",Louisa,8,1,2,NA,6,NA,3,1,3,1,0,0
+"Peaches, All",Lunenburg,5,2,2,NA,3,NA,4,3,0,0,4,3
+"Peaches, All",Madison,4,NA,3,NA,1,NA,4,NA,4,NA,2,NA
+"Peaches, All",Mecklenburg,5,1,4,NA,1,NA,24,12,11,NA,13,NA
+"Peaches, All",Montgomery,12,7,5,3,7,4,5,NA,5,NA,0,0
+"Peaches, All",Nelson,6,144,6,129,3,14,3,116,3,NA,1,NA
+"Peaches, All",New Kent,2,NA,0,0,2,NA,0,0,0,0,0,0
+"Peaches, All",Northampton,0,0,0,0,0,0,2,NA,2,NA,0,0
+"Peaches, All",Nottoway,9,15,3,12,7,3,6,35,5,5,5,30
+"Peaches, All",Orange,2,NA,2,NA,1,NA,1,NA,1,NA,0,0
+"Peaches, All",Page,1,NA,1,NA,1,NA,1,NA,1,NA,0,0
+"Peaches, All",Patrick,12,26,11,NA,3,NA,5,39,5,NA,2,NA
+"Peaches, All",Pittsylvania,4,14,4,NA,1,NA,13,20,13,NA,2,NA
+"Peaches, All",Powhatan,6,1,6,1,6,1,2,NA,0,0,2,NA
+"Peaches, All",Prince Edward,3,NA,1,NA,2,NA,2,NA,1,NA,1,NA
+"Peaches, All",Prince William,3,2,1,NA,3,NA,13,1,7,1,6,1
+"Peaches, All",Pulaski,5,3,3,NA,2,NA,3,NA,3,NA,0,0
+"Peaches, All",Rappahannock,12,16,3,13,9,3,10,29,6,NA,6,NA
+"Peaches, All",Roanoke,9,24,2,NA,7,NA,2,NA,2,NA,0,0
+"Peaches, All",Rockbridge,13,13,12,NA,1,NA,10,5,4,NA,6,NA
+"Peaches, All",Rockingham,12,38,8,31,6,7,8,NA,8,NA,3,NA
+"Peaches, All",Russell,1,NA,1,NA,1,NA,0,0,0,0,0,0
+"Peaches, All",Scott,7,1,7,NA,1,NA,0,0,0,0,0,0
+"Peaches, All",Shenandoah,18,19,9,15,16,5,1,NA,1,NA,0,0
+"Peaches, All",Smyth,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Peaches, All",Southampton,3,0,1,NA,3,NA,0,0,0,0,0,0
+"Peaches, All",Spotsylvania,9,3,9,2,3,1,3,2,3,NA,3,NA
+"Peaches, All",Stafford,2,NA,2,NA,0,0,3,NA,1,NA,2,NA
+"Peaches, All",Surry,1,NA,1,NA,0,0,1,NA,0,0,1,NA
+"Peaches, All",Tazewell,3,1,0,0,3,1,2,NA,2,NA,1,NA
+"Peaches, All",Warren,1,NA,0,0,1,NA,5,4,0,0,5,4
+"Peaches, All",Washington,14,6,13,NA,1,NA,11,11,7,9,7,2
+"Peaches, All",Westmoreland,2,NA,2,NA,2,NA,3,NA,3,NA,2,NA
+"Peaches, All",Wythe,1,NA,0,0,1,NA,2,NA,2,NA,1,NA
+"Peaches, All",Chesapeake City,1,NA,1,NA,0,0,1,NA,1,NA,1,NA
+"Peaches, All",Suffolk,0,0,0,0,0,0,3,3,1,NA,2,NA
+"Peaches, All",Virginia Beach City,1,NA,1,NA,0,0,3,NA,3,9,3,NA
+"Peaches, Clingstone",Accomack,1,NA,0,0,1,NA,2,NA,2,NA,0,0
+"Peaches, Clingstone",Albemarle,3,15,3,15,0,0,4,NA,4,NA,0,0
+"Peaches, Clingstone",Amelia,7,1,3,0,7,1,0,0,0,0,0,0
+"Peaches, Clingstone",Amherst,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Peaches, Clingstone",Appomattox,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Peaches, Clingstone",Augusta,7,4,4,3,4,1,8,NA,3,NA,5,NA
+"Peaches, Clingstone",Bedford,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Peaches, Clingstone",Buckingham,4,1,2,NA,4,NA,0,0,0,0,0,0
+"Peaches, Clingstone",Campbell,0,0,0,0,0,0,1,NA,0,0,1,NA
+"Peaches, Clingstone",Carroll,2,NA,0,0,2,NA,14,9,12,NA,12,NA
+"Peaches, Clingstone",Charles City,0,0,0,0,0,0,1,NA,1,NA,0,0
+"Peaches, Clingstone",Charlotte,6,NA,6,NA,0,0,3,NA,1,NA,2,NA
+"Peaches, Clingstone",Clarke,0,0,0,0,0,0,1,NA,1,NA,1,NA
+"Peaches, Clingstone",Craig,0,0,0,0,0,0,1,NA,1,NA,1,NA
+"Peaches, Clingstone",Culpeper,5,1,0,0,5,1,2,NA,2,NA,0,0
+"Peaches, Clingstone",Fairfax,8,3,7,2,6,1,6,2,2,NA,6,NA
+"Peaches, Clingstone",Fauquier,3,2,3,2,0,0,4,NA,4,NA,0,0
+"Peaches, Clingstone",Floyd,7,16,5,NA,2,NA,1,NA,1,NA,0,0
+"Peaches, Clingstone",Fluvanna,0,0,0,0,0,0,1,NA,1,NA,1,NA
+"Peaches, Clingstone",Franklin,7,5,2,NA,5,NA,3,NA,2,NA,1,NA
+"Peaches, Clingstone",Frederick,6,40,6,NA,2,NA,1,NA,1,NA,1,NA
+"Peaches, Clingstone",Gloucester,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Peaches, Clingstone",Grayson,9,NA,3,NA,6,NA,2,NA,0,0,2,NA
+"Peaches, Clingstone",Greensville,0,0,0,0,0,0,1,NA,1,NA,0,0
+"Peaches, Clingstone",Hanover,1,NA,1,NA,1,NA,5,NA,2,NA,3,NA
+"Peaches, Clingstone",Highland,0,0,0,0,0,0,1,NA,1,NA,0,0
+"Peaches, Clingstone",Isle of Wight,2,NA,2,NA,0,0,1,NA,0,0,1,NA
+"Peaches, Clingstone",King and Queen,6,1,0,0,6,1,0,0,0,0,0,0
+"Peaches, Clingstone",King George,7,2,1,NA,6,NA,1,NA,1,NA,0,0
+"Peaches, Clingstone",Lancaster,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Peaches, Clingstone",Lee,1,NA,1,NA,0,0,1,NA,1,NA,0,0
+"Peaches, Clingstone",Loudoun,24,7,20,3,6,3,7,5,4,NA,3,NA
+"Peaches, Clingstone",Louisa,6,NA,0,0,6,NA,0,0,0,0,0,0
+"Peaches, Clingstone",Lunenburg,3,NA,0,0,3,NA,4,NA,0,0,4,NA
+"Peaches, Clingstone",Madison,2,NA,2,NA,0,0,2,NA,2,NA,0,0
+"Peaches, Clingstone",Mecklenburg,2,NA,2,NA,0,0,17,9,5,NA,12,NA
+"Peaches, Clingstone",Montgomery,7,4,0,0,7,4,3,0,3,0,0,0
+"Peaches, Clingstone",Nelson,5,28,5,NA,1,NA,3,NA,3,NA,0,0
+"Peaches, Clingstone",New Kent,2,NA,0,0,2,NA,0,0,0,0,0,0
+"Peaches, Clingstone",Nottoway,8,NA,2,NA,7,3,6,NA,5,NA,5,30
+"Peaches, Clingstone",Orange,2,NA,2,NA,1,NA,1,NA,1,NA,0,0
+"Peaches, Clingstone",Page,1,NA,1,NA,0,0,1,NA,1,NA,0,0
+"Peaches, Clingstone",Patrick,6,NA,6,NA,0,0,1,NA,1,NA,1,NA
+"Peaches, Clingstone",Pittsylvania,1,NA,1,NA,1,NA,4,2,4,NA,2,NA
+"Peaches, Clingstone",Prince Edward,0,0,0,0,0,0,2,NA,1,NA,1,NA
+"Peaches, Clingstone",Prince William,3,2,1,NA,3,NA,2,NA,2,NA,0,0
+"Peaches, Clingstone",Pulaski,3,NA,1,NA,2,NA,1,NA,1,NA,0,0
+"Peaches, Clingstone",Rappahannock,8,6,2,NA,6,NA,3,NA,3,NA,0,0
+"Peaches, Clingstone",Roanoke,7,NA,0,0,7,NA,0,0,0,0,0,0
+"Peaches, Clingstone",Rockbridge,2,NA,1,NA,1,NA,2,NA,2,NA,0,0
+"Peaches, Clingstone",Rockingham,4,12,4,12,0,0,2,NA,2,NA,0,0
+"Peaches, Clingstone",Scott,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Peaches, Clingstone",Shenandoah,10,1,1,NA,9,NA,0,0,0,0,0,0
+"Peaches, Clingstone",Smyth,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Peaches, Clingstone",Spotsylvania,9,3,9,2,3,1,0,0,0,0,0,0
+"Peaches, Clingstone",Stafford,0,0,0,0,0,0,2,NA,0,0,2,NA
+"Peaches, Clingstone",Surry,1,NA,1,NA,0,0,1,NA,0,0,1,NA
+"Peaches, Clingstone",Tazewell,2,NA,0,0,2,NA,0,0,0,0,0,0
+"Peaches, Clingstone",Warren,1,NA,0,0,1,NA,5,4,0,0,5,4
+"Peaches, Clingstone",Washington,1,NA,1,NA,0,0,4,1,2,NA,4,NA
+"Peaches, Clingstone",Wythe,1,NA,0,0,1,NA,1,NA,1,NA,1,NA
+"Peaches, Clingstone",Suffolk,0,0,0,0,0,0,1,NA,0,0,1,NA
+"Peaches, Clingstone",Virginia Beach City,0,0,0,0,0,0,3,NA,3,9,3,NA
+"Peaches, Freestone",Albemarle,3,171,3,171,0,0,2,NA,2,NA,1,NA
+"Peaches, Freestone",Alleghany,3,1,3,1,3,0,0,0,0,0,0,0
+"Peaches, Freestone",Amelia,0,0,0,0,0,0,1,NA,0,0,1,NA
+"Peaches, Freestone",Amherst,2,NA,2,NA,0,0,2,NA,2,NA,0,0
+"Peaches, Freestone",Appomattox,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Peaches, Freestone",Augusta,11,5,11,5,0,0,1,NA,1,NA,0,0
+"Peaches, Freestone",Bedford,9,NA,9,33,1,NA,11,21,11,16,9,5
+"Peaches, Freestone",Botetourt,2,NA,2,NA,0,0,3,NA,3,NA,0,0
+"Peaches, Freestone",Brunswick,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Peaches, Freestone",Buchanan,3,5,3,5,0,0,1,NA,1,NA,0,0
+"Peaches, Freestone",Buckingham,6,3,0,0,6,3,2,NA,2,NA,0,0
+"Peaches, Freestone",Campbell,0,0,0,0,0,0,3,NA,3,NA,0,0
+"Peaches, Freestone",Caroline,1,NA,1,NA,0,0,3,7,1,NA,3,NA
+"Peaches, Freestone",Carroll,15,NA,13,118,6,NA,6,111,6,NA,1,NA
+"Peaches, Freestone",Charles City,1,NA,1,NA,1,NA,1,NA,1,NA,0,0
+"Peaches, Freestone",Charlotte,1,NA,0,0,1,NA,5,3,2,NA,3,NA
+"Peaches, Freestone",Clarke,2,NA,2,NA,2,NA,1,NA,1,NA,1,NA
+"Peaches, Freestone",Culpeper,3,1,0,0,3,1,3,NA,1,NA,3,NA
+"Peaches, Freestone",Cumberland,8,6,8,5,4,1,5,2,5,2,0,0
+"Peaches, Freestone",Dickenson,0,0,0,0,0,0,1,NA,0,0,1,NA
+"Peaches, Freestone",Fauquier,23,95,21,43,13,52,6,NA,6,NA,3,NA
+"Peaches, Freestone",Floyd,10,20,10,20,0,0,6,NA,6,12,2,NA
+"Peaches, Freestone",Fluvanna,4,3,3,NA,4,NA,2,NA,2,NA,1,NA
+"Peaches, Freestone",Franklin,13,25,12,NA,1,NA,15,NA,11,NA,5,NA
+"Peaches, Freestone",Frederick,10,118,10,NA,4,NA,9,NA,9,124,1,NA
+"Peaches, Freestone",Gloucester,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Peaches, Freestone",Goochland,2,NA,2,NA,0,0,2,NA,2,NA,2,NA
+"Peaches, Freestone",Grayson,6,NA,0,0,6,NA,2,NA,0,0,2,NA
+"Peaches, Freestone",Greene,3,NA,0,0,3,NA,1,NA,0,0,1,NA
+"Peaches, Freestone",Halifax,1,NA,1,NA,1,NA,2,NA,2,NA,1,NA
+"Peaches, Freestone",Hanover,3,7,3,NA,2,NA,8,NA,5,NA,6,4
+"Peaches, Freestone",Henrico,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Peaches, Freestone",Henry,5,2,4,NA,3,NA,1,NA,1,NA,0,0
+"Peaches, Freestone",Highland,0,0,0,0,0,0,1,NA,1,NA,0,0
+"Peaches, Freestone",Isle of Wight,5,NA,5,2,1,NA,1,NA,1,NA,0,0
+"Peaches, Freestone",James City,2,NA,2,NA,2,NA,6,30,1,NA,5,NA
+"Peaches, Freestone",King George,0,0,0,0,0,0,1,NA,1,NA,0,0
+"Peaches, Freestone",Lee,12,NA,4,NA,8,1,3,0,0,0,3,0
+"Peaches, Freestone",Loudoun,25,31,12,24,17,7,8,11,6,NA,3,NA
+"Peaches, Freestone",Louisa,2,NA,2,NA,0,0,3,1,3,1,0,0
+"Peaches, Freestone",Lunenburg,5,NA,2,NA,3,NA,2,NA,0,0,2,NA
+"Peaches, Freestone",Madison,2,NA,1,NA,1,NA,2,NA,2,NA,2,NA
+"Peaches, Freestone",Mecklenburg,3,NA,2,NA,1,NA,8,3,7,NA,1,NA
+"Peaches, Freestone",Montgomery,5,3,5,3,0,0,2,NA,2,NA,0,0
+"Peaches, Freestone",Nelson,4,116,4,NA,3,NA,3,NA,3,NA,1,NA
+"Peaches, Freestone",Northampton,0,0,0,0,0,0,2,NA,2,NA,0,0
+"Peaches, Freestone",Nottoway,2,NA,2,NA,0,0,1,NA,1,NA,0,0
+"Peaches, Freestone",Orange,1,NA,1,NA,1,NA,1,NA,1,NA,0,0
+"Peaches, Freestone",Page,1,NA,1,NA,1,NA,1,NA,1,NA,0,0
+"Peaches, Freestone",Patrick,7,NA,6,NA,3,NA,4,NA,4,31,1,NA
+"Peaches, Freestone",Pittsylvania,4,NA,4,6,1,NA,11,18,11,18,0,0
+"Peaches, Freestone",Powhatan,6,1,6,1,6,1,2,NA,0,0,2,NA
+"Peaches, Freestone",Prince Edward,3,NA,1,NA,2,NA,1,NA,1,NA,0,0
+"Peaches, Freestone",Prince William,0,0,0,0,0,0,11,NA,5,NA,6,1
+"Peaches, Freestone",Pulaski,2,NA,2,NA,0,0,2,NA,2,NA,0,0
+"Peaches, Freestone",Rappahannock,6,9,3,NA,3,NA,7,NA,3,NA,6,NA
+"Peaches, Freestone",Roanoke,2,NA,2,NA,0,0,2,NA,2,NA,0,0
+"Peaches, Freestone",Rockbridge,11,NA,11,NA,0,0,8,NA,2,NA,6,NA
+"Peaches, Freestone",Rockingham,8,26,4,19,6,7,6,NA,6,15,3,NA
+"Peaches, Freestone",Russell,1,NA,1,NA,1,NA,0,0,0,0,0,0
+"Peaches, Freestone",Scott,6,NA,6,1,1,NA,0,0,0,0,0,0
+"Peaches, Freestone",Shenandoah,9,18,9,NA,7,NA,1,NA,1,NA,0,0
+"Peaches, Freestone",Southampton,3,0,1,NA,3,NA,0,0,0,0,0,0
+"Peaches, Freestone",Spotsylvania,0,0,0,0,0,0,3,2,3,NA,3,NA
+"Peaches, Freestone",Stafford,2,NA,2,NA,0,0,1,NA,1,NA,0,0
+"Peaches, Freestone",Tazewell,3,NA,0,0,3,NA,2,NA,2,NA,1,NA
+"Peaches, Freestone",Washington,13,NA,12,6,1,NA,9,10,5,NA,5,NA
+"Peaches, Freestone",Westmoreland,2,NA,2,NA,2,NA,3,NA,3,NA,2,NA
+"Peaches, Freestone",Wythe,1,NA,0,0,1,NA,1,NA,1,NA,0,0
+"Peaches, Freestone",Chesapeake City,1,NA,1,NA,0,0,1,NA,1,NA,1,NA
+"Peaches, Freestone",Suffolk,0,0,0,0,0,0,3,NA,1,NA,2,NA
+"Peaches, Freestone",Virginia Beach City,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pears, All",Accomack,1,NA,1,NA,0,0,5,NA,5,2,3,NA
+"Pears, All",Albemarle,4,NA,3,NA,4,NA,5,11,4,8,4,3
+"Pears, All",Alleghany,3,1,3,1,3,0,3,1,3,1,0,0
+"Pears, All",Amelia,4,1,4,0,3,1,3,0,0,0,3,0
+"Pears, All",Amherst,2,NA,1,NA,1,NA,0,0,0,0,0,0
+"Pears, All",Appomattox,2,NA,1,NA,1,NA,0,0,0,0,0,0
+"Pears, All",Augusta,7,2,4,NA,4,NA,2,NA,0,0,2,NA
+"Pears, All",Bath,1,NA,1,NA,0,0,1,NA,1,NA,1,NA
+"Pears, All",Bedford,10,7,8,7,4,1,3,NA,1,NA,3,NA
+"Pears, All",Bland,2,NA,2,NA,0,0,0,0,0,0,0,0
+"Pears, All",Botetourt,1,NA,1,NA,0,0,2,NA,2,NA,0,0
+"Pears, All",Brunswick,5,2,4,NA,5,NA,0,0,0,0,0,0
+"Pears, All",Buchanan,2,NA,2,NA,0,0,4,1,4,0,4,0
+"Pears, All",Buckingham,12,4,4,NA,10,NA,2,NA,2,NA,0,0
+"Pears, All",Campbell,3,1,0,0,3,1,3,NA,2,NA,1,NA
+"Pears, All",Caroline,0,0,0,0,0,0,3,NA,2,NA,1,NA
+"Pears, All",Carroll,6,NA,2,NA,4,NA,11,6,9,NA,11,NA
+"Pears, All",Charles City,1,NA,1,NA,1,NA,2,NA,1,NA,1,NA
+"Pears, All",Charlotte,12,11,11,NA,2,NA,5,NA,0,0,5,NA
+"Pears, All",Clarke,1,NA,1,NA,1,NA,1,NA,1,NA,0,0
+"Pears, All",Craig,4,3,0,0,4,3,4,1,0,0,4,1
+"Pears, All",Culpeper,8,2,4,NA,4,NA,9,1,7,1,3,1
+"Pears, All",Cumberland,8,NA,8,5,4,NA,0,0,0,0,0,0
+"Pears, All",Dickenson,0,0,0,0,0,0,1,NA,0,0,1,NA
+"Pears, All",Fairfax,1,NA,0,0,1,NA,3,NA,3,NA,2,NA
+"Pears, All",Fauquier,9,4,7,NA,2,NA,9,19,7,10,7,9
+"Pears, All",Floyd,23,11,17,NA,6,NA,12,11,8,4,9,7
+"Pears, All",Fluvanna,3,NA,1,NA,2,NA,4,NA,2,NA,2,NA
+"Pears, All",Franklin,6,4,2,NA,4,NA,5,1,2,NA,3,NA
+"Pears, All",Frederick,5,3,5,NA,1,NA,9,2,3,NA,6,NA
+"Pears, All",Giles,2,NA,2,NA,2,NA,1,NA,1,NA,0,0
+"Pears, All",Gloucester,1,NA,1,NA,0,0,1,NA,1,NA,0,0
+"Pears, All",Goochland,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pears, All",Grayson,11,5,4,0,10,5,2,NA,0,0,2,NA
+"Pears, All",Greene,3,NA,0,0,3,NA,3,NA,2,NA,1,NA
+"Pears, All",Greensville,0,0,0,0,0,0,1,NA,1,NA,0,0
+"Pears, All",Halifax,0,0,0,0,0,0,5,3,1,NA,4,NA
+"Pears, All",Hanover,2,NA,1,NA,2,NA,3,5,0,0,3,5
+"Pears, All",Henrico,2,NA,2,NA,0,0,0,0,0,0,0,0
+"Pears, All",Henry,7,3,3,1,6,3,0,0,0,0,0,0
+"Pears, All",Highland,1,NA,0,0,1,NA,2,NA,2,NA,0,0
+"Pears, All",Isle of Wight,7,1,7,1,0,0,1,NA,1,NA,1,NA
+"Pears, All",King and Queen,6,1,6,1,6,1,0,0,0,0,0,0
+"Pears, All",King George,6,NA,6,NA,0,0,0,0,0,0,0,0
+"Pears, All",King William,0,0,0,0,0,0,1,NA,0,0,1,NA
+"Pears, All",Lancaster,2,NA,2,NA,0,0,2,NA,2,NA,0,0
+"Pears, All",Lee,11,19,3,NA,8,NA,4,1,0,0,4,1
+"Pears, All",Loudoun,31,12,17,7,15,5,20,18,13,11,10,7
+"Pears, All",Louisa,9,3,0,0,9,3,17,4,14,NA,11,NA
+"Pears, All",Lunenburg,3,2,3,NA,3,NA,4,NA,0,0,4,NA
+"Pears, All",Madison,6,4,6,4,0,0,1,NA,1,NA,1,NA
+"Pears, All",Mecklenburg,6,2,4,NA,4,NA,13,3,6,1,11,2
+"Pears, All",Middlesex,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pears, All",Montgomery,2,NA,2,NA,1,NA,1,NA,1,NA,0,0
+"Pears, All",Nelson,2,NA,2,NA,1,NA,1,NA,1,NA,0,0
+"Pears, All",New Kent,2,NA,0,0,2,NA,0,0,0,0,0,0
+"Pears, All",Northampton,0,0,0,0,0,0,2,NA,2,NA,0,0
+"Pears, All",Northumberland,6,NA,6,NA,0,0,0,0,0,0,0,0
+"Pears, All",Nottoway,2,NA,2,NA,2,NA,4,2,3,1,4,1
+"Pears, All",Orange,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pears, All",Patrick,8,7,2,NA,7,NA,4,NA,4,NA,0,0
+"Pears, All",Pittsylvania,2,NA,2,NA,0,0,18,8,10,4,10,4
+"Pears, All",Powhatan,10,2,7,1,9,1,0,0,0,0,0,0
+"Pears, All",Prince Edward,6,4,6,NA,4,NA,1,NA,0,0,1,NA
+"Pears, All",Prince William,1,NA,0,0,1,NA,13,1,7,NA,6,NA
+"Pears, All",Pulaski,5,6,3,NA,2,NA,2,NA,2,NA,0,0
+"Pears, All",Rappahannock,16,7,7,3,16,4,4,4,4,4,0,0
+"Pears, All",Richmond,0,0,0,0,0,0,1,NA,1,NA,0,0
+"Pears, All",Roanoke,12,14,0,0,12,14,3,7,3,7,0,0
+"Pears, All",Rockbridge,7,2,5,NA,2,NA,9,NA,3,NA,6,2
+"Pears, All",Rockingham,1,NA,1,NA,0,0,1,NA,1,NA,0,0
+"Pears, All",Russell,1,NA,1,NA,1,NA,0,0,0,0,0,0
+"Pears, All",Scott,6,1,5,NA,2,NA,3,NA,3,NA,0,0
+"Pears, All",Shenandoah,9,5,1,NA,8,NA,1,NA,0,0,1,NA
+"Pears, All",Smyth,2,NA,1,NA,1,NA,1,NA,1,NA,0,0
+"Pears, All",Southampton,1,NA,1,NA,1,NA,4,1,4,1,0,0
+"Pears, All",Spotsylvania,9,2,9,1,3,1,0,0,0,0,0,0
+"Pears, All",Stafford,10,NA,9,NA,1,NA,3,NA,3,NA,0,0
+"Pears, All",Surry,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Pears, All",Tazewell,3,NA,1,NA,2,NA,1,NA,1,NA,0,0
+"Pears, All",Warren,1,NA,0,0,1,NA,5,4,0,0,5,4
+"Pears, All",Washington,4,1,3,NA,1,NA,5,4,3,NA,2,NA
+"Pears, All",Wise,0,0,0,0,0,0,2,NA,2,NA,0,0
+"Pears, All",Wythe,1,NA,1,NA,0,0,1,NA,1,NA,0,0
+"Pears, All",Chesapeake City,0,0,0,0,0,0,4,1,4,0,4,0
+"Pears, All",Suffolk,0,0,0,0,0,0,2,NA,0,0,2,NA
+"Pears, All",Virginia Beach City,1,NA,1,NA,0,0,2,NA,2,NA,2,NA
+"Pears, Bartlett",Accomack,1,NA,1,NA,0,0,4,1,4,NA,2,NA
+"Pears, Bartlett",Albemarle,1,NA,1,NA,1,NA,0,0,0,0,0,0
+"Pears, Bartlett",Amelia,3,NA,3,NA,3,1,0,0,0,0,0,0
+"Pears, Bartlett",Appomattox,2,NA,1,NA,1,NA,0,0,0,0,0,0
+"Pears, Bartlett",Augusta,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pears, Bartlett",Bedford,4,NA,2,NA,2,NA,3,NA,1,NA,3,NA
+"Pears, Bartlett",Botetourt,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pears, Bartlett",Brunswick,5,1,4,NA,5,NA,0,0,0,0,0,0
+"Pears, Bartlett",Buchanan,0,0,0,0,0,0,4,1,4,0,4,0
+"Pears, Bartlett",Buckingham,4,1,2,NA,4,NA,2,NA,2,NA,0,0
+"Pears, Bartlett",Campbell,3,1,0,0,3,1,3,NA,2,NA,1,NA
+"Pears, Bartlett",Carroll,4,NA,2,NA,2,NA,2,NA,0,0,2,NA
+"Pears, Bartlett",Charlotte,4,NA,4,NA,0,0,0,0,0,0,0,0
+"Pears, Bartlett",Craig,4,2,0,0,4,2,2,NA,0,0,2,NA
+"Pears, Bartlett",Culpeper,3,NA,0,0,3,NA,0,0,0,0,0,0
+"Pears, Bartlett",Dickenson,0,0,0,0,0,0,1,NA,0,0,1,NA
+"Pears, Bartlett",Fairfax,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Pears, Bartlett",Fauquier,6,2,4,NA,2,NA,0,0,0,0,0,0
+"Pears, Bartlett",Floyd,0,0,0,0,0,0,2,NA,2,NA,0,0
+"Pears, Bartlett",Fluvanna,1,NA,0,0,1,NA,1,NA,1,NA,0,0
+"Pears, Bartlett",Franklin,6,NA,2,NA,4,NA,3,NA,2,NA,1,NA
+"Pears, Bartlett",Frederick,4,2,4,2,0,0,0,0,0,0,0,0
+"Pears, Bartlett",Giles,1,NA,1,NA,1,NA,1,NA,1,NA,0,0
+"Pears, Bartlett",Greene,3,NA,0,0,3,NA,1,NA,0,0,1,NA
+"Pears, Bartlett",Greensville,0,0,0,0,0,0,1,NA,1,NA,0,0
+"Pears, Bartlett",Halifax,0,0,0,0,0,0,5,3,1,NA,4,NA
+"Pears, Bartlett",Hanover,1,NA,1,NA,0,0,3,3,0,0,3,3
+"Pears, Bartlett",Henrico,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pears, Bartlett",Henry,5,1,2,NA,3,NA,0,0,0,0,0,0
+"Pears, Bartlett",Highland,1,NA,0,0,1,NA,1,NA,1,NA,0,0
+"Pears, Bartlett",Isle of Wight,4,1,4,1,0,0,1,NA,0,0,1,NA
+"Pears, Bartlett",King and Queen,6,1,0,0,6,1,0,0,0,0,0,0
+"Pears, Bartlett",King George,6,NA,6,NA,0,0,0,0,0,0,0,0
+"Pears, Bartlett",King William,0,0,0,0,0,0,1,NA,0,0,1,NA
+"Pears, Bartlett",Lee,9,NA,1,NA,8,NA,0,0,0,0,0,0
+"Pears, Bartlett",Loudoun,18,5,11,4,7,1,5,2,2,NA,3,NA
+"Pears, Bartlett",Louisa,7,1,0,0,7,1,8,2,5,NA,3,NA
+"Pears, Bartlett",Lunenburg,0,0,0,0,0,0,2,NA,0,0,2,NA
+"Pears, Bartlett",Mecklenburg,3,NA,2,NA,3,NA,10,1,4,0,10,1
+"Pears, Bartlett",Nelson,2,NA,2,NA,1,NA,0,0,0,0,0,0
+"Pears, Bartlett",New Kent,2,NA,0,0,2,NA,0,0,0,0,0,0
+"Pears, Bartlett",Northampton,0,0,0,0,0,0,2,NA,2,NA,0,0
+"Pears, Bartlett",Northumberland,6,NA,6,NA,0,0,0,0,0,0,0,0
+"Pears, Bartlett",Pittsylvania,1,NA,1,NA,0,0,13,3,5,2,8,1
+"Pears, Bartlett",Powhatan,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pears, Bartlett",Prince Edward,2,NA,2,NA,0,0,0,0,0,0,0,0
+"Pears, Bartlett",Prince William,1,NA,0,0,1,NA,8,NA,2,NA,6,NA
+"Pears, Bartlett",Pulaski,2,NA,0,0,2,NA,0,0,0,0,0,0
+"Pears, Bartlett",Rappahannock,3,0,0,0,3,0,0,0,0,0,0,0
+"Pears, Bartlett",Roanoke,4,2,0,0,4,2,0,0,0,0,0,0
+"Pears, Bartlett",Rockbridge,5,NA,4,0,1,NA,6,1,0,0,6,1
+"Pears, Bartlett",Russell,1,NA,1,NA,1,NA,0,0,0,0,0,0
+"Pears, Bartlett",Scott,4,NA,4,NA,0,0,0,0,0,0,0,0
+"Pears, Bartlett",Smyth,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Pears, Bartlett",Southampton,0,0,0,0,0,0,4,0,4,0,0,0
+"Pears, Bartlett",Tazewell,2,NA,0,0,2,NA,0,0,0,0,0,0
+"Pears, Bartlett",Warren,0,0,0,0,0,0,3,2,0,0,3,2
+"Pears, Bartlett",Washington,0,0,0,0,0,0,4,NA,2,NA,2,NA
+"Pears, Bartlett",Wise,0,0,0,0,0,0,2,NA,2,NA,0,0
+"Pears, Bartlett",Wythe,0,0,0,0,0,0,1,NA,1,NA,0,0
+"Pears, Bartlett",Suffolk,0,0,0,0,0,0,2,NA,0,0,2,NA
+"Pears, Other Than Bartlett",Accomack,0,0,0,0,0,0,1,NA,1,NA,1,NA
+"Pears, Other Than Bartlett",Albemarle,4,18,3,NA,4,NA,5,11,4,8,4,3
+"Pears, Other Than Bartlett",Alleghany,3,1,3,1,3,0,3,1,3,1,0,0
+"Pears, Other Than Bartlett",Amelia,1,NA,1,NA,0,0,3,0,0,0,3,0
+"Pears, Other Than Bartlett",Amherst,2,NA,1,NA,1,NA,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Augusta,6,NA,3,NA,4,NA,2,NA,0,0,2,NA
+"Pears, Other Than Bartlett",Bath,1,NA,1,NA,0,0,1,NA,1,NA,1,NA
+"Pears, Other Than Bartlett",Bedford,9,NA,7,NA,4,NA,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Bland,2,NA,2,NA,0,0,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Botetourt,0,0,0,0,0,0,2,NA,2,NA,0,0
+"Pears, Other Than Bartlett",Brunswick,4,1,4,NA,4,NA,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Buchanan,2,NA,2,NA,0,0,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Buckingham,8,3,2,NA,6,NA,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Caroline,0,0,0,0,0,0,3,NA,2,NA,1,NA
+"Pears, Other Than Bartlett",Carroll,2,NA,0,0,2,NA,11,NA,9,NA,11,NA
+"Pears, Other Than Bartlett",Charles City,1,NA,1,NA,1,NA,2,NA,1,NA,1,NA
+"Pears, Other Than Bartlett",Charlotte,12,NA,11,NA,2,NA,5,NA,0,0,5,NA
+"Pears, Other Than Bartlett",Clarke,1,NA,1,NA,1,NA,1,NA,1,NA,0,0
+"Pears, Other Than Bartlett",Craig,4,2,0,0,4,2,4,NA,0,0,4,NA
+"Pears, Other Than Bartlett",Culpeper,5,NA,4,NA,1,NA,9,1,7,1,3,1
+"Pears, Other Than Bartlett",Cumberland,8,NA,8,5,4,NA,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Fairfax,0,0,0,0,0,0,3,NA,3,NA,2,NA
+"Pears, Other Than Bartlett",Fauquier,3,2,3,2,0,0,9,19,7,10,7,9
+"Pears, Other Than Bartlett",Floyd,23,11,17,NA,6,NA,12,NA,8,NA,9,7
+"Pears, Other Than Bartlett",Fluvanna,3,NA,1,NA,2,NA,4,NA,2,NA,2,NA
+"Pears, Other Than Bartlett",Franklin,3,NA,2,NA,1,NA,4,NA,2,NA,2,NA
+"Pears, Other Than Bartlett",Frederick,4,1,4,NA,1,NA,9,2,3,NA,6,NA
+"Pears, Other Than Bartlett",Giles,1,NA,1,NA,1,NA,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Gloucester,1,NA,1,NA,0,0,1,NA,1,NA,0,0
+"Pears, Other Than Bartlett",Goochland,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Grayson,11,5,4,0,10,5,2,NA,0,0,2,NA
+"Pears, Other Than Bartlett",Greene,3,NA,0,0,3,NA,2,NA,2,NA,0,0
+"Pears, Other Than Bartlett",Hanover,2,NA,1,NA,2,NA,3,3,0,0,3,3
+"Pears, Other Than Bartlett",Henrico,2,NA,2,NA,0,0,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Henry,7,3,3,NA,6,NA,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Highland,1,NA,0,0,1,NA,2,NA,2,NA,0,0
+"Pears, Other Than Bartlett",Isle of Wight,3,1,3,1,0,0,1,NA,1,NA,0,0
+"Pears, Other Than Bartlett",King and Queen,6,1,6,1,0,0,0,0,0,0,0,0
+"Pears, Other Than Bartlett",King William,0,0,0,0,0,0,1,NA,0,0,1,NA
+"Pears, Other Than Bartlett",Lancaster,2,NA,2,NA,0,0,2,NA,2,NA,0,0
+"Pears, Other Than Bartlett",Lee,2,NA,2,NA,0,0,4,1,0,0,4,1
+"Pears, Other Than Bartlett",Loudoun,17,7,8,3,10,4,18,17,12,NA,9,NA
+"Pears, Other Than Bartlett",Louisa,8,2,0,0,8,2,12,2,9,1,11,1
+"Pears, Other Than Bartlett",Lunenburg,3,2,3,NA,3,NA,4,2,0,0,4,2
+"Pears, Other Than Bartlett",Madison,6,4,6,4,0,0,1,NA,1,NA,1,NA
+"Pears, Other Than Bartlett",Mecklenburg,3,NA,2,NA,1,NA,13,2,6,1,11,1
+"Pears, Other Than Bartlett",Middlesex,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Montgomery,2,NA,2,NA,1,NA,1,NA,1,NA,0,0
+"Pears, Other Than Bartlett",Nelson,0,0,0,0,0,0,1,NA,1,NA,0,0
+"Pears, Other Than Bartlett",Northumberland,6,NA,6,NA,0,0,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Nottoway,2,NA,2,NA,2,NA,4,2,3,1,4,1
+"Pears, Other Than Bartlett",Orange,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Patrick,8,7,2,NA,7,NA,4,NA,4,NA,0,0
+"Pears, Other Than Bartlett",Pittsylvania,1,NA,1,NA,0,0,15,5,7,2,10,3
+"Pears, Other Than Bartlett",Powhatan,9,NA,6,NA,9,1,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Prince Edward,6,NA,6,NA,4,NA,1,NA,0,0,1,NA
+"Pears, Other Than Bartlett",Prince William,1,NA,0,0,1,NA,5,NA,5,NA,0,0
+"Pears, Other Than Bartlett",Pulaski,5,NA,3,NA,2,NA,2,NA,2,NA,0,0
+"Pears, Other Than Bartlett",Rappahannock,13,6,7,3,13,4,4,4,4,4,0,0
+"Pears, Other Than Bartlett",Richmond,0,0,0,0,0,0,1,NA,1,NA,0,0
+"Pears, Other Than Bartlett",Roanoke,12,12,0,0,12,12,3,7,3,7,0,0
+"Pears, Other Than Bartlett",Rockbridge,2,NA,1,NA,1,NA,9,NA,3,NA,6,2
+"Pears, Other Than Bartlett",Rockingham,1,NA,1,NA,0,0,1,NA,1,NA,0,0
+"Pears, Other Than Bartlett",Russell,1,NA,1,NA,1,NA,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Scott,2,NA,1,NA,2,NA,3,NA,3,NA,0,0
+"Pears, Other Than Bartlett",Shenandoah,9,5,1,NA,8,NA,1,NA,0,0,1,NA
+"Pears, Other Than Bartlett",Smyth,1,NA,1,NA,0,0,1,NA,1,NA,0,0
+"Pears, Other Than Bartlett",Southampton,1,NA,1,NA,1,NA,4,0,4,0,0,0
+"Pears, Other Than Bartlett",Spotsylvania,9,2,9,1,3,1,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Stafford,10,NA,9,NA,1,NA,3,NA,3,NA,0,0
+"Pears, Other Than Bartlett",Surry,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Tazewell,3,NA,1,NA,2,NA,1,NA,1,NA,0,0
+"Pears, Other Than Bartlett",Warren,1,NA,0,0,1,NA,5,2,0,0,5,2
+"Pears, Other Than Bartlett",Washington,4,1,3,NA,1,NA,5,NA,3,NA,2,NA
+"Pears, Other Than Bartlett",Wythe,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pears, Other Than Bartlett",Chesapeake City,0,0,0,0,0,0,4,1,4,0,4,0
+"Pears, Other Than Bartlett",Virginia Beach City,1,NA,1,NA,0,0,2,NA,2,NA,2,NA
+Persimmons,Amelia,1,NA,1,NA,0,0,0,0,0,0,0,0
+Persimmons,Appomattox,1,NA,0,0,1,NA,0,0,0,0,0,0
+Persimmons,Augusta,1,NA,1,NA,1,NA,0,0,0,0,0,0
+Persimmons,Bedford,0,0,0,0,0,0,2,NA,2,NA,0,0
+Persimmons,Bland,2,NA,2,NA,0,0,0,0,0,0,0,0
+Persimmons,Botetourt,1,NA,1,NA,0,0,2,NA,2,NA,0,0
+Persimmons,Caroline,0,0,0,0,0,0,2,NA,2,NA,0,0
+Persimmons,Charles City,1,NA,1,NA,1,NA,0,0,0,0,0,0
+Persimmons,Charlotte,0,0,0,0,0,0,3,0,0,0,3,0
+Persimmons,Craig,1,NA,0,0,1,NA,2,NA,0,0,2,NA
+Persimmons,Culpeper,6,3,4,NA,2,NA,0,0,0,0,0,0
+Persimmons,Fairfax,2,NA,2,NA,0,0,0,0,0,0,0,0
+Persimmons,Floyd,2,NA,0,0,2,NA,0,0,0,0,0,0
+Persimmons,Fluvanna,1,NA,0,0,1,NA,2,NA,0,0,2,NA
+Persimmons,Giles,1,NA,1,NA,0,0,0,0,0,0,0,0
+Persimmons,Gloucester,1,NA,0,0,1,NA,1,NA,1,NA,0,0
+Persimmons,Grayson,6,NA,0,0,6,NA,2,NA,0,0,2,NA
+Persimmons,Halifax,0,0,0,0,0,0,5,NA,1,NA,5,1
+Persimmons,Henrico,3,NA,1,NA,2,NA,2,NA,2,NA,0,0
+Persimmons,Loudoun,7,30,7,6,4,24,2,NA,1,NA,1,NA
+Persimmons,Louisa,1,NA,0,0,1,NA,8,2,8,2,0,0
+Persimmons,Lunenburg,0,0,0,0,0,0,2,NA,0,0,2,NA
+Persimmons,Madison,2,NA,2,NA,0,0,0,0,0,0,0,0
+Persimmons,Mecklenburg,2,NA,2,NA,0,0,2,NA,2,NA,0,0
+Persimmons,Nelson,6,9,6,NA,6,NA,2,NA,2,NA,2,NA
+Persimmons,New Kent,8,9,0,0,8,9,0,0,0,0,0,0
+Persimmons,Nottoway,0,0,0,0,0,0,1,NA,0,0,1,NA
+Persimmons,Patrick,1,NA,1,NA,0,0,0,0,0,0,0,0
+Persimmons,Pittsylvania,1,NA,1,NA,0,0,2,NA,2,NA,0,0
+Persimmons,Powhatan,3,0,3,0,0,0,0,0,0,0,0,0
+Persimmons,Prince Edward,0,0,0,0,0,0,1,NA,0,0,1,NA
+Persimmons,Prince William,1,NA,0,0,1,NA,6,NA,0,0,6,NA
+Persimmons,Pulaski,2,NA,2,NA,0,0,2,NA,2,NA,0,0
+Persimmons,Rappahannock,6,3,6,NA,6,NA,0,0,0,0,0,0
+Persimmons,Roanoke,3,NA,0,0,3,NA,0,0,0,0,0,0
+Persimmons,Rockbridge,2,NA,1,NA,2,NA,1,NA,1,NA,0,0
+Persimmons,Rockingham,3,2,3,2,0,0,5,2,2,NA,5,NA
+Persimmons,Scott,1,NA,0,0,1,NA,8,1,0,0,8,1
+Persimmons,Smyth,1,NA,0,0,1,NA,0,0,0,0,0,0
+Persimmons,Southampton,0,0,0,0,0,0,4,0,4,0,0,0
+Persimmons,Spotsylvania,9,1,9,1,3,0,0,0,0,0,0,0
+Persimmons,Tazewell,0,0,0,0,0,0,1,NA,0,0,1,NA
+Persimmons,Washington,3,NA,1,NA,2,NA,0,0,0,0,0,0
+Persimmons,Westmoreland,0,0,0,0,0,0,1,NA,0,0,1,NA
+Persimmons,Chesapeake City,1,NA,1,NA,0,0,4,NA,4,NA,4,0
+Persimmons,Suffolk,2,NA,2,NA,1,NA,4,NA,4,NA,0,0
+"Plumcots, Pluots, And Other Plum-Apricot Hybrids",Culpeper,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Plumcots, Pluots, And Other Plum-Apricot Hybrids",Floyd,6,NA,6,NA,0,0,0,0,0,0,0,0
+"Plumcots, Pluots, And Other Plum-Apricot Hybrids",Loudoun,3,NA,1,NA,2,NA,0,0,0,0,0,0
+"Plumcots, Pluots, And Other Plum-Apricot Hybrids",Suffolk,1,NA,1,NA,0,0,0,0,0,0,0,0
+Plums And Prunes,Accomack,1,NA,0,0,1,NA,0,0,0,0,0,0
+Plums And Prunes,Albemarle,2,NA,0,0,2,NA,1,NA,0,0,1,NA
+Plums And Prunes,Alleghany,3,1,3,0,3,0,0,0,0,0,0,0
+Plums And Prunes,Amelia,7,1,3,0,7,1,0,0,0,0,0,0
+Plums And Prunes,Amherst,1,NA,0,0,1,NA,0,0,0,0,0,0
+Plums And Prunes,Appomattox,1,NA,0,0,1,NA,0,0,0,0,0,0
+Plums And Prunes,Augusta,2,NA,2,NA,0,0,1,NA,0,0,1,NA
+Plums And Prunes,Bedford,5,1,1,NA,4,NA,3,NA,3,NA,0,0
+Plums And Prunes,Botetourt,1,NA,1,NA,0,0,2,NA,2,NA,0,0
+Plums And Prunes,Buckingham,0,0,0,0,0,0,5,2,2,NA,3,NA
+Plums And Prunes,Campbell,0,0,0,0,0,0,3,NA,2,NA,1,NA
+Plums And Prunes,Caroline,0,0,0,0,0,0,2,NA,2,NA,2,NA
+Plums And Prunes,Carroll,4,4,2,NA,4,NA,2,NA,0,0,2,NA
+Plums And Prunes,Charles City,0,0,0,0,0,0,1,NA,1,NA,0,0
+Plums And Prunes,Charlotte,4,4,4,4,0,0,3,1,0,0,3,1
+Plums And Prunes,Chesterfield,0,0,0,0,0,0,6,1,6,1,0,0
+Plums And Prunes,Craig,0,0,0,0,0,0,2,NA,2,NA,2,NA
+Plums And Prunes,Culpeper,0,0,0,0,0,0,1,NA,1,NA,1,NA
+Plums And Prunes,Fairfax,0,0,0,0,0,0,1,NA,1,NA,0,0
+Plums And Prunes,Fauquier,5,NA,3,0,2,NA,2,NA,0,0,2,NA
+Plums And Prunes,Floyd,8,4,8,4,0,0,5,2,2,NA,5,NA
+Plums And Prunes,Franklin,1,NA,0,0,1,NA,5,NA,4,NA,1,NA
+Plums And Prunes,Frederick,2,NA,2,NA,0,0,6,NA,0,0,6,NA
+Plums And Prunes,Goochland,2,NA,2,NA,0,0,2,NA,2,NA,2,NA
+Plums And Prunes,Grayson,7,NA,0,0,7,NA,2,NA,0,0,2,NA
+Plums And Prunes,Halifax,0,0,0,0,0,0,1,NA,1,NA,0,0
+Plums And Prunes,Hanover,2,NA,1,NA,2,NA,5,2,2,NA,4,NA
+Plums And Prunes,Henrico,1,NA,1,NA,0,0,0,0,0,0,0,0
+Plums And Prunes,Henry,1,NA,1,NA,0,0,0,0,0,0,0,0
+Plums And Prunes,Isle of Wight,1,NA,1,NA,0,0,2,NA,1,NA,2,NA
+Plums And Prunes,King and Queen,0,0,0,0,0,0,6,1,0,0,6,1
+Plums And Prunes,King George,0,0,0,0,0,0,1,NA,1,NA,0,0
+Plums And Prunes,King William,0,0,0,0,0,0,1,NA,0,0,1,NA
+Plums And Prunes,Lancaster,1,NA,1,NA,0,0,0,0,0,0,0,0
+Plums And Prunes,Lee,1,NA,1,NA,0,0,2,NA,0,0,2,NA
+Plums And Prunes,Loudoun,12,2,2,NA,11,NA,3,NA,2,NA,1,NA
+Plums And Prunes,Louisa,6,1,0,0,6,1,0,0,0,0,0,0
+Plums And Prunes,Lunenburg,3,0,0,0,3,0,2,NA,0,0,2,NA
+Plums And Prunes,Mecklenburg,2,NA,0,0,2,NA,0,0,0,0,0,0
+Plums And Prunes,Middlesex,2,NA,2,NA,0,0,0,0,0,0,0,0
+Plums And Prunes,Montgomery,0,0,0,0,0,0,1,NA,1,NA,0,0
+Plums And Prunes,Nelson,2,NA,2,NA,2,NA,0,0,0,0,0,0
+Plums And Prunes,New Kent,2,NA,0,0,2,NA,0,0,0,0,0,0
+Plums And Prunes,Nottoway,1,NA,0,0,1,NA,4,NA,0,0,4,NA
+Plums And Prunes,Orange,1,NA,1,NA,1,NA,1,NA,1,NA,0,0
+Plums And Prunes,Patrick,0,0,0,0,0,0,1,NA,1,NA,0,0
+Plums And Prunes,Pittsylvania,0,0,0,0,0,0,3,NA,3,NA,0,0
+Plums And Prunes,Powhatan,3,NA,0,0,3,NA,2,NA,0,0,2,NA
+Plums And Prunes,Prince Edward,0,0,0,0,0,0,1,NA,0,0,1,NA
+Plums And Prunes,Pulaski,0,0,0,0,0,0,3,0,3,0,0,0
+Plums And Prunes,Rappahannock,3,NA,0,0,3,NA,2,NA,0,0,2,NA
+Plums And Prunes,Roanoke,4,2,0,0,4,2,0,0,0,0,0,0
+Plums And Prunes,Rockbridge,1,NA,1,NA,0,0,6,NA,0,0,6,NA
+Plums And Prunes,Rockingham,0,0,0,0,0,0,5,1,3,NA,2,NA
+Plums And Prunes,Scott,1,NA,1,NA,1,NA,2,NA,2,NA,0,0
+Plums And Prunes,Shenandoah,2,NA,2,NA,0,0,1,NA,1,NA,0,0
+Plums And Prunes,Southampton,1,NA,1,NA,1,NA,0,0,0,0,0,0
+Plums And Prunes,Spotsylvania,6,1,6,1,0,0,0,0,0,0,0,0
+Plums And Prunes,Stafford,1,NA,1,NA,0,0,0,0,0,0,0,0
+Plums And Prunes,Surry,1,NA,0,0,1,NA,0,0,0,0,0,0
+Plums And Prunes,Tazewell,2,NA,0,0,2,NA,0,0,0,0,0,0
+Plums And Prunes,Warren,1,NA,0,0,1,NA,2,NA,0,0,2,NA
+Plums And Prunes,Washington,2,NA,1,NA,1,NA,6,2,2,NA,4,NA
+Plums And Prunes,Chesapeake City,0,0,0,0,0,0,3,1,0,0,3,1
+Plums And Prunes,Suffolk,0,0,0,0,0,0,1,NA,0,0,1,NA
+Plums,Accomack,1,NA,0,0,1,NA,0,0,0,0,0,0
+Plums,Albemarle,2,NA,0,0,2,NA,1,NA,0,0,1,NA
+Plums,Alleghany,3,1,3,0,3,0,0,0,0,0,0,0
+Plums,Amelia,7,1,3,0,7,1,0,0,0,0,0,0
+Plums,Amherst,1,NA,0,0,1,NA,0,0,0,0,0,0
+Plums,Appomattox,1,NA,0,0,1,NA,0,0,0,0,0,0
+Plums,Augusta,2,NA,2,NA,0,0,1,NA,0,0,1,NA
+Plums,Bedford,5,1,1,NA,4,NA,3,NA,3,NA,0,0
+Plums,Botetourt,1,NA,1,NA,0,0,2,NA,2,NA,0,0
+Plums,Buckingham,0,0,0,0,0,0,5,2,2,NA,3,NA
+Plums,Campbell,0,0,0,0,0,0,3,NA,2,NA,1,NA
+Plums,Caroline,0,0,0,0,0,0,2,NA,2,NA,2,NA
+Plums,Carroll,4,4,2,NA,4,NA,2,NA,0,0,2,NA
+Plums,Charles City,0,0,0,0,0,0,1,NA,1,NA,0,0
+Plums,Charlotte,4,4,4,4,0,0,3,1,0,0,3,1
+Plums,Chesterfield,0,0,0,0,0,0,6,1,6,1,0,0
+Plums,Craig,0,0,0,0,0,0,2,NA,2,NA,2,NA
+Plums,Culpeper,0,0,0,0,0,0,1,NA,1,NA,1,NA
+Plums,Fairfax,0,0,0,0,0,0,1,NA,1,NA,0,0
+Plums,Fauquier,5,NA,3,0,2,NA,2,NA,0,0,2,NA
+Plums,Floyd,8,4,8,4,0,0,5,2,2,NA,5,NA
+Plums,Franklin,1,NA,0,0,1,NA,5,NA,4,NA,1,NA
+Plums,Frederick,2,NA,2,NA,0,0,6,NA,0,0,6,NA
+Plums,Goochland,2,NA,2,NA,0,0,2,NA,2,NA,2,NA
+Plums,Grayson,7,NA,0,0,7,NA,2,NA,0,0,2,NA
+Plums,Halifax,0,0,0,0,0,0,1,NA,1,NA,0,0
+Plums,Hanover,2,NA,1,NA,2,NA,5,2,2,NA,4,NA
+Plums,Henrico,1,NA,1,NA,0,0,0,0,0,0,0,0
+Plums,Henry,1,NA,1,NA,0,0,0,0,0,0,0,0
+Plums,Isle of Wight,1,NA,1,NA,0,0,2,NA,1,NA,2,NA
+Plums,King and Queen,0,0,0,0,0,0,6,1,0,0,6,1
+Plums,King George,0,0,0,0,0,0,1,NA,1,NA,0,0
+Plums,King William,0,0,0,0,0,0,1,NA,0,0,1,NA
+Plums,Lancaster,1,NA,1,NA,0,0,0,0,0,0,0,0
+Plums,Lee,1,NA,1,NA,0,0,2,NA,0,0,2,NA
+Plums,Loudoun,12,2,2,NA,11,NA,3,NA,2,NA,1,NA
+Plums,Louisa,6,1,0,0,6,1,0,0,0,0,0,0
+Plums,Lunenburg,3,0,0,0,3,0,2,NA,0,0,2,NA
+Plums,Mecklenburg,2,NA,0,0,2,NA,0,0,0,0,0,0
+Plums,Middlesex,2,NA,2,NA,0,0,0,0,0,0,0,0
+Plums,Montgomery,0,0,0,0,0,0,1,NA,1,NA,0,0
+Plums,Nelson,2,NA,2,NA,2,NA,0,0,0,0,0,0
+Plums,New Kent,2,NA,0,0,2,NA,0,0,0,0,0,0
+Plums,Nottoway,1,NA,0,0,1,NA,4,NA,0,0,4,NA
+Plums,Orange,1,NA,1,NA,1,NA,1,NA,1,NA,0,0
+Plums,Patrick,0,0,0,0,0,0,1,NA,1,NA,0,0
+Plums,Pittsylvania,0,0,0,0,0,0,3,NA,3,NA,0,0
+Plums,Powhatan,3,NA,0,0,3,NA,2,NA,0,0,2,NA
+Plums,Prince Edward,0,0,0,0,0,0,1,NA,0,0,1,NA
+Plums,Pulaski,0,0,0,0,0,0,3,0,3,0,0,0
+Plums,Rappahannock,3,NA,0,0,3,NA,2,NA,0,0,2,NA
+Plums,Roanoke,4,2,0,0,4,2,0,0,0,0,0,0
+Plums,Rockbridge,1,NA,1,NA,0,0,6,NA,0,0,6,NA
+Plums,Rockingham,0,0,0,0,0,0,5,1,3,NA,2,NA
+Plums,Scott,1,NA,1,NA,1,NA,2,NA,2,NA,0,0
+Plums,Shenandoah,2,NA,2,NA,0,0,1,NA,1,NA,0,0
+Plums,Southampton,1,NA,1,NA,1,NA,0,0,0,0,0,0
+Plums,Spotsylvania,6,1,6,1,0,0,0,0,0,0,0,0
+Plums,Stafford,1,NA,1,NA,0,0,0,0,0,0,0,0
+Plums,Surry,1,NA,0,0,1,NA,0,0,0,0,0,0
+Plums,Tazewell,2,NA,0,0,2,NA,0,0,0,0,0,0
+Plums,Warren,1,NA,0,0,1,NA,2,NA,0,0,2,NA
+Plums,Washington,2,NA,1,NA,1,NA,6,2,2,NA,4,NA
+Plums,Chesapeake City,0,0,0,0,0,0,3,1,0,0,3,1
+Plums,Suffolk,0,0,0,0,0,0,1,NA,0,0,1,NA
+Pomegranates,Accomack,0,0,0,0,0,0,2,NA,2,NA,2,NA
+Pomegranates,Albemarle,1,NA,0,0,1,NA,0,0,0,0,0,0
+Pomegranates,Charles City,1,NA,1,NA,1,NA,0,0,0,0,0,0
+Other Noncitrus Fruit (See Text),Accomack,0,0,0,0,0,0,2,NA,2,NA,2,NA
+Other Noncitrus Fruit (See Text),Buchanan,0,0,0,0,0,0,4,1,4,0,4,0
+Other Noncitrus Fruit (See Text),Buckingham,0,0,0,0,0,0,3,2,0,0,3,2
+Other Noncitrus Fruit (See Text),Caroline,0,0,0,0,0,0,1,NA,0,0,1,NA
+Other Noncitrus Fruit (See Text),Craig,0,0,0,0,0,0,1,NA,1,NA,0,0
+Other Noncitrus Fruit (See Text),Grayson,0,0,0,0,0,0,2,NA,0,0,2,NA
+Other Noncitrus Fruit (See Text),Hanover,0,0,0,0,0,0,2,NA,0,0,2,NA
+Other Noncitrus Fruit (See Text),Loudoun,7,1,0,0,7,1,1,NA,1,NA,0,0
+Other Noncitrus Fruit (See Text),Nelson,0,0,0,0,0,0,4,NA,2,NA,2,NA
+Other Noncitrus Fruit (See Text),Patrick,1,NA,1,NA,0,0,0,0,0,0,0,0
+Other Noncitrus Fruit (See Text),Pittsylvania,0,0,0,0,0,0,2,NA,2,NA,0,0
+Other Noncitrus Fruit (See Text),Powhatan,3,NA,3,NA,3,NA,0,0,0,0,0,0
+Other Noncitrus Fruit (See Text),Richmond,0,0,0,0,0,0,3,0,3,0,0,0
+Other Noncitrus Fruit (See Text),Rockingham,6,18,0,0,6,18,1,NA,1,NA,0,0
+Other Noncitrus Fruit (See Text),Shenandoah,0,0,0,0,0,0,5,NA,5,NA,0,0
+Other Noncitrus Fruit (See Text),Warren,0,0,0,0,0,0,2,NA,2,NA,0,0
+Other Noncitrus Fruit (See Text),Washington,0,0,0,0,0,0,4,6,1,NA,4,NA
+Other Noncitrus Fruit (See Text),Suffolk,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Nuts, All",Accomack,1,NA,0,0,1,NA,4,4,4,NA,2,NA
+"Nuts, All",Albemarle,5,9,5,NA,1,NA,3,6,3,3,3,3
+"Nuts, All",Alleghany,3,1,3,0,3,0,0,0,0,0,0,0
+"Nuts, All",Amelia,8,NA,4,NA,7,1,1,NA,1,NA,0,0
+"Nuts, All",Amherst,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Nuts, All",Appomattox,4,21,0,0,4,21,0,0,0,0,0,0
+"Nuts, All",Augusta,3,NA,3,NA,1,NA,0,0,0,0,0,0
+"Nuts, All",Bath,14,NA,6,NA,14,86,2,NA,0,0,2,NA
+"Nuts, All",Bedford,13,10,11,8,8,2,10,4,10,4,4,1
+"Nuts, All",Bland,2,NA,2,NA,0,0,0,0,0,0,0,0
+"Nuts, All",Botetourt,2,NA,2,NA,0,0,0,0,0,0,0,0
+"Nuts, All",Brunswick,3,NA,2,NA,2,NA,2,NA,2,NA,0,0
+"Nuts, All",Buchanan,6,1,0,0,6,1,4,2,4,1,4,1
+"Nuts, All",Buckingham,1,NA,1,NA,1,NA,4,NA,4,NA,2,NA
+"Nuts, All",Campbell,5,8,0,0,5,8,3,NA,1,NA,2,NA
+"Nuts, All",Caroline,2,NA,0,0,2,NA,1,NA,0,0,1,NA
+"Nuts, All",Carroll,0,0,0,0,0,0,2,NA,0,0,2,NA
+"Nuts, All",Charles City,10,52,7,37,3,15,5,64,3,NA,2,NA
+"Nuts, All",Charlotte,7,18,6,NA,1,NA,9,13,3,12,6,1
+"Nuts, All",Chesterfield,0,0,0,0,0,0,6,2,6,2,0,0
+"Nuts, All",Clarke,0,0,0,0,0,0,4,NA,2,NA,4,NA
+"Nuts, All",Craig,1,NA,0,0,1,NA,4,NA,0,0,4,NA
+"Nuts, All",Culpeper,2,NA,2,NA,0,0,5,1,3,NA,3,NA
+"Nuts, All",Cumberland,1,NA,1,NA,0,0,4,16,4,16,0,0
+"Nuts, All",Dinwiddie,0,0,0,0,0,0,3,NA,3,NA,0,0
+"Nuts, All",Fairfax,3,0,0,0,3,0,0,0,0,0,0,0
+"Nuts, All",Fauquier,4,NA,4,NA,0,0,6,9,6,NA,2,NA
+"Nuts, All",Floyd,7,120,3,0,4,120,1,NA,1,NA,0,0
+"Nuts, All",Fluvanna,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Nuts, All",Franklin,1,NA,0,0,1,NA,4,NA,0,0,4,NA
+"Nuts, All",Frederick,16,10,9,1,7,9,0,0,0,0,0,0
+"Nuts, All",Gloucester,1,NA,1,NA,0,0,3,14,0,0,3,14
+"Nuts, All",Grayson,8,6,8,6,0,0,2,NA,0,0,2,NA
+"Nuts, All",Greene,3,1,0,0,3,1,2,NA,2,NA,0,0
+"Nuts, All",Halifax,1,NA,1,NA,0,0,7,11,0,0,7,11
+"Nuts, All",Hanover,2,NA,2,NA,0,0,3,2,0,0,3,2
+"Nuts, All",Henrico,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Nuts, All",Henry,2,NA,2,NA,0,0,0,0,0,0,0,0
+"Nuts, All",Highland,1,NA,1,NA,0,0,1,NA,1,NA,0,0
+"Nuts, All",Isle of Wight,4,16,4,16,0,0,1,NA,1,NA,1,NA
+"Nuts, All",James City,4,9,1,NA,3,NA,2,NA,2,NA,0,0
+"Nuts, All",Lee,1,NA,1,NA,0,0,6,6,3,NA,4,NA
+"Nuts, All",Loudoun,12,2,2,NA,10,NA,1,NA,1,NA,0,0
+"Nuts, All",Louisa,8,2,2,NA,6,NA,0,0,0,0,0,0
+"Nuts, All",Lunenburg,0,0,0,0,0,0,4,7,4,7,0,0
+"Nuts, All",Madison,7,4,7,3,5,1,1,NA,1,NA,1,NA
+"Nuts, All",Mecklenburg,6,2,3,NA,3,NA,13,16,2,NA,11,NA
+"Nuts, All",Montgomery,2,NA,0,0,2,NA,0,0,0,0,0,0
+"Nuts, All",Nelson,19,101,14,67,10,34,6,33,4,NA,4,NA
+"Nuts, All",New Kent,2,NA,0,0,2,NA,6,6,0,0,6,6
+"Nuts, All",Northampton,0,0,0,0,0,0,2,NA,0,0,2,NA
+"Nuts, All",Northumberland,2,NA,0,0,2,NA,0,0,0,0,0,0
+"Nuts, All",Orange,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Nuts, All",Pittsylvania,1,NA,1,NA,0,0,7,6,5,2,3,4
+"Nuts, All",Powhatan,3,6,3,1,3,5,0,0,0,0,0,0
+"Nuts, All",Prince Edward,7,9,3,NA,4,NA,0,0,0,0,0,0
+"Nuts, All",Prince George,0,0,0,0,0,0,3,NA,3,NA,0,0
+"Nuts, All",Prince William,1,NA,0,0,1,NA,6,8,0,0,6,8
+"Nuts, All",Pulaski,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Nuts, All",Rappahannock,1,NA,0,0,1,NA,2,NA,2,NA,2,NA
+"Nuts, All",Roanoke,3,3,0,0,3,3,0,0,0,0,0,0
+"Nuts, All",Rockbridge,4,6,3,NA,2,NA,5,26,3,NA,2,NA
+"Nuts, All",Rockingham,13,NA,13,96,6,NA,9,18,8,12,4,7
+"Nuts, All",Russell,0,0,0,0,0,0,1,NA,1,NA,0,0
+"Nuts, All",Scott,7,1,6,NA,2,NA,11,6,5,NA,6,NA
+"Nuts, All",Shenandoah,8,13,5,7,4,6,1,NA,1,NA,1,NA
+"Nuts, All",Smyth,3,NA,2,NA,1,NA,0,0,0,0,0,0
+"Nuts, All",Southampton,2,NA,0,0,2,NA,4,7,4,1,4,6
+"Nuts, All",Spotsylvania,8,1,2,NA,6,NA,0,0,0,0,0,0
+"Nuts, All",Surry,1,NA,1,NA,0,0,2,NA,2,NA,0,0
+"Nuts, All",Sussex,2,NA,1,NA,2,NA,4,90,2,NA,4,NA
+"Nuts, All",Tazewell,1,NA,0,0,1,NA,1,NA,1,NA,0,0
+"Nuts, All",Warren,0,0,0,0,0,0,3,1,3,0,3,0
+"Nuts, All",Washington,3,NA,1,NA,3,NA,5,NA,3,NA,5,NA
+"Nuts, All",Westmoreland,7,7,1,NA,6,NA,1,NA,1,NA,1,NA
+"Nuts, All",Wise,2,NA,2,NA,0,0,2,NA,2,NA,2,NA
+"Nuts, All",Wythe,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Nuts, All",Chesapeake City,4,2,0,0,4,2,0,0,0,0,0,0
+"Nuts, All",Suffolk,3,NA,2,NA,1,NA,1,NA,0,0,1,NA
+"Nuts, All",Virginia Beach City,2,NA,2,NA,0,0,3,5,3,5,0,0
+Almonds,Appomattox,3,3,0,0,3,3,0,0,0,0,0,0
+Almonds,Culpeper,0,0,0,0,0,0,2,NA,2,NA,0,0
+Almonds,Hanover,0,0,0,0,0,0,3,NA,0,0,3,NA
+Almonds,Nelson,2,NA,2,NA,0,0,0,0,0,0,0,0
+Almonds,Prince William,1,NA,0,0,1,NA,6,8,0,0,6,8
+Almonds,Shenandoah,1,NA,1,NA,0,0,0,0,0,0,0,0
+Chestnuts,Accomack,0,0,0,0,0,0,2,NA,2,NA,2,NA
+Chestnuts,Albemarle,3,NA,3,NA,0,0,0,0,0,0,0,0
+Chestnuts,Alleghany,3,1,3,0,3,0,0,0,0,0,0,0
+Chestnuts,Amelia,3,1,3,0,3,1,0,0,0,0,0,0
+Chestnuts,Appomattox,3,5,0,0,3,5,0,0,0,0,0,0
+Chestnuts,Bath,14,NA,6,NA,14,86,2,NA,0,0,2,NA
+Chestnuts,Bedford,2,NA,2,NA,0,0,0,0,0,0,0,0
+Chestnuts,Bland,2,NA,2,NA,0,0,0,0,0,0,0,0
+Chestnuts,Buckingham,1,NA,1,NA,1,NA,2,NA,2,NA,2,NA
+Chestnuts,Campbell,5,8,0,0,5,8,2,NA,0,0,2,NA
+Chestnuts,Caroline,2,NA,0,0,2,NA,0,0,0,0,0,0
+Chestnuts,Carroll,0,0,0,0,0,0,2,NA,0,0,2,NA
+Chestnuts,Charlotte,6,NA,6,NA,0,0,9,NA,3,12,6,NA
+Chestnuts,Craig,0,0,0,0,0,0,2,NA,0,0,2,NA
+Chestnuts,Fairfax,3,0,0,0,3,0,0,0,0,0,0,0
+Chestnuts,Fauquier,2,NA,2,NA,0,0,0,0,0,0,0,0
+Chestnuts,Floyd,7,120,3,0,4,120,1,NA,1,NA,0,0
+Chestnuts,Fluvanna,1,NA,0,0,1,NA,0,0,0,0,0,0
+Chestnuts,Franklin,1,NA,0,0,1,NA,2,NA,0,0,2,NA
+Chestnuts,Grayson,8,6,8,6,0,0,2,NA,0,0,2,NA
+Chestnuts,Halifax,0,0,0,0,0,0,4,0,0,0,4,0
+Chestnuts,Hanover,0,0,0,0,0,0,3,NA,0,0,3,NA
+Chestnuts,Henrico,1,NA,1,NA,0,0,0,0,0,0,0,0
+Chestnuts,James City,3,NA,0,0,3,NA,0,0,0,0,0,0
+Chestnuts,Loudoun,3,1,0,0,3,1,0,0,0,0,0,0
+Chestnuts,Louisa,1,NA,1,NA,0,0,0,0,0,0,0,0
+Chestnuts,Montgomery,2,NA,0,0,2,NA,0,0,0,0,0,0
+Chestnuts,Nelson,13,84,8,NA,10,NA,5,NA,3,NA,4,NA
+Chestnuts,Northampton,0,0,0,0,0,0,2,NA,0,0,2,NA
+Chestnuts,Northumberland,2,NA,0,0,2,NA,0,0,0,0,0,0
+Chestnuts,Pittsylvania,0,0,0,0,0,0,3,4,0,0,3,4
+Chestnuts,Powhatan,3,5,3,1,3,4,0,0,0,0,0,0
+Chestnuts,Prince Edward,6,NA,2,NA,4,NA,0,0,0,0,0,0
+Chestnuts,Prince William,1,NA,0,0,1,NA,0,0,0,0,0,0
+Chestnuts,Rappahannock,0,0,0,0,0,0,2,NA,2,NA,0,0
+Chestnuts,Rockbridge,2,NA,2,NA,1,NA,2,NA,2,NA,0,0
+Chestnuts,Rockingham,13,NA,13,96,6,NA,3,NA,3,NA,1,NA
+Chestnuts,Scott,1,NA,1,NA,1,NA,8,NA,2,NA,6,NA
+Chestnuts,Shenandoah,4,NA,0,0,4,NA,1,NA,1,NA,1,NA
+Chestnuts,Smyth,2,NA,2,NA,0,0,0,0,0,0,0,0
+Chestnuts,Tazewell,1,NA,0,0,1,NA,1,NA,1,NA,0,0
+Chestnuts,Washington,3,NA,1,NA,3,NA,1,NA,1,NA,1,NA
+Chestnuts,Westmoreland,0,0,0,0,0,0,1,NA,1,NA,1,NA
+Chestnuts,Wythe,1,NA,1,NA,0,0,0,0,0,0,0,0
+Chestnuts,Chesapeake City,4,1,0,0,4,1,0,0,0,0,0,0
+Chestnuts,Suffolk,1,NA,0,0,1,NA,0,0,0,0,0,0
+Hazelnuts (Filberts),Amherst,1,NA,0,0,1,NA,0,0,0,0,0,0
+Hazelnuts (Filberts),Appomattox,4,6,0,0,4,6,0,0,0,0,0,0
+Hazelnuts (Filberts),Augusta,2,NA,2,NA,0,0,0,0,0,0,0,0
+Hazelnuts (Filberts),Bedford,1,NA,1,NA,0,0,0,0,0,0,0,0
+Hazelnuts (Filberts),Buchanan,0,0,0,0,0,0,4,1,4,0,4,0
+Hazelnuts (Filberts),Buckingham,0,0,0,0,0,0,2,NA,2,NA,0,0
+Hazelnuts (Filberts),Charlotte,1,NA,0,0,1,NA,0,0,0,0,0,0
+Hazelnuts (Filberts),Clarke,0,0,0,0,0,0,2,NA,0,0,2,NA
+Hazelnuts (Filberts),Fluvanna,1,NA,0,0,1,NA,0,0,0,0,0,0
+Hazelnuts (Filberts),Franklin,0,0,0,0,0,0,2,NA,0,0,2,NA
+Hazelnuts (Filberts),Frederick,7,8,0,0,7,8,0,0,0,0,0,0
+Hazelnuts (Filberts),Hanover,1,NA,1,NA,0,0,3,NA,0,0,3,NA
+Hazelnuts (Filberts),Lee,0,0,0,0,0,0,4,NA,2,NA,2,NA
+Hazelnuts (Filberts),Loudoun,3,NA,1,NA,2,NA,0,0,0,0,0,0
+Hazelnuts (Filberts),Louisa,6,NA,0,0,6,NA,0,0,0,0,0,0
+Hazelnuts (Filberts),Mecklenburg,0,0,0,0,0,0,2,NA,0,0,2,NA
+Hazelnuts (Filberts),Nelson,5,NA,5,NA,1,NA,0,0,0,0,0,0
+Hazelnuts (Filberts),Orange,1,NA,0,0,1,NA,0,0,0,0,0,0
+Hazelnuts (Filberts),Rappahannock,0,0,0,0,0,0,2,NA,2,NA,0,0
+Hazelnuts (Filberts),Rockbridge,1,NA,1,NA,0,0,0,0,0,0,0,0
+Hazelnuts (Filberts),Rockingham,0,0,0,0,0,0,5,NA,5,NA,2,NA
+Hazelnuts (Filberts),Shenandoah,4,NA,3,NA,1,NA,0,0,0,0,0,0
+Hazelnuts (Filberts),Smyth,1,NA,0,0,1,NA,0,0,0,0,0,0
+Hazelnuts (Filberts),Spotsylvania,6,1,0,0,6,1,0,0,0,0,0,0
+Hazelnuts (Filberts),Warren,0,0,0,0,0,0,3,1,3,0,3,0
+Hazelnuts (Filberts),Washington,2,NA,0,0,2,NA,2,NA,2,NA,2,NA
+"Pecans, All",Accomack,1,NA,0,0,1,NA,4,NA,4,1,2,NA
+"Pecans, All",Albemarle,1,NA,1,NA,1,NA,3,6,3,3,3,3
+"Pecans, All",Amelia,5,NA,1,NA,4,0,1,NA,1,NA,0,0
+"Pecans, All",Appomattox,3,5,0,0,3,5,0,0,0,0,0,0
+"Pecans, All",Augusta,1,NA,1,NA,1,NA,0,0,0,0,0,0
+"Pecans, All",Bedford,9,2,9,NA,6,NA,7,3,7,3,0,0
+"Pecans, All",Botetourt,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pecans, All",Brunswick,3,NA,2,NA,2,NA,2,NA,2,NA,0,0
+"Pecans, All",Buckingham,0,0,0,0,0,0,2,NA,2,NA,0,0
+"Pecans, All",Caroline,0,0,0,0,0,0,1,NA,0,0,1,NA
+"Pecans, All",Charles City,10,52,7,37,3,15,5,64,3,NA,2,NA
+"Pecans, All",Charlotte,0,0,0,0,0,0,2,NA,0,0,2,NA
+"Pecans, All",Chesterfield,0,0,0,0,0,0,6,2,6,2,0,0
+"Pecans, All",Culpeper,2,NA,2,NA,0,0,3,NA,1,NA,3,NA
+"Pecans, All",Cumberland,1,NA,1,NA,0,0,4,16,4,16,0,0
+"Pecans, All",Dinwiddie,0,0,0,0,0,0,2,NA,2,NA,0,0
+"Pecans, All",Fauquier,0,0,0,0,0,0,6,9,6,NA,2,NA
+"Pecans, All",Gloucester,1,NA,1,NA,0,0,3,14,0,0,3,14
+"Pecans, All",Halifax,1,NA,1,NA,0,0,3,10,0,0,3,10
+"Pecans, All",Henrico,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pecans, All",Henry,2,NA,2,NA,0,0,0,0,0,0,0,0
+"Pecans, All",Isle of Wight,4,16,4,16,0,0,1,NA,1,NA,1,NA
+"Pecans, All",James City,1,NA,1,NA,0,0,2,NA,2,NA,0,0
+"Pecans, All",Loudoun,2,NA,0,0,2,NA,0,0,0,0,0,0
+"Pecans, All",Louisa,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pecans, All",Lunenburg,0,0,0,0,0,0,4,7,4,7,0,0
+"Pecans, All",Madison,5,NA,5,NA,5,1,0,0,0,0,0,0
+"Pecans, All",Mecklenburg,5,NA,3,NA,2,NA,11,NA,2,NA,9,1
+"Pecans, All",Nelson,1,NA,1,NA,1,NA,0,0,0,0,0,0
+"Pecans, All",New Kent,0,0,0,0,0,0,6,6,0,0,6,6
+"Pecans, All",Northampton,0,0,0,0,0,0,2,NA,0,0,2,NA
+"Pecans, All",Pittsylvania,0,0,0,0,0,0,5,NA,5,NA,0,0
+"Pecans, All",Prince George,0,0,0,0,0,0,3,2,3,2,0,0
+"Pecans, All",Pulaski,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pecans, All",Roanoke,3,3,0,0,3,3,0,0,0,0,0,0
+"Pecans, All",Rockbridge,2,NA,1,NA,2,NA,3,NA,1,NA,2,NA
+"Pecans, All",Scott,4,0,4,0,0,0,0,0,0,0,0,0
+"Pecans, All",Shenandoah,1,NA,0,0,1,NA,1,NA,1,NA,0,0
+"Pecans, All",Southampton,2,NA,0,0,2,NA,4,7,4,1,4,6
+"Pecans, All",Spotsylvania,6,NA,0,0,6,NA,0,0,0,0,0,0
+"Pecans, All",Surry,1,NA,1,NA,0,0,2,NA,2,NA,0,0
+"Pecans, All",Sussex,2,NA,1,NA,2,NA,4,90,2,NA,4,NA
+"Pecans, All",Washington,0,0,0,0,0,0,2,NA,0,0,2,NA
+"Pecans, All",Chesapeake City,4,1,0,0,4,1,0,0,0,0,0,0
+"Pecans, All",Suffolk,2,NA,2,NA,0,0,1,NA,0,0,1,NA
+"Pecans, All",Virginia Beach City,2,NA,2,NA,0,0,3,5,3,5,0,0
+"Pecans, Improved",Accomack,1,NA,0,0,1,NA,4,NA,4,1,2,NA
+"Pecans, Improved",Albemarle,1,NA,1,NA,1,NA,3,6,3,3,3,3
+"Pecans, Improved",Amelia,5,NA,1,NA,4,0,1,NA,1,NA,0,0
+"Pecans, Improved",Appomattox,3,5,0,0,3,5,0,0,0,0,0,0
+"Pecans, Improved",Augusta,1,NA,1,NA,1,NA,0,0,0,0,0,0
+"Pecans, Improved",Bedford,9,2,9,NA,6,NA,7,3,7,3,0,0
+"Pecans, Improved",Botetourt,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pecans, Improved",Brunswick,3,NA,2,NA,2,NA,2,NA,2,NA,0,0
+"Pecans, Improved",Buckingham,0,0,0,0,0,0,2,NA,2,NA,0,0
+"Pecans, Improved",Caroline,0,0,0,0,0,0,1,NA,0,0,1,NA
+"Pecans, Improved",Charles City,10,52,7,37,3,15,5,64,3,NA,2,NA
+"Pecans, Improved",Charlotte,0,0,0,0,0,0,2,NA,0,0,2,NA
+"Pecans, Improved",Chesterfield,0,0,0,0,0,0,6,2,6,2,0,0
+"Pecans, Improved",Culpeper,2,NA,2,NA,0,0,3,NA,1,NA,3,NA
+"Pecans, Improved",Cumberland,1,NA,1,NA,0,0,4,16,4,16,0,0
+"Pecans, Improved",Dinwiddie,0,0,0,0,0,0,2,NA,2,NA,0,0
+"Pecans, Improved",Fauquier,0,0,0,0,0,0,6,9,6,NA,2,NA
+"Pecans, Improved",Gloucester,1,NA,1,NA,0,0,3,14,0,0,3,14
+"Pecans, Improved",Halifax,1,NA,1,NA,0,0,3,10,0,0,3,10
+"Pecans, Improved",Henrico,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pecans, Improved",Henry,2,NA,2,NA,0,0,0,0,0,0,0,0
+"Pecans, Improved",Isle of Wight,4,16,4,16,0,0,1,NA,1,NA,1,NA
+"Pecans, Improved",James City,1,NA,1,NA,0,0,2,NA,2,NA,0,0
+"Pecans, Improved",Loudoun,2,NA,0,0,2,NA,0,0,0,0,0,0
+"Pecans, Improved",Louisa,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pecans, Improved",Lunenburg,0,0,0,0,0,0,4,7,4,7,0,0
+"Pecans, Improved",Madison,5,NA,5,NA,5,1,0,0,0,0,0,0
+"Pecans, Improved",Mecklenburg,5,NA,3,NA,2,NA,11,NA,2,NA,9,1
+"Pecans, Improved",Nelson,1,NA,1,NA,1,NA,0,0,0,0,0,0
+"Pecans, Improved",New Kent,0,0,0,0,0,0,6,6,0,0,6,6
+"Pecans, Improved",Northampton,0,0,0,0,0,0,2,NA,0,0,2,NA
+"Pecans, Improved",Pittsylvania,0,0,0,0,0,0,5,NA,5,NA,0,0
+"Pecans, Improved",Prince George,0,0,0,0,0,0,3,2,3,2,0,0
+"Pecans, Improved",Pulaski,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Pecans, Improved",Roanoke,3,3,0,0,3,3,0,0,0,0,0,0
+"Pecans, Improved",Rockbridge,2,NA,1,NA,2,NA,3,NA,1,NA,2,NA
+"Pecans, Improved",Scott,4,0,4,0,0,0,0,0,0,0,0,0
+"Pecans, Improved",Shenandoah,1,NA,0,0,1,NA,1,NA,1,NA,0,0
+"Pecans, Improved",Southampton,2,NA,0,0,2,NA,4,7,4,1,4,6
+"Pecans, Improved",Spotsylvania,6,NA,0,0,6,NA,0,0,0,0,0,0
+"Pecans, Improved",Surry,1,NA,1,NA,0,0,2,NA,2,NA,0,0
+"Pecans, Improved",Sussex,2,NA,1,NA,2,NA,4,90,2,NA,4,NA
+"Pecans, Improved",Washington,0,0,0,0,0,0,2,NA,0,0,2,NA
+"Pecans, Improved",Chesapeake City,4,1,0,0,4,1,0,0,0,0,0,0
+"Pecans, Improved",Suffolk,2,NA,2,NA,0,0,1,NA,0,0,1,NA
+"Pecans, Improved",Virginia Beach City,2,NA,2,NA,0,0,3,5,3,5,0,0
+"Walnuts, English",Accomack,0,0,0,0,0,0,2,NA,2,NA,0,0
+"Walnuts, English",Appomattox,3,2,0,0,3,2,0,0,0,0,0,0
+"Walnuts, English",Bedford,4,1,4,NA,4,NA,10,1,6,1,4,1
+"Walnuts, English",Bland,2,NA,2,NA,0,0,0,0,0,0,0,0
+"Walnuts, English",Botetourt,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Walnuts, English",Buchanan,6,1,0,0,6,1,4,1,4,0,4,0
+"Walnuts, English",Caroline,0,0,0,0,0,0,1,NA,0,0,1,NA
+"Walnuts, English",Charlotte,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Walnuts, English",Craig,1,NA,0,0,1,NA,2,NA,0,0,2,NA
+"Walnuts, English",Fauquier,4,NA,4,NA,0,0,0,0,0,0,0,0
+"Walnuts, English",Frederick,12,1,9,1,3,0,0,0,0,0,0,0
+"Walnuts, English",Greene,3,1,0,0,3,1,0,0,0,0,0,0
+"Walnuts, English",Henrico,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Walnuts, English",Highland,1,NA,1,NA,0,0,1,NA,1,NA,0,0
+"Walnuts, English",Lee,1,NA,1,NA,0,0,1,NA,0,0,1,NA
+"Walnuts, English",Loudoun,6,NA,1,NA,5,1,0,0,0,0,0,0
+"Walnuts, English",Louisa,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Walnuts, English",Madison,2,NA,2,NA,0,0,0,0,0,0,0,0
+"Walnuts, English",Mecklenburg,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Walnuts, English",New Kent,2,NA,0,0,2,NA,0,0,0,0,0,0
+"Walnuts, English",Pittsylvania,1,NA,1,NA,0,0,1,NA,1,NA,0,0
+"Walnuts, English",Prince Edward,1,NA,1,NA,0,0,0,0,0,0,0,0
+"Walnuts, English",Prince William,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Walnuts, English",Rappahannock,1,NA,0,0,1,NA,2,NA,0,0,2,NA
+"Walnuts, English",Rockingham,0,0,0,0,0,0,1,NA,0,0,1,NA
+"Walnuts, English",Scott,1,NA,0,0,1,NA,0,0,0,0,0,0
+"Walnuts, English",Shenandoah,2,NA,1,NA,1,NA,0,0,0,0,0,0
+"Walnuts, English",Washington,2,NA,0,0,2,NA,0,0,0,0,0,0
+"Walnuts, English",Westmoreland,7,7,1,NA,6,NA,0,0,0,0,0,0
+"Walnuts, English",Chesapeake City,4,1,0,0,4,1,0,0,0,0,0,0
+Other Nuts,Albemarle,1,NA,1,NA,0,0,0,0,0,0,0,0
+Other Nuts,Bedford,6,NA,4,NA,6,NA,3,0,3,0,0,0
+Other Nuts,Bland,2,NA,2,NA,0,0,0,0,0,0,0,0
+Other Nuts,Botetourt,1,NA,1,NA,0,0,0,0,0,0,0,0
+Other Nuts,Buckingham,0,0,0,0,0,0,2,NA,2,NA,0,0
+Other Nuts,Campbell,0,0,0,0,0,0,1,NA,1,NA,0,0
+Other Nuts,Clarke,0,0,0,0,0,0,2,NA,2,NA,2,NA
+Other Nuts,Culpeper,1,NA,1,NA,0,0,0,0,0,0,0,0
+Other Nuts,Dinwiddie,0,0,0,0,0,0,1,NA,1,NA,0,0
+Other Nuts,Greene,0,0,0,0,0,0,2,NA,2,NA,0,0
+Other Nuts,Halifax,1,NA,1,NA,0,0,0,0,0,0,0,0
+Other Nuts,Hanover,1,NA,1,NA,0,0,0,0,0,0,0,0
+Other Nuts,Lee,1,NA,1,NA,0,0,2,NA,1,NA,2,NA
+Other Nuts,Loudoun,0,0,0,0,0,0,1,NA,1,NA,0,0
+Other Nuts,Madison,0,0,0,0,0,0,1,NA,1,NA,1,NA
+Other Nuts,Nelson,0,0,0,0,0,0,1,NA,1,NA,0,0
+Other Nuts,Powhatan,3,1,0,0,3,1,0,0,0,0,0,0
+Other Nuts,Prince George,0,0,0,0,0,0,3,NA,3,NA,0,0
+Other Nuts,Russell,0,0,0,0,0,0,1,NA,1,NA,0,0
+Other Nuts,Scott,1,NA,1,NA,0,0,3,NA,3,NA,0,0
+Other Nuts,Spotsylvania,2,NA,2,NA,0,0,0,0,0,0,0,0
+Other Nuts,Tazewell,0,0,0,0,0,0,1,NA,1,NA,0,0
+Other Nuts,Wise,2,NA,2,NA,0,0,2,NA,2,NA,2,NA
