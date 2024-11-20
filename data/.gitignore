@@ -2,3 +2,4 @@
 **/*.tif
 **/*.pt
 satellite_images
+!*.json
