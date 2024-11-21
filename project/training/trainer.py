@@ -40,8 +40,8 @@ def train():
 
     supported_crops = []
     for crop_slug in df.columns:
-        support = ~df[crop_slug].isna().sum()
-        if support > 4:
+        support = (~df[crop_slug].isna()).sum()
+        if support > 10:
             supported_crops.append(crop_slug)
 
     for mode in ["attention", "max_pooler"]:
@@ -81,6 +81,7 @@ def _train(
         model = MaxPooler(512, 512, len(prediction_crops) * 2)
     else:
         raise ValueError("unsupported model type.")
+
     optim = torch.optim.Adam(model.parameters())
 
     metrics = []

@@ -27,7 +27,7 @@ class AttentionPooler(nn.Module):
         self.projection1 = nn.Linear(n_input_features, n_pooling_features)
         self.kv = nn.Linear(n_pooling_features, self.qk_dim + self.v_dim)
         self.query = nn.Embedding(1, self.qk_dim)
-        self.projection2 = nn.Linear(n_pooling_features, n_classes)
+        self.projection2 = nn.Linear(self.v_dim, n_classes)
 
     def forward(self, X: torch.Tensor):
         X = self.projection1(X)
