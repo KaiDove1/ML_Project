@@ -45,11 +45,12 @@ def train():
             supported_crops.append(crop_slug)
 
     for mode in ["attention", "max_pooler"]:
+        print(f"=== Training for mode: {mode} ===")
         for i, crop in enumerate(supported_crops):
             print("Training model for crop", crop, f"({i+1}/{len(supported_crops)})")
             _train(
                 df,
-                results_dir / "single_models" / crop,
+                results_dir / f"mode={mode}" / "single_models" / crop,
                 [crop],
                 patches_per_county,
                 mode=mode,
@@ -58,7 +59,7 @@ def train():
         print("Training combined model...")
         _train(
             df,
-            results_dir / "combined_model",
+            results_dir / f"mode={mode}" / "combined_model",
             supported_crops,
             patches_per_county,
             mode=mode,
