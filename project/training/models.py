@@ -11,7 +11,7 @@ class SimpleFeatureProjector(nn.Module):
 
     def forward(self, X: torch.Tensor):
         X = self.projection1(X)
-        X_pooled = X.max(dim=-2)
-        y = self.projection1(X_pooled)
+        X_pooled, _indices = X.max(dim=-2)
+        y = self.projection2(X_pooled)
 
         return y
