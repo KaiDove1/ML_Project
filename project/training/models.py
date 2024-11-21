@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 
 
-class SimpleFeatureProjector(nn.Module):
+class MaxPooler(nn.Module):
     def __init__(self, n_input_features: int, n_pooling_features: int, n_classes: int):
         super().__init__()
 

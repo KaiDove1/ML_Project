@@ -12,7 +12,7 @@ from sklearn.metrics import f1_score
 
 from project.data.dirs import DATA_PATH
 from project.data.load_patches import load_patches
-from project.training.models import AttentionPooler, SimpleFeatureProjector
+from project.training.models import AttentionPooler, MaxPooler
 
 
 # TO CONSIDER: Instead of training from scratch, we may want to try using an autoencoder.
@@ -29,9 +29,6 @@ def train():
         / datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     )
 
-    with open(DATA_PATH / "crop_ontology.json", "r") as f:
-        crop_ontology = json.load(f)
-
     df = pd.read_csv(DATA_PATH / "va_crops_2022.csv", index_col="county")
 
     # Train a CNN. For this, we will just take the mean-squared-error of each crop.
@@ -43,16 +40,29 @@ def train():
 
     supported_crops = []
     for crop_slug in df.columns:
-        if not df[crop_slug].isna().all():
+        support = ~df[crop_slug].isna().sum()
+        if support > 4:
             supported_crops.append(crop_slug)
 
-    for i, crop in enumerate(supported_crops):
-        print("Training model for crop", crop, f"({i+1}/{len(supported_crops)})")
-        _train(df, results_dir / "single_models" / crop, [crop], patches_per_county)
+    for mode in ["attention", "max_pooler"]:
+        for i, crop in enumerate(supported_crops):
+            print("Training model for crop", crop, f"({i+1}/{len(supported_crops)})")
+            _train(
+                df,
+                results_dir / "single_models" / crop,
+                [crop],
+                patches_per_county,
+                mode=mode,
+            )
 
-    for crop in supported_crops:
         print("Training combined model...")
-        _train(df, results_dir / "combined_model", supported_crops, patches_per_county)
+        _train(
+            df,
+            results_dir / "combined_model",
+            supported_crops,
+            patches_per_county,
+            mode=mode,
+        )
 
 
 def _train(
@@ -60,12 +70,17 @@ def _train(
     results_dir: Path,
     prediction_crops: List[str],
     patches_per_county: dict,
+    mode="attention",
 ):
     per_crop_results_dir = results_dir / "per_crop"
     per_crop_results_dir.mkdir(parents=True, exist_ok=True)
 
-    model = SimpleFeatureProjector(512, 512, len(prediction_crops) * 2)
-    # model = AttentionPooler(512, 256, 60 * 2)
+    if mode == "attention":
+        model = AttentionPooler(512, 512, len(prediction_crops) * 2)
+    elif mode == "max_pooler":
+        model = MaxPooler(512, 512, len(prediction_crops) * 2)
+    else:
+        raise ValueError("unsupported model type.")
     optim = torch.optim.Adam(model.parameters())
 
     metrics = []
@@ -214,7 +229,7 @@ def _train(
 
     # Save final results
     train_metrics_df[train_metrics_df["epoch"] == epochs - 1].to_csv(
-        results_dir / "final_train_metrics.csv"
+        results_dir / "final_train_metrics.csv", index=False
     )
 
 
