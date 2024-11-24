@@ -31,6 +31,13 @@ def train():
 
     df = pd.read_csv(DATA_PATH / "va_crops_2022.csv", index_col="county")
 
+    # Create a train-test split per county.
+    counties = df["county"].to_list()
+    rand = np.random.RandomState(seed=0)
+    rand.shuffle(counties)
+    train_counties = counties[: int(0.8 * len(counties))]
+    eval_counties = counties[int(0.8 * len(counties)) :]
+
     # Train a CNN. For this, we will just take the mean-squared-error of each crop.
     # We will output two primary features:
     # (a) whether a crop is farmed in a county, and
@@ -53,6 +60,8 @@ def train():
                 results_dir / f"mode={mode}" / "single_models" / crop,
                 [crop],
                 patches_per_county,
+                train_counties=train_counties,
+                eval_counties=eval_counties,
                 mode=mode,
             )
 
@@ -62,6 +71,8 @@ def train():
             results_dir / f"mode={mode}" / "combined_model",
             supported_crops,
             patches_per_county,
+            train_counties=train_counties,
+            eval_counties=eval_counties,
             mode=mode,
         )
 
@@ -71,6 +82,8 @@ def _train(
     results_dir: Path,
     prediction_crops: List[str],
     patches_per_county: dict,
+    train_counties: list[str],
+    eval_counties: list[str],
     mode="attention",
 ):
     per_crop_results_dir = results_dir / "per_crop"
@@ -107,6 +120,9 @@ def _train(
             # Get crop counts for this county.
 
             if county not in df.index:
+                continue
+
+            if county not in train_counties:
                 continue
 
             patch_features = torch.stack(
@@ -154,6 +170,8 @@ def _train(
                     "total_loss": loss.item(),
                 }
             )
+
+        # Evaluate on eval counties.
 
         ### Calculate statistics for model performance. ###
         # 1) f1-score, 2) RMSE.
@@ -233,6 +251,8 @@ def _train(
     train_metrics_df[train_metrics_df["epoch"] == epochs - 1].to_csv(
         results_dir / "final_train_metrics.csv", index=False
     )
+
+    torch.save(model.state_dict(), results_dir / "final_model.pt")
 
 
 if __name__ == "__main__":
