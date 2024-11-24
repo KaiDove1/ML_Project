@@ -11,7 +11,7 @@ import numpy as np
 import PIL.Image
 import tqdm
 
-DATA_PATH = Path(os.path.dirname(__file__)) / "../../data"
+DATA_PATH = Path(os.path.dirname(__file__)) / "../../../data"
 
 
 def extract_patches(state: str, county: str, max_empty_pixel_ratio: float):
@@ -28,6 +28,14 @@ def extract_patches(state: str, county: str, max_empty_pixel_ratio: float):
     grid_width = image.shape[1] // 224
     grid_height = image.shape[0] // 224
 
+    patch_spacing = 32
+    patchified_image_width = (grid_width - 1) * patch_spacing + 224 * grid_width
+    patchified_image_height = (grid_height - 1) * patch_spacing + 224 * grid_height
+    patchified_image = (
+        np.zeros((patchified_image_height, patchified_image_width, 3), dtype=np.uint8)
+        + 255
+    )
+
     # Identify a patch.
     for grid_x in range(grid_width):
         for grid_y in range(grid_height):
@@ -39,7 +47,16 @@ def extract_patches(state: str, county: str, max_empty_pixel_ratio: float):
             if (empty_pixels / (224 * 224)) > max_empty_pixel_ratio:
                 continue
 
-            PIL.Image.fromarray(patch).save(patches_path / f"grid{grid_x}_{grid_y}.png")
+            # PIL.Image.fromarray(patch).save(patches_path / f"grid{grid_x}_{grid_y}.png")
+
+            patchified_image_start_y = grid_y * 224 + grid_y * 32
+            patchified_image_start_x = grid_x * 224 + grid_x * 32
+            patchified_image[
+                patchified_image_start_y : patchified_image_start_y + 224,
+                patchified_image_start_x : patchified_image_start_x + 224,
+            ] = patch
+
+    PIL.Image.fromarray(patchified_image).save("patchified.png")
 
 
 def main():
@@ -49,6 +66,10 @@ def main():
     for county in tqdm.tqdm(county_dirs, desc="Extracting patches"):
         state = county.parent.name
         county = county.name
+
+        if county != "amherst":
+            continue
+
         extract_patches(state, county, max_empty_pixel_ratio=0.2)
 
 
