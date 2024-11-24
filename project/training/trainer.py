@@ -1,12 +1,10 @@
 import datetime
-import json
 from pathlib import Path
 from typing import List, cast
 
 import numpy as np
 import pandas as pd
 import torch
-import torch.nn.functional as F
 from matplotlib import pyplot as plt
 from sklearn.metrics import f1_score
 
@@ -32,7 +30,7 @@ def train():
     df = pd.read_csv(DATA_PATH / "va_crops_2022.csv", index_col="county")
 
     # Create a train-test split per county.
-    counties = df["county"].to_list()
+    counties = df.index.to_list()
     rand = np.random.RandomState(seed=0)
     rand.shuffle(counties)
     train_counties = counties[: int(0.8 * len(counties))]
@@ -47,9 +45,15 @@ def train():
 
     supported_crops = []
     for crop_slug in df.columns:
-        support = (~df[crop_slug].isna()).sum()
-        if support > 10:
+        has_data = ~df[crop_slug].isna()
+        support = 0
+        for item in has_data.index:
+            if item in eval_counties and has_data.loc[item]:
+                support += 1
+        if support >= 5:
             supported_crops.append(crop_slug)
+
+    # Calculate
 
     for mode in ["attention", "max_pooler"]:
         print(f"=== Training for mode: {mode} ===")
@@ -151,10 +155,10 @@ def _train(
                 @ class_weights[has_crop]
             ).mean()
 
-            presence_prediction_logits.append(presence_prediction_logits_)
-            presence_trues.append(has_crop)
-            regression_predictions.append(regression_predictions_)
-            regression_trues.append(productivities)
+            # presence_prediction_logits.append(presence_prediction_logits_)
+            # presence_trues.append(has_crop)
+            # regression_predictions.append(regression_predictions_)
+            # regression_trues.append(productivities)
 
             loss = presence_loss + regression_loss
             optim.zero_grad()
@@ -172,6 +176,28 @@ def _train(
             )
 
         # Evaluate on eval counties.
+        for i, (county, patches) in enumerate(patches_per_county.items()):
+            if county not in eval_counties:
+                continue
+
+            patch_features = torch.stack(
+                [patch["resnet_features"] for patch in patches]
+            )
+            outputs = model(patch_features)
+            productivities = torch.tensor(
+                df.loc[county].to_numpy()[crop_indexes_in_df],
+                device=outputs.device,
+                dtype=torch.float32,
+            )
+            has_crop = ~torch.isnan(productivities)
+
+            presence_prediction_logits_, regression_predictions_ = torch.split(
+                outputs, len(prediction_crops), dim=-1
+            )
+            presence_prediction_logits.append(presence_prediction_logits_)
+            regression_predictions.append(regression_predictions_)
+            regression_trues.append(productivities)
+            presence_trues.append(has_crop)
 
         ### Calculate statistics for model performance. ###
         # 1) f1-score, 2) RMSE.
@@ -215,6 +241,10 @@ def _train(
                         "support": sum(presence_trues[index]),
                     }
                 )
+
+        if len(train_metrics) == 0:
+            # No validation data for this crop.
+            return
 
         pd.DataFrame(train_metrics).to_csv(results_dir / f"train_metrics.csv")
 
